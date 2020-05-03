@@ -20,7 +20,6 @@ jobs:
         git push --tags
     - name: Update cocoapods
       run: |
-        pod spec lint --allow-warnings
         export COCOAPODS_TRUNK_TOKEN=${{secrets.COCOAPODS_TRUNK_TOKEN}}
         pod trunk push AppBoxoSDK.podspec
         pod repo push https://github.com/Appboxo/ios-sdk-binary AppBoxoSDK.podspec
