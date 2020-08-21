@@ -219,8 +219,10 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppBoxo * _N
 - (nonnull instancetype)initWithConfig:(Config * _Nonnull)config OBJC_DESIGNATED_INITIALIZER;
 - (void)setConfig:(Config * _Nonnull)config;
 - (Config * _Nonnull)getConfig SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)createMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_MSG("Use method getMiniApp(appId: authPayload: data:) instead");
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload SWIFT_WARN_UNUSED_RESULT;
 - (MiniApp * _Nullable)getMiniAppWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
 - (void)hideAllMiniApps;
 - (void)logout;
@@ -247,10 +249,12 @@ SWIFT_CLASS_NAMED("MiniApp")
 @interface MiniApp : NSObject
 @property (nonatomic, copy) NSString * _Nonnull appId;
 @property (nonatomic, copy) NSString * _Nonnull authPayload;
-@property (nonatomic, copy) NSString * _Nonnull data;
+@property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable additionalUserFields;
+@property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable data;
 @property (nonatomic, strong) id <MiniAppDelegate> _Nullable delegate;
 @property (nonatomic, strong) MiniAppConfig * _Nullable config;
-- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data;
 - (void)openWithViewController:(UIViewController * _Nonnull)viewController;
 - (void)sendEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)close;
@@ -543,8 +547,10 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppBoxo * _N
 - (nonnull instancetype)initWithConfig:(Config * _Nonnull)config OBJC_DESIGNATED_INITIALIZER;
 - (void)setConfig:(Config * _Nonnull)config;
 - (Config * _Nonnull)getConfig SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)createMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_MSG("Use method getMiniApp(appId: authPayload: data:) instead");
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload SWIFT_WARN_UNUSED_RESULT;
 - (MiniApp * _Nullable)getMiniAppWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
 - (void)hideAllMiniApps;
 - (void)logout;
@@ -571,10 +577,12 @@ SWIFT_CLASS_NAMED("MiniApp")
 @interface MiniApp : NSObject
 @property (nonatomic, copy) NSString * _Nonnull appId;
 @property (nonatomic, copy) NSString * _Nonnull authPayload;
-@property (nonatomic, copy) NSString * _Nonnull data;
+@property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable additionalUserFields;
+@property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable data;
 @property (nonatomic, strong) id <MiniAppDelegate> _Nullable delegate;
 @property (nonatomic, strong) MiniAppConfig * _Nullable config;
-- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSString * _Nonnull)data OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data;
 - (void)openWithViewController:(UIViewController * _Nonnull)viewController;
 - (void)sendEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)close;
