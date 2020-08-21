@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
     
     s.platform = :ios
-    s.ios.deployment_target = '11.0'
+    s.ios.deployment_target = '9.0'
     s.name = "AppBoxoSDK"
     s.summary = "AppBoxo allows to run any web application on the fly."
     s.requires_arc = true
