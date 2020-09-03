@@ -3,11 +3,11 @@
 Pod::Spec.new do |s|
     
     s.platform = :ios
-    s.ios.deployment_target = '11.0'
+    s.ios.deployment_target = '10.0'
     s.name = "AppBoxoSDK"
     s.summary = "AppBoxo allows to run any web application on the fly."
     s.requires_arc = true
-    s.version = "1.3.26"
+    s.version = "1.3.27"
     s.license = "Apache 2.0"
     s.author = { "Appboxo" => "signup@appboxo.com" }
     s.frameworks = "UIKit", "WebKit", "SafariServices", "CoreLocation", "CoreMotion"
