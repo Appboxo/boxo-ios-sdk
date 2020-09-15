@@ -234,10 +234,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppBoxo * _N
 
 
 
+enum Theme : NSInteger;
 
 SWIFT_CLASS_NAMED("Config")
 @interface Config : NSObject
-- (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
+- (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
@@ -279,7 +281,9 @@ SWIFT_CLASS_NAMED("MiniAppColor")
 SWIFT_CLASS_NAMED("MiniAppConfig")
 @interface MiniAppConfig : NSObject
 @property (nonatomic, strong) MiniAppColor * _Nullable color;
-- (nonnull instancetype)initWithColor:(MiniAppColor * _Nullable)color OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithTheme:(enum Theme)theme;
+- (nonnull instancetype)initWithColor:(MiniAppColor * _Nonnull)color;
+- (nonnull instancetype)initWithColor:(MiniAppColor * _Nullable)color theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
 - (void)setColorWithColor:(MiniAppColor * _Nonnull)color;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
@@ -296,6 +300,14 @@ SWIFT_PROTOCOL_NAMED("MiniAppDelegate")
 - (void)onCloseMiniApp:(MiniApp * _Nonnull)miniApp;
 - (void)onErrorMiniApp:(MiniApp * _Nonnull)miniApp message:(NSString * _Nonnull)message;
 @end
+
+
+
+typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {
+  ThemeDark = 0,
+  ThemeLight = 1,
+  ThemeSystem = 2,
+};
 
 
 

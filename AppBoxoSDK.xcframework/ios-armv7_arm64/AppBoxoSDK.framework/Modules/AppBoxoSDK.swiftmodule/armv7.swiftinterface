@@ -14,7 +14,10 @@ import UIKit
 import WebKit
 @objc(MiniAppConfig) public class MiniAppConfig : ObjectiveC.NSObject {
   @objc public var color: AppBoxoSDK.MiniAppColor?
-  @objc required public init(color: AppBoxoSDK.MiniAppColor? = nil)
+  public var theme: AppBoxoSDK.Theme?
+  @objc(initWithTheme:) convenience public init(theme: AppBoxoSDK.Theme)
+  @objc(initWithColor:) convenience public init(color: AppBoxoSDK.MiniAppColor)
+  @objc(initWithColor:theme:) required public init(color: AppBoxoSDK.MiniAppColor?, theme: AppBoxoSDK.Theme)
   @objc public func setColor(color: AppBoxoSDK.MiniAppColor)
   @objc deinit
   @objc override dynamic public init()
@@ -29,8 +32,19 @@ import WebKit
   required public init(from decoder: Swift.Decoder) throws
   public func encode(to encoder: Swift.Encoder) throws
 }
+@objc(Theme) public enum Theme : Swift.Int {
+  case Dark = 0
+  case Light = 1
+  case System = 2
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 @objc(Config) public class Config : ObjectiveC.NSObject {
-  @objc(initWithClientId:) required public init(clientId: Swift.String)
+  @objc(initWithClientId:) convenience public init(clientId: Swift.String)
+  @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: AppBoxoSDK.Theme)
   @objc override dynamic public init()
   @objc deinit
 }
@@ -74,3 +88,6 @@ import WebKit
   @objc override dynamic public init()
   @objc deinit
 }
+extension AppBoxoSDK.Theme : Swift.Equatable {}
+extension AppBoxoSDK.Theme : Swift.Hashable {}
+extension AppBoxoSDK.Theme : Swift.RawRepresentable {}
