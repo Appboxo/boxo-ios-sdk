@@ -211,27 +211,26 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 @class Config;
-@class MiniApp;
+@class Miniapp;
 
-SWIFT_CLASS_NAMED("AppBoxo")
-@interface AppBoxo : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppBoxo * _Nonnull shared;)
-+ (AppBoxo * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_NAMED("Appboxo")
+@interface Appboxo : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Appboxo * _Nonnull shared;)
++ (Appboxo * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)initWithConfig:(Config * _Nonnull)config OBJC_DESIGNATED_INITIALIZER;
 - (void)setConfig:(Config * _Nonnull)config;
 - (Config * _Nonnull)getConfig SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nonnull)getMiniAppWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload SWIFT_WARN_UNUSED_RESULT;
-- (MiniApp * _Nullable)getMiniAppWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
-- (void)hideAllMiniApps;
+- (Miniapp * _Nonnull)getMiniappWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (Miniapp * _Nonnull)getMiniappWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields SWIFT_WARN_UNUSED_RESULT;
+- (Miniapp * _Nonnull)getMiniappWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data SWIFT_WARN_UNUSED_RESULT;
+- (Miniapp * _Nonnull)getMiniappWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload SWIFT_WARN_UNUSED_RESULT;
+- (Miniapp * _Nullable)getMiniappWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
+- (void)hideMiniapps;
 - (void)logout;
 - (void)destroyAppId:(NSString * _Nonnull)appId;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
-
 
 
 enum Theme : NSInteger;
@@ -244,31 +243,31 @@ SWIFT_CLASS_NAMED("Config")
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
-@protocol MiniAppDelegate;
-@class MiniAppConfig;
+@protocol MiniappDelegate;
+@class MiniappConfig;
 @class UIViewController;
 
-SWIFT_CLASS_NAMED("MiniApp")
-@interface MiniApp : NSObject
+SWIFT_CLASS_NAMED("Miniapp")
+@interface Miniapp : NSObject
 @property (nonatomic, copy) NSString * _Nonnull appId;
 @property (nonatomic, copy) NSString * _Nonnull authPayload;
 @property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable additionalUserFields;
 @property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable data;
-@property (nonatomic, strong) id <MiniAppDelegate> _Nullable delegate;
-@property (nonatomic, strong) MiniAppConfig * _Nullable config;
+@property (nonatomic, strong) id <MiniappDelegate> _Nullable delegate;
+@property (nonatomic, strong) MiniappConfig * _Nullable config;
 - (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data;
 - (void)openWithViewController:(UIViewController * _Nonnull)viewController;
 - (void)sendEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)close;
-- (void)setConfigWithConfig:(MiniAppConfig * _Nullable)config;
+- (void)setConfigWithConfig:(MiniappConfig * _Nullable)config;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
 
-SWIFT_CLASS_NAMED("MiniAppColor")
-@interface MiniAppColor : NSObject
+SWIFT_CLASS_NAMED("MiniappColor")
+@interface MiniappColor : NSObject
 @property (nonatomic, copy) NSString * _Nullable primaryColor;
 @property (nonatomic, copy) NSString * _Nullable secondaryColor;
 @property (nonatomic, copy) NSString * _Nullable tertiaryColor;
@@ -278,27 +277,27 @@ SWIFT_CLASS_NAMED("MiniAppColor")
 @end
 
 
-SWIFT_CLASS_NAMED("MiniAppConfig")
-@interface MiniAppConfig : NSObject
-@property (nonatomic, strong) MiniAppColor * _Nullable color;
+SWIFT_CLASS_NAMED("MiniappConfig")
+@interface MiniappConfig : NSObject
+@property (nonatomic, strong) MiniappColor * _Nullable color;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
-- (nonnull instancetype)initWithColor:(MiniAppColor * _Nonnull)color;
-- (nonnull instancetype)initWithColor:(MiniAppColor * _Nullable)color theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
-- (void)setColorWithColor:(MiniAppColor * _Nonnull)color;
+- (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
+- (nonnull instancetype)initWithColor:(MiniappColor * _Nullable)color theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
+- (void)setColorWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
 
-SWIFT_PROTOCOL_NAMED("MiniAppDelegate")
-@protocol MiniAppDelegate
+SWIFT_PROTOCOL_NAMED("MiniappDelegate")
+@protocol MiniappDelegate
 @optional
-- (void)didReceiveCustomEventWithMiniApp:(MiniApp * _Nonnull)miniApp params:(NSDictionary<NSString *, id> * _Nonnull)params;
-- (void)onLaunchMiniApp:(MiniApp * _Nonnull)miniApp;
-- (void)onResumeMiniApp:(MiniApp * _Nonnull)miniApp;
-- (void)onPauseMiniApp:(MiniApp * _Nonnull)miniApp;
-- (void)onCloseMiniApp:(MiniApp * _Nonnull)miniApp;
-- (void)onErrorMiniApp:(MiniApp * _Nonnull)miniApp message:(NSString * _Nonnull)message;
+- (void)didReceiveCustomEventWithMiniapp:(Miniapp * _Nonnull)miniapp params:(NSDictionary<NSString *, id> * _Nonnull)params;
+- (void)onLaunchMiniapp:(Miniapp * _Nonnull)miniapp;
+- (void)onResumeMiniapp:(Miniapp * _Nonnull)miniapp;
+- (void)onPauseMiniapp:(Miniapp * _Nonnull)miniapp;
+- (void)onCloseMiniapp:(Miniapp * _Nonnull)miniapp;
+- (void)onErrorMiniapp:(Miniapp * _Nonnull)miniapp message:(NSString * _Nonnull)message;
 @end
 
 

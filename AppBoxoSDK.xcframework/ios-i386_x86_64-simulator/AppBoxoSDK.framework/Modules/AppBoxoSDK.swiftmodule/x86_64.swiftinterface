@@ -12,17 +12,17 @@ import SafariServices
 import Swift
 import UIKit
 import WebKit
-@objc(MiniAppConfig) public class MiniAppConfig : ObjectiveC.NSObject {
-  @objc public var color: AppBoxoSDK.MiniAppColor?
+@objc(MiniappConfig) public class MiniappConfig : ObjectiveC.NSObject {
+  @objc public var color: AppBoxoSDK.MiniappColor?
   public var theme: AppBoxoSDK.Theme?
   @objc(initWithTheme:) convenience public init(theme: AppBoxoSDK.Theme)
-  @objc(initWithColor:) convenience public init(color: AppBoxoSDK.MiniAppColor)
-  @objc(initWithColor:theme:) required public init(color: AppBoxoSDK.MiniAppColor?, theme: AppBoxoSDK.Theme)
-  @objc public func setColor(color: AppBoxoSDK.MiniAppColor)
+  @objc(initWithColor:) convenience public init(color: AppBoxoSDK.MiniappColor)
+  @objc(initWithColor:theme:) required public init(color: AppBoxoSDK.MiniappColor?, theme: AppBoxoSDK.Theme)
+  @objc public func setColor(color: AppBoxoSDK.MiniappColor)
   @objc deinit
   @objc override dynamic public init()
 }
-@objc(MiniAppColor) public class MiniAppColor : ObjectiveC.NSObject, Swift.Codable {
+@objc(MiniappColor) public class MiniappColor : ObjectiveC.NSObject, Swift.Codable {
   @objc public var primaryColor: Swift.String?
   @objc public var secondaryColor: Swift.String?
   @objc public var tertiaryColor: Swift.String?
@@ -48,43 +48,43 @@ import WebKit
   @objc override dynamic public init()
   @objc deinit
 }
-@objc(AppBoxo) public class AppBoxo : ObjectiveC.NSObject {
-  @objc public static let shared: AppBoxoSDK.AppBoxo
+@objc(Appboxo) public class Appboxo : ObjectiveC.NSObject {
+  @objc public static let shared: AppBoxoSDK.Appboxo
   @objc required public init(config: AppBoxoSDK.Config)
   @objc(setConfig:) public func setConfig(config: AppBoxoSDK.Config)
   @objc(getConfig) public func getConfig() -> AppBoxoSDK.Config
-  @objc(getMiniAppWithAppId:authPayload:additionalUserFields:data:) public func getMiniApp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil) -> AppBoxoSDK.MiniApp
-  @objc(getMiniAppWithAppId:authPayload:additionalUserFields:) public func getMiniApp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil) -> AppBoxoSDK.MiniApp
-  @objc(getMiniAppWithAppId:authPayload:data:) public func getMiniApp(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil) -> AppBoxoSDK.MiniApp
-  @objc(getMiniAppWithAppId:authPayload:) public func getMiniApp(appId: Swift.String, authPayload: Swift.String = "") -> AppBoxoSDK.MiniApp
-  @objc(getMiniAppWithAppId:) public func getMiniApp(appId: Swift.String) -> AppBoxoSDK.MiniApp?
-  @objc(hideAllMiniApps) public func hideAllMiniApps()
+  @objc(getMiniappWithAppId:authPayload:additionalUserFields:data:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
+  @objc(getMiniappWithAppId:authPayload:additionalUserFields:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
+  @objc(getMiniappWithAppId:authPayload:data:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
+  @objc(getMiniappWithAppId:authPayload:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "") -> AppBoxoSDK.Miniapp
+  @objc(getMiniappWithAppId:) public func getMiniapp(appId: Swift.String) -> AppBoxoSDK.Miniapp?
+  @objc(hideMiniapps) public func hideMiniapps()
   @objc(logout) public func logout()
   @objc(destroyAppId:) public func destroy(appId: Swift.String)
   @objc override dynamic public init()
   @objc deinit
 }
-@objc(MiniAppDelegate) public protocol MiniAppDelegate {
-  @objc optional func didReceiveCustomEvent(miniApp: AppBoxoSDK.MiniApp, params: [Swift.String : Any])
-  @objc(onLaunchMiniApp:) optional func onLaunch(miniApp: AppBoxoSDK.MiniApp)
-  @objc(onResumeMiniApp:) optional func onResume(miniApp: AppBoxoSDK.MiniApp)
-  @objc(onPauseMiniApp:) optional func onPause(miniApp: AppBoxoSDK.MiniApp)
-  @objc(onCloseMiniApp:) optional func onClose(miniApp: AppBoxoSDK.MiniApp)
-  @objc(onErrorMiniApp:message:) optional func onError(miniApp: AppBoxoSDK.MiniApp, message: Swift.String)
+@objc(MiniappDelegate) public protocol MiniappDelegate {
+  @objc optional func didReceiveCustomEvent(miniapp: AppBoxoSDK.Miniapp, params: [Swift.String : Any])
+  @objc(onLaunchMiniapp:) optional func onLaunch(miniapp: AppBoxoSDK.Miniapp)
+  @objc(onResumeMiniapp:) optional func onResume(miniapp: AppBoxoSDK.Miniapp)
+  @objc(onPauseMiniapp:) optional func onPause(miniapp: AppBoxoSDK.Miniapp)
+  @objc(onCloseMiniapp:) optional func onClose(miniapp: AppBoxoSDK.Miniapp)
+  @objc(onErrorMiniapp:message:) optional func onError(miniapp: AppBoxoSDK.Miniapp, message: Swift.String)
 }
-@objc(MiniApp) public class MiniApp : ObjectiveC.NSObject {
+@objc(Miniapp) public class Miniapp : ObjectiveC.NSObject {
   @objc public var appId: Swift.String
   @objc public var authPayload: Swift.String
   @objc public var additionalUserFields: [Swift.String : Any]?
   @objc public var data: [Swift.String : Any]?
-  @objc public var delegate: AppBoxoSDK.MiniAppDelegate?
-  @objc public var config: AppBoxoSDK.MiniAppConfig?
+  @objc public var delegate: AppBoxoSDK.MiniappDelegate?
+  @objc public var config: AppBoxoSDK.MiniappConfig?
   @objc(initWithAppId:authPayload:additionalUserFields:data:) required public init(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil)
   @objc(initWithAppId:authPayload:data:) convenience public init(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil)
   @objc(openWithViewController:) public func open(viewController: UIKit.UIViewController)
   @objc(sendEventWithParams:) public func sendEvent(params: [Swift.String : Any])
   @objc(close) public func close()
-  @objc(setConfigWithConfig:) public func setConfig(config: AppBoxoSDK.MiniAppConfig?)
+  @objc(setConfigWithConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
   @objc override dynamic public init()
   @objc deinit
 }
