@@ -258,7 +258,8 @@ SWIFT_CLASS_NAMED("Miniapp")
 - (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload additionalUserFields:(NSDictionary<NSString *, id> * _Nullable)additionalUserFields data:(NSDictionary<NSString *, id> * _Nullable)data OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithAppId:(NSString * _Nonnull)appId authPayload:(NSString * _Nonnull)authPayload data:(NSDictionary<NSString *, id> * _Nullable)data;
 - (void)openWithViewController:(UIViewController * _Nonnull)viewController;
-- (void)sendEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
+- (void)sendCustomEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
+- (void)sendPaymentEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)close;
 - (void)setConfigWithConfig:(MiniappConfig * _Nullable)config;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -293,13 +294,13 @@ SWIFT_PROTOCOL_NAMED("MiniappDelegate")
 @protocol MiniappDelegate
 @optional
 - (void)didReceiveCustomEventWithMiniapp:(Miniapp * _Nonnull)miniapp params:(NSDictionary<NSString *, id> * _Nonnull)params;
+- (void)didReceivePaymentEventWithMiniapp:(Miniapp * _Nonnull)miniapp params:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)onLaunchMiniapp:(Miniapp * _Nonnull)miniapp;
 - (void)onResumeMiniapp:(Miniapp * _Nonnull)miniapp;
 - (void)onPauseMiniapp:(Miniapp * _Nonnull)miniapp;
 - (void)onCloseMiniapp:(Miniapp * _Nonnull)miniapp;
 - (void)onErrorMiniapp:(Miniapp * _Nonnull)miniapp message:(NSString * _Nonnull)message;
 @end
-
 
 
 typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {

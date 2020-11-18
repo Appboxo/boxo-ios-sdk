@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.2 effective-4.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)
+// swift-compiler-version: Apple Swift version 5.2.2 effective-4.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)
 // swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name AppBoxoSDK
 import AVFoundation
 @_exported import AppBoxoSDK
@@ -66,6 +66,7 @@ import WebKit
 }
 @objc(MiniappDelegate) public protocol MiniappDelegate {
   @objc optional func didReceiveCustomEvent(miniapp: AppBoxoSDK.Miniapp, params: [Swift.String : Any])
+  @objc optional func didReceivePaymentEvent(miniapp: AppBoxoSDK.Miniapp, params: [Swift.String : Any])
   @objc(onLaunchMiniapp:) optional func onLaunch(miniapp: AppBoxoSDK.Miniapp)
   @objc(onResumeMiniapp:) optional func onResume(miniapp: AppBoxoSDK.Miniapp)
   @objc(onPauseMiniapp:) optional func onPause(miniapp: AppBoxoSDK.Miniapp)
@@ -82,7 +83,8 @@ import WebKit
   @objc(initWithAppId:authPayload:additionalUserFields:data:) required public init(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil)
   @objc(initWithAppId:authPayload:data:) convenience public init(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil)
   @objc(openWithViewController:) public func open(viewController: UIKit.UIViewController)
-  @objc(sendEventWithParams:) public func sendEvent(params: [Swift.String : Any])
+  @objc(sendCustomEventWithParams:) public func sendCustomEvent(params: [Swift.String : Any])
+  @objc(sendPaymentEventWithParams:) public func sendPaymentEvent(params: [Swift.String : Any])
   @objc(close) public func close()
   @objc(setConfigWithConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
   @objc override dynamic public init()
