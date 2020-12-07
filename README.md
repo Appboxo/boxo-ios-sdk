@@ -6,8 +6,8 @@
   
 **Make sure that your project meets the following requirements:**
 
-  - Your project must target iOS 11.1 or later.
-  - Swift projects must use Swift 5.0 or later.
+  - Your project must target iOS 10 or later.
+  - Swift projects must use Swift 4.2 or later.
   
   
   
