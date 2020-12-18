@@ -262,6 +262,8 @@ SWIFT_CLASS_NAMED("Miniapp")
 - (void)sendPaymentEventWithParams:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)close;
 - (void)setConfigWithConfig:(MiniappConfig * _Nullable)config;
+- (void)showCustomActionMenuItem;
+- (void)hideCustomActionMenuItem;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
@@ -277,6 +279,7 @@ SWIFT_CLASS_NAMED("MiniappColor")
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
+@class UIImage;
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
@@ -285,6 +288,7 @@ SWIFT_CLASS_NAMED("MiniappConfig")
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nullable)color theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
 - (void)setColorWithColor:(MiniappColor * _Nonnull)color;
+- (void)setCustomActionMenuItemWithImage:(UIImage * _Nullable)image;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
@@ -293,6 +297,8 @@ SWIFT_CLASS_NAMED("MiniappConfig")
 SWIFT_PROTOCOL_NAMED("MiniappDelegate")
 @protocol MiniappDelegate
 @optional
+- (void)didSelectCustomActionMenuItemEvent:(Miniapp * _Nonnull)miniapp;
+- (void)didChangeUrlEvent:(Miniapp * _Nonnull)miniapp url:(NSURL * _Nonnull)url;
 - (void)didReceiveCustomEventWithMiniapp:(Miniapp * _Nonnull)miniapp params:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)didReceivePaymentEventWithMiniapp:(Miniapp * _Nonnull)miniapp params:(NSDictionary<NSString *, id> * _Nonnull)params;
 - (void)onLaunchMiniapp:(Miniapp * _Nonnull)miniapp;

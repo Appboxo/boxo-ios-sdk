@@ -15,10 +15,12 @@ import WebKit
 @objc(MiniappConfig) public class MiniappConfig : ObjectiveC.NSObject {
   @objc public var color: AppBoxoSDK.MiniappColor?
   public var theme: AppBoxoSDK.Theme?
+  public var params: [Swift.String : Swift.String]?
   @objc(initWithTheme:) convenience public init(theme: AppBoxoSDK.Theme)
   @objc(initWithColor:) convenience public init(color: AppBoxoSDK.MiniappColor)
   @objc(initWithColor:theme:) required public init(color: AppBoxoSDK.MiniappColor?, theme: AppBoxoSDK.Theme)
   @objc public func setColor(color: AppBoxoSDK.MiniappColor)
+  @objc public func setCustomActionMenuItem(image: UIKit.UIImage?)
   @objc deinit
   @objc override dynamic public init()
 }
@@ -65,6 +67,8 @@ import WebKit
   @objc deinit
 }
 @objc(MiniappDelegate) public protocol MiniappDelegate {
+  @objc(didSelectCustomActionMenuItemEvent:) optional func didSelectCustomActionMenuItemEvent(miniapp: AppBoxoSDK.Miniapp)
+  @objc(didChangeUrlEvent:url:) optional func didChangeUrlEvent(miniapp: AppBoxoSDK.Miniapp, url: Foundation.URL)
   @objc optional func didReceiveCustomEvent(miniapp: AppBoxoSDK.Miniapp, params: [Swift.String : Any])
   @objc optional func didReceivePaymentEvent(miniapp: AppBoxoSDK.Miniapp, params: [Swift.String : Any])
   @objc(onLaunchMiniapp:) optional func onLaunch(miniapp: AppBoxoSDK.Miniapp)
@@ -87,6 +91,8 @@ import WebKit
   @objc(sendPaymentEventWithParams:) public func sendPaymentEvent(params: [Swift.String : Any])
   @objc(close) public func close()
   @objc(setConfigWithConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
+  @objc(showCustomActionMenuItem) public func showCustomActionMenuItem()
+  @objc(hideCustomActionMenuItem) public func hideCustomActionMenuItem()
   @objc override dynamic public init()
   @objc deinit
 }
