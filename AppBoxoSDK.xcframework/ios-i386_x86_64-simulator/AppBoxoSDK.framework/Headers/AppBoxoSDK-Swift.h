@@ -283,12 +283,13 @@ SWIFT_CLASS_NAMED("MiniappColor")
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
-@property (nonatomic, strong) MiniappColor * _Nullable color;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nullable)color theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
-- (void)setColorWithColor:(MiniappColor * _Nonnull)color;
-- (void)setCustomActionMenuItemWithImage:(UIImage * _Nullable)image;
+- (void)setColor:(MiniappColor * _Nonnull)color;
+- (void)setTheme:(enum Theme)theme;
+- (void)setExtraParams:(NSDictionary<NSString *, NSString *> * _Nullable)extraParams;
+- (void)setCustomActionMenuItemImage:(UIImage * _Nullable)image;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
