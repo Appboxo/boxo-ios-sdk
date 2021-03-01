@@ -3,6 +3,7 @@
 // swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name AppBoxoSDK
 import AVFoundation
 @_exported import AppBoxoSDK
+import CommonCrypto
 import CoreGraphics
 import CoreLocation
 import CoreMotion
@@ -54,11 +55,8 @@ import WebKit
   @objc required public init(config: AppBoxoSDK.Config)
   @objc(setConfig:) public func setConfig(config: AppBoxoSDK.Config)
   @objc(getConfig) public func getConfig() -> AppBoxoSDK.Config
-  @objc(getMiniappWithAppId:authPayload:additionalUserFields:data:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
-  @objc(getMiniappWithAppId:authPayload:additionalUserFields:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
-  @objc(getMiniappWithAppId:authPayload:data:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil) -> AppBoxoSDK.Miniapp
-  @objc(getMiniappWithAppId:authPayload:) public func getMiniapp(appId: Swift.String, authPayload: Swift.String = "") -> AppBoxoSDK.Miniapp
-  @objc(getMiniappWithAppId:) public func getMiniapp(appId: Swift.String) -> AppBoxoSDK.Miniapp?
+  @objc(getMiniappWithAppId:) public func getMiniapp(appId: Swift.String) -> AppBoxoSDK.Miniapp
+  @objc(getExistingMiniappWithAppId:) public func getExistingMiniapp(appId: Swift.String) -> AppBoxoSDK.Miniapp?
   @objc(hideMiniapps) public func hideMiniapps()
   @objc(logout) public func logout()
   @objc(destroyAppId:) public func destroy(appId: Swift.String)
@@ -78,18 +76,16 @@ import WebKit
 }
 @objc(Miniapp) public class Miniapp : ObjectiveC.NSObject {
   @objc public var appId: Swift.String
-  @objc public var authPayload: Swift.String
-  @objc public var additionalUserFields: [Swift.String : Any]?
-  @objc public var data: [Swift.String : Any]?
   @objc public var delegate: AppBoxoSDK.MiniappDelegate?
-  @objc public var config: AppBoxoSDK.MiniappConfig?
-  @objc(initWithAppId:authPayload:additionalUserFields:data:) required public init(appId: Swift.String, authPayload: Swift.String = "", additionalUserFields: [Swift.String : Any]? = nil, data: [Swift.String : Any]? = nil)
-  @objc(initWithAppId:authPayload:data:) convenience public init(appId: Swift.String, authPayload: Swift.String = "", data: [Swift.String : Any]? = nil)
+  @objc(initWithAppId:) required public init(appId: Swift.String)
   @objc(openWithViewController:) public func open(viewController: UIKit.UIViewController)
   @objc(sendCustomEventWithParams:) public func sendCustomEvent(params: [Swift.String : Any])
   @objc(sendPaymentEventWithParams:) public func sendPaymentEvent(params: [Swift.String : Any])
   @objc(close) public func close()
-  @objc(setConfigWithConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
+  @objc(setConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
+  @objc(setAuthPayload:) public func setAuthPayload(authPayload: Swift.String)
+  @objc(setAdditionalUserFields:) public func setAdditionalUserFields(additionalUserFields: [Swift.String : Any]?)
+  @objc(setData:) public func setData(data: [Swift.String : Any]?)
   @objc(showCustomActionMenuItem) public func showCustomActionMenuItem()
   @objc(hideCustomActionMenuItem) public func hideCustomActionMenuItem()
   @objc override dynamic public init()

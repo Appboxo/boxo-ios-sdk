@@ -77,7 +77,8 @@
     
     import AppBoxoSDK
     
-    let miniapp = Appboxo.shared.getMiniapp(appId: "app_id", authPayload: "auth_payload", data: "data")
+    let miniapp = Appboxo.shared.getMiniapp(appId: "app_id")
+    miniapp.setAuthPayload(authPayload: "auth_payload")
     miniapp.open(viewController: self)
 
 
@@ -85,7 +86,8 @@
 
     #import "AppBoxoSDK/AppBoxoSDK-Swift.h"
     
-    Miniapp *miniapp = [[Appboxo shared] getMiniappWithAppId:@"app_id" authPayload:@"auth_payload" data:@"data"];
+    Miniapp *miniapp = [[Appboxo shared] getMiniappWithAppId:@"app_id"];
+    [miniapp setAuthPayload:@"auth_payload"];
     [miniapp openWithViewController:self];
     
     
