@@ -24,6 +24,7 @@ import WebKit
   }
 }
 @objc(Config) public class Config : ObjectiveC.NSObject {
+  @objc public var isSandbox: Swift.Bool
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: AppBoxoSDK.Theme)
   @objc override dynamic public init()
@@ -39,6 +40,7 @@ import WebKit
   @objc(onPauseMiniapp:) optional func onPause(miniapp: AppBoxoSDK.Miniapp)
   @objc(onCloseMiniapp:) optional func onClose(miniapp: AppBoxoSDK.Miniapp)
   @objc(onErrorMiniapp:message:) optional func onError(miniapp: AppBoxoSDK.Miniapp, message: Swift.String)
+  @objc(onAuthMiniapp:) optional func onAuth(miniapp: AppBoxoSDK.Miniapp)
 }
 @objc(Miniapp) open class Miniapp : ObjectiveC.NSObject {
   @objc public var appId: Swift.String
@@ -49,11 +51,10 @@ import WebKit
   @objc(sendPaymentEventWithParams:) public func sendPaymentEvent(params: [Swift.String : Any])
   @objc(close) public func close()
   @objc(setConfig:) public func setConfig(config: AppBoxoSDK.MiniappConfig?)
-  @objc(setAuthPayload:) public func setAuthPayload(authPayload: Swift.String)
-  @objc(setAdditionalUserFields:) public func setAdditionalUserFields(additionalUserFields: [Swift.String : Any]?)
   @objc(setData:) public func setData(data: [Swift.String : Any]?)
   @objc(showCustomActionMenuItem) public func showCustomActionMenuItem()
   @objc(hideCustomActionMenuItem) public func hideCustomActionMenuItem()
+  @objc(setAuthCode:) public func setAuthCode(authCode: Swift.String)
   @objc deinit
   @objc override dynamic public init()
 }
