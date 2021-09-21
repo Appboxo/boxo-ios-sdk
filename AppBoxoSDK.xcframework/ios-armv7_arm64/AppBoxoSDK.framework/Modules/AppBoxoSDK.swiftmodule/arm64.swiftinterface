@@ -114,6 +114,7 @@ import WebKit
   @objc(onCloseMiniapp:) optional func onClose(miniapp: AppBoxoSDK.Miniapp)
   @objc(onErrorMiniapp:message:) optional func onError(miniapp: AppBoxoSDK.Miniapp, message: Swift.String)
   @objc(onAuthMiniapp:) optional func onAuth(miniapp: AppBoxoSDK.Miniapp)
+  @objc(onUserInteraction:) optional func onUserInteraction(miniapp: AppBoxoSDK.Miniapp)
 }
 @objc(MiniappWebviewDelegate) public protocol MiniappWebViewDelegate {
   @objc(decidePolicyFor:navigationAction:decisionHandler:) func decidePolicyFor(miniapp: AppBoxoSDK.Miniapp, navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
