@@ -78,7 +78,6 @@
     import AppBoxoSDK
     
     let miniapp = Appboxo.shared.getMiniapp(appId: "app_id")
-    miniapp.setAuthPayload(authPayload: "auth_payload")
     miniapp.open(viewController: self)
 
 
@@ -87,7 +86,6 @@
     #import "AppBoxoSDK/AppBoxoSDK-Swift.h"
     
     Miniapp *miniapp = [[Appboxo shared] getMiniappWithAppId:@"app_id"];
-    [miniapp setAuthPayload:@"auth_payload"];
     [miniapp openWithViewController:self];
     
     
@@ -104,7 +102,7 @@
 and implement MiniappDelegate
     
     extension ViewController: MiniappDelegate {
-        func didReceiveCustomEvent(miniapp: Miniapp, params: [String : Any]) {
+        func didReceiveCustomEvent(miniapp: Miniapp, customEvent: CustomEvent) {
             let params = [
                 "message" : "message",
                 "id" : 1,
@@ -127,14 +125,15 @@ and implement MiniappDelegate
     @implementation ViewController
     //...
 
-     - (void)didReceiveCustomEventWithMiniapp:(Miniapp *)miniapp params:(NSDictionary<NSString *,id> *)params {
-         NSDictionary *dict = @{
-             @"message" : @"message",
-             @"id" : @1,
-             @"checked" : @YES
-         };
-         [miniapp sendCustomEventWithParams:dict];
-     }
+     - (void)didReceiveCustomEvent:(Miniapp *)miniapp customEvent:(CustomEvent *)customEvent {
+        customEvent.payload = @{
+            @"messasge" : @"text",
+            @"id" : @45,
+            @"checked" : @YES
+        };
+    
+        [miniapp sendCustomEvent: customEvent];
+    }
 
      @end
 
