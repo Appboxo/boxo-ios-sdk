@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		5Pg6lrM1m0fa6nRw9lgs7h1LRao=
+		GQ58IAzfPO/4GIwnKLdESo0aDqc=
 		</data>
 		<key>FloatingActionButtonsView.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qoyArblSk4hKA8lWhTS+XTxzwS4=
+		4a4mqfJ6mgC5RNe0SBOJTfXb364=
 		</data>
 		<key>LoadingIndicatorView.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6+u0z1MGiNMNWItBpMLtiWI6sa4=
+		jmLZlmW3F02Z00TkLroKXNQTdfg=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		6+u0z1MGiNMNWItBpMLtiWI6sa4=
+		jmLZlmW3F02Z00TkLroKXNQTdfg=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		A5MQcdypdrbeYzQ36JKiPCqJj1s=
+		wIR1+SjY51MhdCz2ZewdowH/Ai0=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		A5MQcdypdrbeYzQ36JKiPCqJj1s=
+		wIR1+SjY51MhdCz2ZewdowH/Ai0=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z0TS9m6jT7lODnv5JpU1lnp/UNo=
+		QBZJdrze8jwiapOjCc3kp5YbB3I=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		z0TS9m6jT7lODnv5JpU1lnp/UNo=
+		QBZJdrze8jwiapOjCc3kp5YbB3I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -249,11 +249,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5Pg6lrM1m0fa6nRw9lgs7h1LRao=
+			GQ58IAzfPO/4GIwnKLdESo0aDqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			oD7GUdBlCgHHOk1OmCCmGiAcf99nNkab0dr/USpGMFg=
+			7MsKOK3j6FpiqkXFE6lte7C8pTZN2g/jsM+Syn7bRYM=
 			</data>
 		</dict>
 		<key>FloatingActionButtonsView.nib</key>
@@ -601,11 +601,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6+u0z1MGiNMNWItBpMLtiWI6sa4=
+			jmLZlmW3F02Z00TkLroKXNQTdfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dpebNU+z717Iohge9SpAy0vf9ibbgmOrqVovgVhgivM=
+			7OSZWsQWFuf5RX6QANSo7VDDzNZUYWSYf/vv/MsMKQg=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64.swiftdoc</key>
@@ -634,11 +634,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6+u0z1MGiNMNWItBpMLtiWI6sa4=
+			jmLZlmW3F02Z00TkLroKXNQTdfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dpebNU+z717Iohge9SpAy0vf9ibbgmOrqVovgVhgivM=
+			7OSZWsQWFuf5RX6QANSo7VDDzNZUYWSYf/vv/MsMKQg=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -667,11 +667,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A5MQcdypdrbeYzQ36JKiPCqJj1s=
+			wIR1+SjY51MhdCz2ZewdowH/Ai0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FGWPwIcnONAzrVW01at9iqoliYUieT3/K7KJkAh/QuA=
+			CS0mCoE9M9fpAfeIxfuK1wkAgcLjEMlQjwe9nYAwGYI=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/i386.swiftdoc</key>
@@ -700,11 +700,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A5MQcdypdrbeYzQ36JKiPCqJj1s=
+			wIR1+SjY51MhdCz2ZewdowH/Ai0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FGWPwIcnONAzrVW01at9iqoliYUieT3/K7KJkAh/QuA=
+			CS0mCoE9M9fpAfeIxfuK1wkAgcLjEMlQjwe9nYAwGYI=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -733,11 +733,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z0TS9m6jT7lODnv5JpU1lnp/UNo=
+			QBZJdrze8jwiapOjCc3kp5YbB3I=
 			</data>
 			<key>hash2</key>
 			<data>
-			H2vMbLU8VgQ+KT/AH8RGdqWEM0IPZ4FrjvzKBlIz75w=
+			5CVLWHYzrV30Oo81A94aJxuWZqZBg6z4lglIAc6gHpw=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -766,11 +766,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z0TS9m6jT7lODnv5JpU1lnp/UNo=
+			QBZJdrze8jwiapOjCc3kp5YbB3I=
 			</data>
 			<key>hash2</key>
 			<data>
-			H2vMbLU8VgQ+KT/AH8RGdqWEM0IPZ4FrjvzKBlIz75w=
+			5CVLWHYzrV30Oo81A94aJxuWZqZBg6z4lglIAc6gHpw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
