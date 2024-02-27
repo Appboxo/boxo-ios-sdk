@@ -226,7 +226,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Appboxo * _N
 - (Miniapp * _Nullable)getExistingMiniappWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
 - (void)hideMiniapps;
 - (void)logout;
-- (void)destroyAppId:(NSString * _Nonnull)appId;
 - (void)getMiniapps:(void (^ _Nonnull)(NSArray<MiniappData *> * _Nonnull, NSString * _Nullable))completion;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
@@ -609,7 +608,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Appboxo * _N
 - (Miniapp * _Nullable)getExistingMiniappWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
 - (void)hideMiniapps;
 - (void)logout;
-- (void)destroyAppId:(NSString * _Nonnull)appId;
 - (void)getMiniapps:(void (^ _Nonnull)(NSArray<MiniappData *> * _Nonnull, NSString * _Nullable))completion;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
@@ -992,7 +990,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Appboxo * _N
 - (Miniapp * _Nullable)getExistingMiniappWithAppId:(NSString * _Nonnull)appId SWIFT_WARN_UNUSED_RESULT;
 - (void)hideMiniapps;
 - (void)logout;
-- (void)destroyAppId:(NSString * _Nonnull)appId;
 - (void)getMiniapps:(void (^ _Nonnull)(NSArray<MiniappData *> * _Nonnull, NSString * _Nullable))completion;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
