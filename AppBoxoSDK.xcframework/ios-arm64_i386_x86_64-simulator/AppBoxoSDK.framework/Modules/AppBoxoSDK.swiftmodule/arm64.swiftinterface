@@ -98,7 +98,7 @@ import _Concurrency
   @objc(hideMiniapps) public func hideMiniapps()
   @objc(logout) public func logout()
   @objc(getMiniapps:) public func getMiniapps(completion: @escaping (_ miniapps: [AppBoxoSDK.MiniappData], _ error: Swift.String?) -> Swift.Void)
-  public func cacheMiniappSettings(appId: Swift.String)
+  public func cacheMiniappSettings(appId: Swift.String, completion: ((_ success: Swift.Bool, _ error: Swift.String?) -> Swift.Void)? = nil)
   @objc deinit
 }
 @objc(MiniappDelegate) public protocol MiniappDelegate {
