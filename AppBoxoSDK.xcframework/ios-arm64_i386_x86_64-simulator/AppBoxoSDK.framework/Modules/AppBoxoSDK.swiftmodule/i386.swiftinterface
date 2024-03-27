@@ -39,6 +39,7 @@ import _Concurrency
   @objc public var sandboxMode: Swift.Bool
   @objc public var permissionsPage: Swift.Bool
   @objc public var showClearCache: Swift.Bool
+  @objc public var miniappSettingsExpirationTime: Swift.Int
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: AppBoxoSDK.Theme)
   @objc deinit
