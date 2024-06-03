@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iECEgb2rTzJYireQIHskfyGhb90=
+		HQzFoDSlQU5IPGk6oRg6jiWb1sU=
 		</data>
 		<key>LoadingIndicatorView.nib</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/Y0+Q7nhLvj1nQdG71vH0nmRz7Y=
+		3oNU1JzdjTaqC//2VPrfXAZM5WA=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/Y0+Q7nhLvj1nQdG71vH0nmRz7Y=
+		3oNU1JzdjTaqC//2VPrfXAZM5WA=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -607,11 +607,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Y0+Q7nhLvj1nQdG71vH0nmRz7Y=
+			3oNU1JzdjTaqC//2VPrfXAZM5WA=
 			</data>
 			<key>hash2</key>
 			<data>
-			z7kziFczygkDjpQFC2rV3Jdn0VzgQEiHAU24L/UB+wk=
+			D2wbML2hGZ/RXoOty1d4oH3NskHOffJcvKAO/MI2TZQ=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -662,11 +662,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Y0+Q7nhLvj1nQdG71vH0nmRz7Y=
+			3oNU1JzdjTaqC//2VPrfXAZM5WA=
 			</data>
 			<key>hash2</key>
 			<data>
-			z7kziFczygkDjpQFC2rV3Jdn0VzgQEiHAU24L/UB+wk=
+			D2wbML2hGZ/RXoOty1d4oH3NskHOffJcvKAO/MI2TZQ=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
