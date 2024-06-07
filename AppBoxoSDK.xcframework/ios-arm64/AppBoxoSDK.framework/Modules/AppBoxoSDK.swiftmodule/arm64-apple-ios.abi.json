@@ -9417,21 +9417,21 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Router.swift",
       "kind": "BooleanLiteral",
-      "offset": 3282,
+      "offset": 3242,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Router.swift",
       "kind": "BooleanLiteral",
-      "offset": 3962,
+      "offset": 3922,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Router.swift",
       "kind": "BooleanLiteral",
-      "offset": 4335,
+      "offset": 4295,
       "length": 4,
       "value": "true"
     },
@@ -14898,77 +14898,77 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 2143,
+      "offset": 2076,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 2298,
+      "offset": 2231,
       "length": 20,
       "value": "\"appboxo_auth_token\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "BooleanLiteral",
-      "offset": 2549,
+      "offset": 2482,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "BooleanLiteral",
-      "offset": 2800,
+      "offset": 2733,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "IntegerLiteral",
-      "offset": 2978,
+      "offset": 2911,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 3092,
+      "offset": 3025,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 3263,
+      "offset": 3196,
       "length": 20,
       "value": "\"appboxo_auth_token\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "IntegerLiteral",
-      "offset": 3492,
+      "offset": 3425,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 3719,
+      "offset": 3652,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 3737,
+      "offset": 3670,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/sdk\/Appboxo.swift",
       "kind": "StringLiteral",
-      "offset": 3777,
+      "offset": 3710,
       "length": 2,
       "value": "\"\""
     },
