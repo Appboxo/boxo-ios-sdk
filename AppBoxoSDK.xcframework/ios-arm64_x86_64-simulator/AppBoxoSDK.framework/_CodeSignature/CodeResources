@@ -6,15 +6,15 @@
 	<dict>
 		<key>ActionButtonsView.nib/objects-11.0+.nib</key>
 		<data>
-		UDP70Nsh+v4spw1E4WnwIQTqFac=
+		iSd58GOLTX7eSYG0BARLMgNU9N8=
 		</data>
 		<key>ActionButtonsView.nib/runtime.nib</key>
 		<data>
-		ddHMtEFaTwXC6qQ0yRqZNuqIcPA=
+		VpRYnlEvUg4S9LYVtDlvbAHrFGo=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		vS8TqsWSK3hzJQ8yeMv9ESEdjUE=
+		SET6a6Tew836rFLOuYdRdtTSLn4=
 		</data>
 		<key>FloatingActionButtonsView.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/AppBoxoSDK-Swift.h</key>
 		<data>
-		FmIf6ToX3ddAfAbbBdBJDoW8MaU=
+		qtxbnGIGx7UgvkY1uvG6r68d4a0=
 		</data>
 		<key>Headers/AppBoxoSDK.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Main.storyboardc/MWr-GG-uA3-view-JFz-Yl-JjE.nib/objects-11.0+.nib</key>
 		<data>
-		61ns0u0WYmxAPJkM93tZYzBqzt4=
+		eSgNYqBBDyROa+AyTajxx/oKBx8=
 		</data>
 		<key>Main.storyboardc/MWr-GG-uA3-view-JFz-Yl-JjE.nib/runtime.nib</key>
 		<data>
-		fkDs3ty0cczsoO2kRKdX5T8rgQM=
+		OsBOhSt/tKM0wwDmuhMmJQfY7sU=
 		</data>
 		<key>Main.storyboardc/MiniAppVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		f8W7ips8zH0+DZEv4Z8mVYDOG94=
+		awBP/gHHMp54j4RbjMJzeWiH3c4=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		X/v+j5Z38QOpUU8dZssN/FWCivA=
+		lLLQW0FmvZX8t7qC020oyJzO+Dw=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -166,19 +166,19 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		X/v+j5Z38QOpUU8dZssN/FWCivA=
+		lLLQW0FmvZX8t7qC020oyJzO+Dw=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5pbjcbOMwDio81B/BT4cM4B6aOA=
+		7SCzVYPywgRJU0kP41JNkbdT3Hg=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		f8W7ips8zH0+DZEv4Z8mVYDOG94=
+		awBP/gHHMp54j4RbjMJzeWiH3c4=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		1V3yvFJIKpJkEXH0mOR/NR7nDRY=
+		9KfLqiOaTfSvOjOxiCJoz5sEyNY=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -186,11 +186,11 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1V3yvFJIKpJkEXH0mOR/NR7nDRY=
+		9KfLqiOaTfSvOjOxiCJoz5sEyNY=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3DpOSH3qBJdk69vPrkmZPw/Gk8c=
+		R/HqifgzugvlfbqDJFQ/VlXKvl4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -211,33 +211,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UDP70Nsh+v4spw1E4WnwIQTqFac=
+			iSd58GOLTX7eSYG0BARLMgNU9N8=
 			</data>
 			<key>hash2</key>
 			<data>
-			H+NSAQjb7bPcdR1m/42McMoa4wFPzOdaK4cXRFLDPNw=
+			q7Yk9p4aBNl2J4tEau8+u20zrmJ6+C61j7PyxDczJqc=
 			</data>
 		</dict>
 		<key>ActionButtonsView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ddHMtEFaTwXC6qQ0yRqZNuqIcPA=
+			VpRYnlEvUg4S9LYVtDlvbAHrFGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CfLpcFkO9PRd/iz8yoOXteho8I6hLkXLxOR1fWzVSpA=
+			xYcDCfB36yn1+PW3F4Jdv6StuMZGXSO+RisYvM2tL9s=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vS8TqsWSK3hzJQ8yeMv9ESEdjUE=
+			SET6a6Tew836rFLOuYdRdtTSLn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/+VlLf9UIMAiqaG72wc/ueWOPiWMZPJAnMFlUVzrnFI=
+			K9eTGAIzje850OTrqTK/fQkrCaxsoYZYCPdQQB9ZL0Y=
 			</data>
 		</dict>
 		<key>FloatingActionButtonsView.nib</key>
@@ -255,11 +255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FmIf6ToX3ddAfAbbBdBJDoW8MaU=
+			qtxbnGIGx7UgvkY1uvG6r68d4a0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6H0mK7X3aoUhe+EcX5J+qvo2L7P7Slb9D0PSuSR/mPE=
+			49barIOc+53KVyXEdkxkLVsXpTBf9BX5Ia2Ak6E7cSE=
 			</data>
 		</dict>
 		<key>Headers/AppBoxoSDK.h</key>
@@ -387,22 +387,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			61ns0u0WYmxAPJkM93tZYzBqzt4=
+			eSgNYqBBDyROa+AyTajxx/oKBx8=
 			</data>
 			<key>hash2</key>
 			<data>
-			hHT6RohWaQV9k1FkoIiOBziTedbaoupY9MdDmCRYnVc=
+			u89PfAp6PK3MiU8P58QrVOYgGdq0asnVJN9FgY95QEI=
 			</data>
 		</dict>
 		<key>Main.storyboardc/MWr-GG-uA3-view-JFz-Yl-JjE.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fkDs3ty0cczsoO2kRKdX5T8rgQM=
+			OsBOhSt/tKM0wwDmuhMmJQfY7sU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oGDSwV/esA8vcQPmAkoGBb7JnnLv9foMjfxNWspX6ZY=
+			i44gvfaElOcTNkNIPa5FBScUqFmltkuG3X/Je1+1CpY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/MiniAppVC.nib/objects-11.0+.nib</key>
@@ -607,22 +607,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f8W7ips8zH0+DZEv4Z8mVYDOG94=
+			awBP/gHHMp54j4RbjMJzeWiH3c4=
 			</data>
 			<key>hash2</key>
 			<data>
-			EfvHO2DvHwVKWqEIatC2E2mTk1CVFSuMidftwsnDW8o=
+			q9Eb5cwuzSiKurx7k2OP6yGqqSimlOwjjiUR+gxkX8A=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X/v+j5Z38QOpUU8dZssN/FWCivA=
+			lLLQW0FmvZX8t7qC020oyJzO+Dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YokU1hET7a0uhwBU/sqSVb51FfWrEmANlraE+bwEo3s=
+			eqylE7sfZFBSYbOIAj3LtbD062V+H4LRQ5lhhZ7y8es=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -640,44 +640,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X/v+j5Z38QOpUU8dZssN/FWCivA=
+			lLLQW0FmvZX8t7qC020oyJzO+Dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YokU1hET7a0uhwBU/sqSVb51FfWrEmANlraE+bwEo3s=
+			eqylE7sfZFBSYbOIAj3LtbD062V+H4LRQ5lhhZ7y8es=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5pbjcbOMwDio81B/BT4cM4B6aOA=
+			7SCzVYPywgRJU0kP41JNkbdT3Hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fg5yZCSHzinPuaB/LW7aGhMFdAbILYpwxN8gtb8zj+U=
+			jkSNHsl8DNX2gEvq3xQ7+nqL5kzB15Q+vT+UBFpxXTc=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f8W7ips8zH0+DZEv4Z8mVYDOG94=
+			awBP/gHHMp54j4RbjMJzeWiH3c4=
 			</data>
 			<key>hash2</key>
 			<data>
-			EfvHO2DvHwVKWqEIatC2E2mTk1CVFSuMidftwsnDW8o=
+			q9Eb5cwuzSiKurx7k2OP6yGqqSimlOwjjiUR+gxkX8A=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1V3yvFJIKpJkEXH0mOR/NR7nDRY=
+			9KfLqiOaTfSvOjOxiCJoz5sEyNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			La4c0SKLRQLuNeVmgv+r5N4xq8KU54v/9BydT/N+Bng=
+			R1vMAQzLOROaNllVltneLchvtAcRIvmHX/w66jK2KhU=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -695,22 +695,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1V3yvFJIKpJkEXH0mOR/NR7nDRY=
+			9KfLqiOaTfSvOjOxiCJoz5sEyNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			La4c0SKLRQLuNeVmgv+r5N4xq8KU54v/9BydT/N+Bng=
+			R1vMAQzLOROaNllVltneLchvtAcRIvmHX/w66jK2KhU=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3DpOSH3qBJdk69vPrkmZPw/Gk8c=
+			R/HqifgzugvlfbqDJFQ/VlXKvl4=
 			</data>
 			<key>hash2</key>
 			<data>
-			OmmrhxEvZFsri5fR1xsmxgnx+5Dhh59JWAEWVpL9M20=
+			WxTxDbB8K8tcTOIGVvz1BGCTsP8Q/62t5w0OJYlQtWI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

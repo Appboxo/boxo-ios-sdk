@@ -315,6 +315,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
+- (void)setUserId:(NSString * _Nonnull)id;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

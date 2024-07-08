@@ -44,6 +44,7 @@ import _StringProcessing
   @objc public var miniappSettingsExpirationTime: Swift.Int
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: AppBoxoSDK.Theme)
+  @objc(setUserId:) public func setUserId(id: Swift.String)
   @objc deinit
 }
 @objc(Miniapp) open class Miniapp : ObjectiveC.NSObject {
