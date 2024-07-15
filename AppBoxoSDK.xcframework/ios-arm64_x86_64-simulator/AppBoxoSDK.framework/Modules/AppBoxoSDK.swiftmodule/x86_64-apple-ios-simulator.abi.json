@@ -10111,104 +10111,104 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
       "offset": 780,
-      "length": 23,
+      "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 802,
+      "offset": 798,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 821,
+      "offset": 817,
       "length": 8,
       "value": "\"system\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 832,
+      "offset": 828,
       "length": 39,
       "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 870,
+      "offset": 866,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 889,
+      "offset": 885,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 905,
+      "offset": 901,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 947,
+      "offset": 943,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 966,
+      "offset": 962,
       "length": 17,
       "value": "\"additional_data\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "Dictionary",
-      "offset": 999,
+      "offset": 995,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1158,
+      "offset": 1154,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1198,
+      "offset": 1194,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1239,
+      "offset": 1235,
       "length": 134,
       "value": "\"Sentry sentry_version=7, sentry_key=0b29d20ed8a14aa4a1d4b21f041d611e, sentry_client=iOSSDK\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1372,
+      "offset": 1368,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1395,
+      "offset": 1391,
       "length": 15,
       "value": "\"X-Sentry-Auth\""
     },
@@ -10768,1099 +10768,56 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 16741,
+      "offset": 16737,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 16833,
+      "offset": 16829,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 17127,
-      "length": 9,
-      "value": "\"iPod5,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17177,
-      "length": 29,
-      "value": "\"iPod touch (5th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17224,
-      "length": 9,
-      "value": "\"iPod7,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17274,
-      "length": 29,
-      "value": "\"iPod touch (6th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17321,
-      "length": 9,
-      "value": "\"iPod9,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17371,
-      "length": 29,
-      "value": "\"iPod touch (7th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17418,
-      "length": 11,
-      "value": "\"iPhone3,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17431,
-      "length": 11,
-      "value": "\"iPhone3,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17444,
-      "length": 11,
-      "value": "\"iPhone3,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17468,
-      "length": 10,
-      "value": "\"iPhone 4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17496,
-      "length": 11,
-      "value": "\"iPhone4,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17546,
-      "length": 11,
-      "value": "\"iPhone 4s\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17575,
-      "length": 11,
-      "value": "\"iPhone5,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17588,
-      "length": 11,
-      "value": "\"iPhone5,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17625,
-      "length": 10,
-      "value": "\"iPhone 5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17653,
-      "length": 11,
-      "value": "\"iPhone5,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17666,
-      "length": 11,
-      "value": "\"iPhone5,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17703,
-      "length": 11,
-      "value": "\"iPhone 5c\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17732,
-      "length": 11,
-      "value": "\"iPhone6,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17745,
-      "length": 11,
-      "value": "\"iPhone6,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17782,
-      "length": 11,
-      "value": "\"iPhone 5s\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17811,
-      "length": 11,
-      "value": "\"iPhone7,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17861,
-      "length": 10,
-      "value": "\"iPhone 6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17889,
-      "length": 11,
-      "value": "\"iPhone7,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17939,
-      "length": 15,
-      "value": "\"iPhone 6 Plus\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 17972,
-      "length": 11,
-      "value": "\"iPhone8,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18022,
-      "length": 11,
-      "value": "\"iPhone 6s\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18051,
-      "length": 11,
-      "value": "\"iPhone8,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18101,
-      "length": 16,
-      "value": "\"iPhone 6s Plus\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18135,
-      "length": 11,
-      "value": "\"iPhone9,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18148,
-      "length": 11,
-      "value": "\"iPhone9,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18185,
-      "length": 10,
-      "value": "\"iPhone 7\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18213,
-      "length": 11,
-      "value": "\"iPhone9,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18226,
-      "length": 11,
-      "value": "\"iPhone9,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18263,
-      "length": 15,
-      "value": "\"iPhone 7 Plus\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18296,
-      "length": 11,
-      "value": "\"iPhone8,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18346,
-      "length": 11,
-      "value": "\"iPhone SE\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18375,
-      "length": 12,
-      "value": "\"iPhone10,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18389,
-      "length": 12,
-      "value": "\"iPhone10,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18425,
-      "length": 10,
-      "value": "\"iPhone 8\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18453,
-      "length": 12,
-      "value": "\"iPhone10,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18467,
-      "length": 12,
-      "value": "\"iPhone10,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18503,
-      "length": 15,
-      "value": "\"iPhone 8 Plus\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18536,
-      "length": 12,
-      "value": "\"iPhone10,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18550,
-      "length": 12,
-      "value": "\"iPhone10,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18586,
-      "length": 10,
-      "value": "\"iPhone X\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18614,
-      "length": 12,
-      "value": "\"iPhone11,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18664,
-      "length": 11,
-      "value": "\"iPhone XS\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18693,
-      "length": 12,
-      "value": "\"iPhone11,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18707,
-      "length": 12,
-      "value": "\"iPhone11,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18743,
-      "length": 15,
-      "value": "\"iPhone XS Max\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18776,
-      "length": 12,
-      "value": "\"iPhone11,8\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18826,
-      "length": 11,
-      "value": "\"iPhone XR\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18855,
-      "length": 12,
-      "value": "\"iPhone12,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18905,
-      "length": 11,
-      "value": "\"iPhone 11\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18934,
-      "length": 12,
-      "value": "\"iPhone12,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 18984,
-      "length": 15,
-      "value": "\"iPhone 11 Pro\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19017,
-      "length": 12,
-      "value": "\"iPhone12,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19067,
-      "length": 19,
-      "value": "\"iPhone 11 Pro Max\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19104,
-      "length": 9,
-      "value": "\"iPad2,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19115,
-      "length": 9,
-      "value": "\"iPad2,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19126,
-      "length": 9,
-      "value": "\"iPad2,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19137,
-      "length": 9,
-      "value": "\"iPad2,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19154,
-      "length": 8,
-      "value": "\"iPad 2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19180,
-      "length": 9,
-      "value": "\"iPad3,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19191,
-      "length": 9,
-      "value": "\"iPad3,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19202,
-      "length": 9,
-      "value": "\"iPad3,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19230,
-      "length": 23,
-      "value": "\"iPad (3rd generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19271,
-      "length": 9,
-      "value": "\"iPad3,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19282,
-      "length": 9,
-      "value": "\"iPad3,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19293,
-      "length": 9,
-      "value": "\"iPad3,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19321,
-      "length": 23,
-      "value": "\"iPad (4th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19362,
-      "length": 10,
-      "value": "\"iPad6,11\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19374,
-      "length": 10,
-      "value": "\"iPad6,12\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19412,
-      "length": 23,
-      "value": "\"iPad (5th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19453,
-      "length": 9,
-      "value": "\"iPad7,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19464,
-      "length": 9,
-      "value": "\"iPad7,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19503,
-      "length": 23,
-      "value": "\"iPad (6th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19544,
-      "length": 10,
-      "value": "\"iPad7,11\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19556,
-      "length": 10,
-      "value": "\"iPad7,12\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19594,
-      "length": 23,
-      "value": "\"iPad (7th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19635,
-      "length": 9,
-      "value": "\"iPad4,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19646,
-      "length": 9,
-      "value": "\"iPad4,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19657,
-      "length": 9,
-      "value": "\"iPad4,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19685,
-      "length": 10,
-      "value": "\"iPad Air\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19713,
-      "length": 9,
-      "value": "\"iPad5,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19724,
-      "length": 9,
-      "value": "\"iPad5,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19763,
-      "length": 12,
-      "value": "\"iPad Air 2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19793,
-      "length": 10,
-      "value": "\"iPad11,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19805,
-      "length": 10,
-      "value": "\"iPad11,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19843,
-      "length": 27,
-      "value": "\"iPad Air (3rd generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19888,
-      "length": 9,
-      "value": "\"iPad2,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19899,
-      "length": 9,
-      "value": "\"iPad2,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19910,
-      "length": 9,
-      "value": "\"iPad2,7\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19938,
-      "length": 11,
-      "value": "\"iPad mini\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19967,
-      "length": 9,
-      "value": "\"iPad4,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19978,
-      "length": 9,
-      "value": "\"iPad4,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 19989,
-      "length": 9,
-      "value": "\"iPad4,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20017,
-      "length": 13,
-      "value": "\"iPad mini 2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20048,
-      "length": 9,
-      "value": "\"iPad4,7\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20059,
-      "length": 9,
-      "value": "\"iPad4,8\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20070,
-      "length": 9,
-      "value": "\"iPad4,9\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20098,
-      "length": 13,
-      "value": "\"iPad mini 3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20129,
-      "length": 9,
-      "value": "\"iPad5,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20140,
-      "length": 9,
-      "value": "\"iPad5,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20179,
-      "length": 13,
-      "value": "\"iPad mini 4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20210,
-      "length": 10,
-      "value": "\"iPad11,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20222,
-      "length": 10,
-      "value": "\"iPad11,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20260,
-      "length": 28,
-      "value": "\"iPad mini (5th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20306,
-      "length": 9,
-      "value": "\"iPad6,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20317,
-      "length": 9,
-      "value": "\"iPad6,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20356,
-      "length": 21,
-      "value": "\"iPad Pro (9.7-inch)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20395,
-      "length": 9,
-      "value": "\"iPad7,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20406,
-      "length": 9,
-      "value": "\"iPad7,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20445,
-      "length": 22,
-      "value": "\"iPad Pro (10.5-inch)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20485,
-      "length": 9,
-      "value": "\"iPad8,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20496,
-      "length": 9,
-      "value": "\"iPad8,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20507,
-      "length": 9,
-      "value": "\"iPad8,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20518,
-      "length": 9,
-      "value": "\"iPad8,4\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20535,
-      "length": 20,
-      "value": "\"iPad Pro (11-inch)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20573,
-      "length": 9,
-      "value": "\"iPad8,9\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20584,
-      "length": 10,
-      "value": "\"iPad8,10\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20623,
-      "length": 37,
-      "value": "\"iPad Pro (11-inch) (2nd generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20678,
-      "length": 9,
-      "value": "\"iPad6,7\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20689,
-      "length": 9,
-      "value": "\"iPad6,8\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20728,
-      "length": 22,
-      "value": "\"iPad Pro (12.9-inch)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20768,
-      "length": 9,
-      "value": "\"iPad7,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20779,
-      "length": 9,
-      "value": "\"iPad7,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20818,
-      "length": 39,
-      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20875,
-      "length": 9,
-      "value": "\"iPad8,5\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20886,
-      "length": 9,
-      "value": "\"iPad8,6\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20897,
-      "length": 9,
-      "value": "\"iPad8,7\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20908,
-      "length": 9,
-      "value": "\"iPad8,8\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20925,
-      "length": 39,
-      "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20982,
-      "length": 10,
-      "value": "\"iPad8,11\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 20994,
-      "length": 10,
-      "value": "\"iPad8,12\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21032,
-      "length": 39,
-      "value": "\"iPad Pro (12.9-inch) (4th generation)\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21089,
-      "length": 12,
-      "value": "\"AppleTV5,3\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21139,
-      "length": 10,
-      "value": "\"Apple TV\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21167,
-      "length": 12,
-      "value": "\"AppleTV6,2\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21217,
-      "length": 13,
-      "value": "\"Apple TV 4K\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21248,
-      "length": 19,
-      "value": "\"AudioAccessory1,1\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21298,
-      "length": 9,
-      "value": "\"HomePod\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21325,
-      "length": 6,
-      "value": "\"i386\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21333,
-      "length": 8,
-      "value": "\"x86_64\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21375,
-      "length": 104,
-      "value": "\"Simulator \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21438,
-      "length": 28,
-      "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21471,
-      "length": 5,
-      "value": "\"iOS\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 21478,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 22139,
+      "offset": 17084,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22215,
+      "offset": 17160,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22259,
+      "offset": 17204,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22288,
+      "offset": 17233,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22304,
+      "offset": 17249,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22319,
+      "offset": 17264,
       "length": 1,
       "value": "\"\""
     },
@@ -13303,734 +12260,734 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
       "offset": 8518,
-      "length": 25,
+      "length": 21,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8541,
+      "offset": 8537,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8557,
+      "offset": 8553,
       "length": 12,
       "value": "\"pixelRatio\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8572,
+      "offset": 8568,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8595,
+      "offset": 8591,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8610,
+      "offset": 8606,
       "length": 13,
       "value": "\"screenWidth\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8626,
+      "offset": 8622,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8656,
+      "offset": 8652,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8671,
+      "offset": 8667,
       "length": 14,
       "value": "\"screenHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8688,
+      "offset": 8684,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8719,
+      "offset": 8715,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8734,
+      "offset": 8730,
       "length": 13,
       "value": "\"windowWidth\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8750,
+      "offset": 8746,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "IntegerLiteral",
-      "offset": 8806,
+      "offset": 8802,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8808,
+      "offset": 8804,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8823,
+      "offset": 8819,
       "length": 14,
       "value": "\"windowHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8840,
+      "offset": 8836,
       "length": 60,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "IntegerLiteral",
-      "offset": 8897,
+      "offset": 8893,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8899,
+      "offset": 8895,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8914,
+      "offset": 8910,
       "length": 17,
       "value": "\"statusBarHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8934,
+      "offset": 8930,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8976,
+      "offset": 8972,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8991,
+      "offset": 8987,
       "length": 8,
       "value": "\"system\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9002,
+      "offset": 8998,
       "length": 41,
       "value": "\"'ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9041,
+      "offset": 9037,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9057,
+      "offset": 9053,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9070,
+      "offset": 9066,
       "length": 24,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9092,
+      "offset": 9088,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9108,
+      "offset": 9104,
       "length": 12,
       "value": "\"SDKVersion\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9123,
+      "offset": 9119,
       "length": 45,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9166,
+      "offset": 9162,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9182,
+      "offset": 9178,
       "length": 18,
       "value": "\"cameraAuthorized\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9202,
+      "offset": 9198,
       "length": 69,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9270,
+      "offset": 9266,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9285,
+      "offset": 9281,
       "length": 20,
       "value": "\"locationAuthorized\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9307,
+      "offset": 9303,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9374,
+      "offset": 9370,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9389,
+      "offset": 9385,
       "length": 17,
       "value": "\"locationEnabled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9408,
+      "offset": 9404,
       "length": 48,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9455,
+      "offset": 9451,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9470,
+      "offset": 9466,
       "length": 14,
       "value": "\"systemUiMode\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9486,
+      "offset": 9482,
       "length": 36,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9503,
+      "offset": 9499,
       "length": 6,
       "value": "\"dark\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9512,
+      "offset": 9508,
       "length": 7,
       "value": "\"light\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9520,
+      "offset": 9516,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9536,
+      "offset": 9532,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9548,
+      "offset": 9544,
       "length": 25,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9571,
+      "offset": 9567,
       "length": 3,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9587,
+      "offset": 9583,
       "length": 18,
       "value": "\"safe_area_height\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9608,
+      "offset": 9604,
       "length": 46,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9653,
+      "offset": 9649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9668,
+      "offset": 9664,
       "length": 17,
       "value": "\"safe_area_width\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9688,
+      "offset": 9684,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9732,
+      "offset": 9728,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9802,
+      "offset": 9798,
       "length": 28,
       "value": "\"AppBoxoWebAppGetSystemInfo\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9978,
+      "offset": 9974,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10016,
+      "offset": 10012,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10103,
+      "offset": 10099,
       "length": 27,
       "value": "\"AppBoxoWebAppOpenLocation\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10302,
+      "offset": 10298,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10340,
+      "offset": 10336,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10375,
+      "offset": 10371,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10467,
+      "offset": 10463,
       "length": 29,
       "value": "\"AppBoxoWebAppChooseLocation\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10643,
+      "offset": 10639,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10681,
+      "offset": 10677,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10768,
+      "offset": 10764,
       "length": 29,
       "value": "\"AppBoxoWebAppStartGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10943,
+      "offset": 10939,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10981,
+      "offset": 10977,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11068,
+      "offset": 11064,
       "length": 28,
       "value": "\"AppBoxoWebAppStopGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11248,
+      "offset": 11244,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11269,
+      "offset": 11265,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11290,
+      "offset": 11286,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11366,
+      "offset": 11362,
       "length": 32,
       "value": "\"AppBoxoWebAppOnGyroscopeChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11549,
+      "offset": 11545,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11587,
+      "offset": 11583,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11674,
+      "offset": 11670,
       "length": 33,
       "value": "\"AppBoxoWebAppStartAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11857,
+      "offset": 11853,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11895,
+      "offset": 11891,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11982,
+      "offset": 11978,
       "length": 32,
       "value": "\"AppBoxoWebAppStopAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12170,
+      "offset": 12166,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12191,
+      "offset": 12187,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12212,
+      "offset": 12208,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12288,
+      "offset": 12284,
       "length": 36,
       "value": "\"AppBoxoWebAppOnAccelerometerChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12469,
+      "offset": 12465,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12507,
+      "offset": 12503,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12594,
+      "offset": 12590,
       "length": 27,
       "value": "\"AppBoxoWebAppStartCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12765,
+      "offset": 12761,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12803,
+      "offset": 12799,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12890,
+      "offset": 12886,
       "length": 26,
       "value": "\"AppBoxoWebAppStopCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13049,
+      "offset": 13045,
       "length": 11,
       "value": "\"direction\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13141,
+      "offset": 13137,
       "length": 30,
       "value": "\"AppBoxoWebAppOnCompassChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13282,
+      "offset": 13278,
       "length": 24,
       "value": "\"AppBoxoWebAppOnRestore\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13314,
+      "offset": 13310,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13421,
+      "offset": 13417,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13471,
+      "offset": 13467,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13509,
+      "offset": 13505,
       "length": 9,
       "value": "\"payload\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13602,
+      "offset": 13598,
       "length": 12,
       "value": "\"error_type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13618,
+      "offset": 13614,
       "length": 12,
       "value": "\"auth_error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13681,
+      "offset": 13677,
       "length": 20,
       "value": "\"AppBoxoWebAppLogin\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13825,
+      "offset": 13821,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13918,
+      "offset": 13914,
       "length": 21,
       "value": "\"AppBoxoWebAppLogout\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14092,
+      "offset": 14088,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14130,
+      "offset": 14126,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14225,
+      "offset": 14221,
       "length": 12,
       "value": "\"error_type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14241,
+      "offset": 14237,
       "length": 14,
       "value": "\"client_error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14306,
+      "offset": 14302,
       "length": 20,
       "value": "\"AppBoxoWebAppTrack\""
     },
@@ -15599,328 +14556,328 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
       "offset": 2584,
-      "length": 23,
+      "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2606,
+      "offset": 2602,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2621,
+      "offset": 2617,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2632,
+      "offset": 2628,
       "length": 39,
       "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2670,
+      "offset": 2666,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2685,
+      "offset": 2681,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2700,
+      "offset": 2696,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2742,
+      "offset": 2738,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2757,
+      "offset": 2753,
       "length": 9,
       "value": "\"payload\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2786,
+      "offset": 2782,
       "length": 12,
       "value": "\"start_date\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2847,
+      "offset": 2843,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2870,
+      "offset": 2866,
       "length": 10,
       "value": "\"end_date\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2919,
+      "offset": 2915,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2942,
+      "offset": 2938,
       "length": 11,
       "value": "\"device_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3094,
+      "offset": 3090,
       "length": 135,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3134,
+      "offset": 3130,
       "length": 1,
       "value": "\"\/api\/v1\/analytics\/track\/?hash=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3228,
+      "offset": 3224,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3262,
+      "offset": 3258,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3294,
+      "offset": 3290,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3334,
+      "offset": 3330,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "Array",
-      "offset": 3436,
+      "offset": 3432,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3855,
+      "offset": 3851,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3884,
+      "offset": 3880,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3946,
+      "offset": 3942,
       "length": 8,
       "value": "\"action\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3956,
+      "offset": 3952,
       "length": 13,
       "value": "\"transaction\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3983,
+      "offset": 3979,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 3995,
+      "offset": 3991,
       "length": 5,
       "value": "\"IOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4014,
+      "offset": 4010,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4023,
-      "length": 23,
+      "offset": 4019,
+      "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4045,
+      "offset": 4037,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4060,
+      "offset": 4052,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4071,
+      "offset": 4063,
       "length": 39,
       "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4109,
+      "offset": 4101,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4124,
+      "offset": 4116,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4139,
+      "offset": 4131,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4181,
+      "offset": 4173,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4196,
+      "offset": 4188,
       "length": 9,
       "value": "\"payload\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4306,
+      "offset": 4298,
       "length": 135,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4346,
+      "offset": 4338,
       "length": 1,
       "value": "\"\/api\/v1\/analytics\/track\/?hash=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4440,
+      "offset": 4432,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4474,
+      "offset": 4466,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4506,
+      "offset": 4498,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4546,
+      "offset": 4538,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "Array",
-      "offset": 4648,
+      "offset": 4640,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 4921,
+      "offset": 4913,
       "length": 42,
       "value": "\"No internet connection. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 5198,
+      "offset": 5190,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/FullExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 5533,
+      "offset": 5525,
       "length": 9,
       "value": "\"payload\""
     },
