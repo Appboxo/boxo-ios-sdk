@@ -378,6 +378,7 @@ SWIFT_CLASS_NAMED("MiniappConfig")
 - (void)setTheme:(enum Theme)theme;
 - (void)setExtraParams:(NSDictionary<NSString *, NSString *> * _Nullable)extraParams;
 - (void)setCustomActionMenuItemImage:(UIImage * _Nullable)image;
+- (void)enableSplash:(BOOL)isSplashEnabled;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

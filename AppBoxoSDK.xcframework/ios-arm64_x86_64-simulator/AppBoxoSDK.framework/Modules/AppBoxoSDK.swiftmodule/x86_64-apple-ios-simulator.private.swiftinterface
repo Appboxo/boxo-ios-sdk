@@ -130,6 +130,7 @@ import _StringProcessing
   @objc(setTheme:) public func setTheme(theme: AppBoxoSDK.Theme)
   @objc(setExtraParams:) public func setExtraParams(extraParams: [Swift.String : Swift.String]?)
   @objc(setCustomActionMenuItemImage:) public func setCustomActionMenuItemImage(image: UIKit.UIImage?)
+  @objc(enableSplash:) public func enableSplash(isSplashEnabled: Swift.Bool)
   @objc override dynamic public init()
   @objc deinit
 }
