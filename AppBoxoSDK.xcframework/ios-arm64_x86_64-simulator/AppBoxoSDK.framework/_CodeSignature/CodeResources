@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ksPcxMLDjukdowZV4Yv7y2ieXmI=
+		xbPNMBgng7RAkXcOQ7j8IY7W9FI=
 		</data>
 		<key>FloatingActionButtonsView.nib</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pt70xRhF9SmdIjew8QfUx+76gVQ=
+		anrcnkpaUxptQykQZGK3eHTRpOU=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pt70xRhF9SmdIjew8QfUx+76gVQ=
+		anrcnkpaUxptQykQZGK3eHTRpOU=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ksPcxMLDjukdowZV4Yv7y2ieXmI=
+			xbPNMBgng7RAkXcOQ7j8IY7W9FI=
 			</data>
 			<key>hash2</key>
 			<data>
-			za4gTyhiFHd39ET8+pidV3TcXu5IHtqPyQhgNQWnPQw=
+			/Dw13D8W4ie1w2FKL9Y6A1XGggwkkeXFvOWOoMmEVwo=
 			</data>
 		</dict>
 		<key>FloatingActionButtonsView.nib</key>
@@ -607,11 +607,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pt70xRhF9SmdIjew8QfUx+76gVQ=
+			anrcnkpaUxptQykQZGK3eHTRpOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NEc8RKZq63knp/xsmUaRZbFek7yJF4UlBbGK10C3xZQ=
+			pdV2Nny2UBKlBJIujb6ZiSuXMSDHHkf8Srt+jLF1A30=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -662,11 +662,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pt70xRhF9SmdIjew8QfUx+76gVQ=
+			anrcnkpaUxptQykQZGK3eHTRpOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NEc8RKZq63knp/xsmUaRZbFek7yJF4UlBbGK10C3xZQ=
+			pdV2Nny2UBKlBJIujb6ZiSuXMSDHHkf8Srt+jLF1A30=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

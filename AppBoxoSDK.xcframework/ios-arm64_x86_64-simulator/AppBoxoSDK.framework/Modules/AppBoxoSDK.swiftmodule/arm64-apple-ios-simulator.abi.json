@@ -12274,748 +12274,524 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
       "offset": 8480,
-      "length": 14,
-      "value": "\"'Apple Inc.'\""
+      "length": 12,
+      "value": "\"Apple Inc.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8508,
+      "offset": 8506,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8518,
-      "length": 21,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8537,
-      "length": 3,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8553,
+      "offset": 8544,
       "length": 12,
       "value": "\"pixelRatio\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8568,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8591,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8606,
+      "offset": 8592,
       "length": 13,
       "value": "\"screenWidth\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8622,
-      "length": 31,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8652,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8667,
+      "offset": 8648,
       "length": 14,
       "value": "\"screenHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8684,
-      "length": 32,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8715,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8730,
+      "offset": 8706,
       "length": 13,
       "value": "\"windowWidth\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8746,
-      "length": 59,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "IntegerLiteral",
-      "offset": 8802,
+      "offset": 8775,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8804,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8819,
+      "offset": 8790,
       "length": 14,
       "value": "\"windowHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8836,
-      "length": 60,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "IntegerLiteral",
-      "offset": 8893,
+      "offset": 8861,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8895,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8910,
+      "offset": 8876,
       "length": 17,
       "value": "\"statusBarHeight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8930,
-      "length": 43,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8972,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 8987,
+      "offset": 8948,
       "length": 8,
       "value": "\"system\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 8998,
-      "length": 41,
-      "value": "\"'ios \""
+      "offset": 8959,
+      "length": 39,
+      "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9037,
-      "length": 3,
-      "value": "\"'\""
+      "offset": 8997,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9053,
+      "offset": 9012,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9066,
-      "length": 24,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9088,
-      "length": 3,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9104,
+      "offset": 9056,
       "length": 12,
       "value": "\"SDKVersion\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9119,
-      "length": 45,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9162,
-      "length": 3,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9178,
+      "offset": 9123,
       "length": 18,
       "value": "\"cameraAuthorized\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9198,
-      "length": 69,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9266,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9281,
+      "offset": 9221,
       "length": 20,
       "value": "\"locationAuthorized\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9303,
-      "length": 68,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9370,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9385,
+      "offset": 9320,
       "length": 17,
       "value": "\"locationEnabled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9404,
-      "length": 48,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9451,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9466,
+      "offset": 9396,
       "length": 14,
       "value": "\"systemUiMode\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9482,
-      "length": 36,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9499,
+      "offset": 9425,
       "length": 6,
       "value": "\"dark\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9508,
+      "offset": 9434,
       "length": 7,
       "value": "\"light\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9516,
-      "length": 3,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9532,
+      "offset": 9455,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9544,
-      "length": 25,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9567,
-      "length": 3,
-      "value": "\"'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9583,
+      "offset": 9499,
       "length": 18,
       "value": "\"safe_area_height\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9604,
-      "length": 46,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9649,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9664,
+      "offset": 9575,
       "length": 17,
       "value": "\"safe_area_width\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9684,
-      "length": 45,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9728,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
-      "kind": "StringLiteral",
-      "offset": 9798,
+      "offset": 9704,
       "length": 28,
       "value": "\"AppBoxoWebAppGetSystemInfo\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 9974,
+      "offset": 9880,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10012,
+      "offset": 9918,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10099,
+      "offset": 10005,
       "length": 27,
       "value": "\"AppBoxoWebAppOpenLocation\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10298,
+      "offset": 10204,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10336,
+      "offset": 10242,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10371,
+      "offset": 10277,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10463,
+      "offset": 10369,
       "length": 29,
       "value": "\"AppBoxoWebAppChooseLocation\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10639,
+      "offset": 10545,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10677,
+      "offset": 10583,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10764,
+      "offset": 10670,
       "length": 29,
       "value": "\"AppBoxoWebAppStartGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10939,
+      "offset": 10845,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 10977,
+      "offset": 10883,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11064,
+      "offset": 10970,
       "length": 28,
       "value": "\"AppBoxoWebAppStopGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11244,
+      "offset": 11150,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11265,
+      "offset": 11171,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11286,
+      "offset": 11192,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11362,
+      "offset": 11268,
       "length": 32,
       "value": "\"AppBoxoWebAppOnGyroscopeChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11545,
+      "offset": 11451,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11583,
+      "offset": 11489,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11670,
+      "offset": 11576,
       "length": 33,
       "value": "\"AppBoxoWebAppStartAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11853,
+      "offset": 11759,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11891,
+      "offset": 11797,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 11978,
+      "offset": 11884,
       "length": 32,
       "value": "\"AppBoxoWebAppStopAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12166,
+      "offset": 12072,
       "length": 3,
       "value": "\"x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12187,
+      "offset": 12093,
       "length": 3,
       "value": "\"y\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12208,
+      "offset": 12114,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12284,
+      "offset": 12190,
       "length": 36,
       "value": "\"AppBoxoWebAppOnAccelerometerChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12465,
+      "offset": 12371,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12503,
+      "offset": 12409,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12590,
+      "offset": 12496,
       "length": 27,
       "value": "\"AppBoxoWebAppStartCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12761,
+      "offset": 12667,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12799,
+      "offset": 12705,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 12886,
+      "offset": 12792,
       "length": 26,
       "value": "\"AppBoxoWebAppStopCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13045,
+      "offset": 12951,
       "length": 11,
       "value": "\"direction\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13137,
+      "offset": 13043,
       "length": 30,
       "value": "\"AppBoxoWebAppOnCompassChange\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13278,
+      "offset": 13184,
       "length": 24,
       "value": "\"AppBoxoWebAppOnRestore\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13310,
+      "offset": 13216,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13417,
+      "offset": 13323,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13467,
+      "offset": 13373,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13505,
+      "offset": 13411,
       "length": 9,
       "value": "\"payload\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13598,
+      "offset": 13504,
       "length": 12,
       "value": "\"error_type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13614,
+      "offset": 13520,
       "length": 12,
       "value": "\"auth_error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13677,
+      "offset": 13583,
       "length": 20,
       "value": "\"AppBoxoWebAppLogin\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13821,
+      "offset": 13727,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 13914,
+      "offset": 13820,
       "length": 21,
       "value": "\"AppBoxoWebAppLogout\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14088,
+      "offset": 13994,
       "length": 12,
       "value": "\"request_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14126,
+      "offset": 14032,
       "length": 8,
       "value": "\"result\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14221,
+      "offset": 14127,
       "length": 12,
       "value": "\"error_type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14237,
+      "offset": 14143,
       "length": 14,
       "value": "\"client_error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/js\/JS.swift",
       "kind": "StringLiteral",
-      "offset": 14302,
+      "offset": 14208,
       "length": 20,
       "value": "\"AppBoxoWebAppTrack\""
     },
