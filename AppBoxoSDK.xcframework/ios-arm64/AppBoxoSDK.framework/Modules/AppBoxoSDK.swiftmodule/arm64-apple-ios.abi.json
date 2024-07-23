@@ -9608,432 +9608,558 @@
       "kind": "IntegerLiteral",
       "offset": 1259,
       "length": 3,
+      "value": "400"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1435,
+      "length": 66,
+      "value": "\"get miniapp settings failed. Response \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1500,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1515,
+      "length": 10,
+      "value": "\"response\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1623,
+      "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 1371,
+      "offset": 1735,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1430,
+      "offset": 1794,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1797,
+      "offset": 2161,
       "length": 44,
       "value": "\"Miniapp is not available. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2104,
+      "offset": 2468,
       "length": 44,
       "value": "\"Miniapp is not available. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2654,
+      "offset": 3018,
       "length": 133,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2694,
+      "offset": 3058,
       "length": 1,
       "value": "\"\/api\/v1\/partner\/miniapps\/approved_miniapps\/?client_id=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2786,
+      "offset": 3150,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2820,
+      "offset": 3184,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2860,
+      "offset": 3224,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2900,
+      "offset": 3264,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 3154,
+      "offset": 3518,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 3368,
+      "offset": 3732,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3556,
+      "offset": 3920,
+      "length": 3,
+      "value": "400"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4063,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4076,
+      "length": 67,
+      "value": "\"get approved miniapps failed. Response \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4142,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4157,
+      "length": 10,
+      "value": "\"response\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4265,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 3651,
+      "offset": 4360,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 3806,
+      "offset": 4515,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Array",
-      "offset": 4241,
+      "offset": 4950,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4572,
+      "offset": 5281,
       "length": 30,
       "value": "\"https:\/\/shop-dev.appboxo.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4605,
+      "offset": 5314,
       "length": 26,
       "value": "\"https:\/\/shop.appboxo.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4727,
+      "offset": 5436,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4735,
+      "offset": 5444,
       "length": 1,
       "value": "\"\/api\/v1\/authorize\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4791,
+      "offset": 5500,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4854,
+      "offset": 5563,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4921,
+      "offset": 5630,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 4955,
+      "offset": 5664,
       "length": 16,
       "value": "\"user_reference\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 5025,
+      "offset": 5734,
       "length": 11,
       "value": "\"auth_code\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 5205,
+      "offset": 5914,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 5245,
+      "offset": 5954,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 5540,
+      "offset": 6249,
       "length": 42,
       "value": "\"No internet connection. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 5603,
+      "offset": 6312,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5811,
+      "offset": 6520,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 6256,
+      "offset": 6740,
+      "length": 51,
+      "value": "\"login failed. Response \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6790,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6805,
+      "length": 10,
+      "value": "\"response\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7280,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 6523,
+      "offset": 7547,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 6577,
+      "offset": 7601,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 6757,
+      "offset": 7781,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7190,
+      "offset": 8214,
       "length": 195,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7230,
+      "offset": 8254,
       "length": 1,
       "value": "\"\/api\/v1\/accounts\/consent\/get_consent\/?client_id=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7316,
+      "offset": 8340,
       "length": 1,
       "value": "\"&app_id=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7332,
+      "offset": 8356,
       "length": 1,
       "value": "\"&user_reference=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7384,
+      "offset": 8408,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 7668,
+      "offset": 8692,
       "length": 42,
       "value": "\"No internet connection. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 7731,
+      "offset": 8755,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7939,
+      "offset": 8963,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8384,
+      "offset": 9183,
+      "length": 62,
+      "value": "\"get user consent failed. Response \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9244,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9259,
+      "length": 10,
+      "value": "\"response\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9734,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8651,
+      "offset": 10001,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 8705,
+      "offset": 10055,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8891,
+      "offset": 10241,
       "length": 14,
       "value": "\"is_consented\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9334,
+      "offset": 10684,
       "length": 190,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9374,
+      "offset": 10724,
       "length": 1,
       "value": "\"\/api\/v1\/accounts\/consent\/revoke\/?client_id=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9455,
+      "offset": 10805,
       "length": 1,
       "value": "\"&app_id=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9471,
+      "offset": 10821,
       "length": 1,
       "value": "\"&user_reference=\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9523,
+      "offset": 10873,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9561,
+      "offset": 10911,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 9847,
+      "offset": 11197,
       "length": 42,
       "value": "\"No internet connection. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 9910,
+      "offset": 11260,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10118,
+      "offset": 11468,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10159,
+      "offset": 11509,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 10188,
+      "offset": 11538,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10317,
+      "offset": 11667,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 10762,
+      "offset": 11887,
+      "length": 65,
+      "value": "\"revoke user consent failed. Response \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 11951,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 11966,
+      "length": 10,
+      "value": "\"response\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 12441,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 11029,
+      "offset": 12708,
       "length": 33,
       "value": "\"Unknown error. Try again later.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/NetworkManager.swift",
       "kind": "Dictionary",
-      "offset": 11083,
+      "offset": 12762,
       "length": 3,
       "value": "[]"
     },
@@ -10068,175 +10194,154 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 390,
-      "length": 41,
-      "value": "\"https:\/\/sentry.appboxo.com\/api\/9\/store\/\""
+      "offset": 274,
+      "length": 7,
+      "value": "\"1.5.3\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 464,
+      "offset": 424,
+      "length": 47,
+      "value": "\"https:\/\/sentry.io\/api\/4507649859321856\/store\/\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
+      "kind": "StringLiteral",
+      "offset": 504,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 515,
+      "offset": 555,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 548,
+      "offset": 588,
       "length": 7,
       "value": "\"extra\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 576,
+      "offset": 616,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 610,
+      "offset": 650,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 677,
+      "offset": 717,
       "length": 13,
       "value": "\"stack_trace\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 734,
+      "offset": 774,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 747,
+      "offset": 787,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 810,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 780,
-      "length": 19,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
-      "kind": "StringLiteral",
-      "offset": 798,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
-      "kind": "StringLiteral",
-      "offset": 817,
+      "offset": 852,
       "length": 8,
       "value": "\"system\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 828,
+      "offset": 863,
       "length": 39,
       "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 866,
+      "offset": 901,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 885,
+      "offset": 920,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 901,
-      "length": 43,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
-      "kind": "StringLiteral",
-      "offset": 943,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
-      "kind": "StringLiteral",
-      "offset": 962,
+      "offset": 964,
       "length": 17,
       "value": "\"additional_data\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "Dictionary",
-      "offset": 995,
+      "offset": 997,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1154,
+      "offset": 1156,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1194,
+      "offset": 1196,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1235,
-      "length": 134,
-      "value": "\"Sentry sentry_version=7, sentry_key=0b29d20ed8a14aa4a1d4b21f041d611e, sentry_client=iOSSDK\/\""
+      "offset": 1237,
+      "length": 106,
+      "value": "\"Sentry sentry_version=7, sentry_key=525fabf4162e03215e0da751b36a8772, sentry_client=iOSSDK\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1368,
+      "offset": 1342,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1391,
+      "offset": 1365,
       "length": 15,
       "value": "\"X-Sentry-Auth\""
     },
