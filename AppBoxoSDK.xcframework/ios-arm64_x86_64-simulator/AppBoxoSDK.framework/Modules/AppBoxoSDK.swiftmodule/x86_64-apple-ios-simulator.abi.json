@@ -10196,7 +10196,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 7,
-      "value": "\"1.5.3\""
+      "value": "\"1.5.4\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
@@ -12903,254 +12903,366 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 699,
+      "offset": 693,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 732,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 759,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 854,
+      "offset": 840,
       "length": 6,
       "value": "\"Main\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1563,
+      "offset": 1549,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1761,
+      "offset": 1747,
       "length": 4,
       "value": "0.73"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2005,
+      "offset": 1991,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3102,
+      "offset": 3049,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3359,
+      "offset": 3306,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3798,
+      "offset": 3745,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3810,
+      "offset": 3757,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3837,
+      "offset": 3784,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3865,
+      "offset": 3812,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6030,
+      "offset": 5977,
       "length": 5,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6103,
+      "offset": 6050,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6252,
+      "offset": 6199,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6343,
+      "offset": 6290,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6355,
+      "offset": 6302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6382,
+      "offset": 6329,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7294,
+      "offset": 7241,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7412,
+      "offset": 7359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7591,
+      "offset": 7538,
       "length": 6,
       "value": "\"cell\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7672,
+      "offset": 7619,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7740,
+      "offset": 7687,
       "length": 70,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7780,
+      "offset": 7727,
       "length": 1,
       "value": "\"\/media\/apps\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7800,
+      "offset": 7747,
       "length": 1,
       "value": "\"\/logo.png\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7900,
+      "offset": 7847,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7933,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8034,
+      "offset": 8005,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8086,
-      "length": 60,
+      "offset": 8057,
+      "length": 108,
       "value": "\"Allow \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8107,
+      "offset": 8099,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8102,
       "length": 2,
       "value": "\" to access your \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8137,
+      "offset": 8153,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8156,
       "length": 7,
       "value": "\" account\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8212,
+      "offset": 8231,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8332,
+      "offset": 8546,
       "length": 20,
       "value": "\"appboxo_color_dark\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8463,
+      "offset": 8763,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8633,
+      "offset": 8933,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8748,
+      "offset": 9048,
       "length": 3,
       "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9158,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9251,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9756,
+      "length": 3,
+      "value": "1.1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9928,
+      "length": 8,
+      "value": "0x797F8B"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9993,
+      "length": 4,
+      "value": "12.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10061,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10100,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10185,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10194,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10205,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10215,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10285,
+      "length": 8,
+      "value": "0x797F8B"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10382,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/SSOViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11263,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
@@ -14051,21 +14163,35 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4882,
+      "offset": 4912,
       "length": 20,
       "value": "\"is_consent_enabled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4882,
+      "offset": 4960,
+      "length": 14,
+      "value": "\"consent_text\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/models\/MiniAppSettings.swift",
+      "kind": "StringLiteral",
+      "offset": 4912,
       "length": 20,
       "value": "\"is_consent_enabled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/models\/MiniAppSettings.swift",
+      "kind": "StringLiteral",
+      "offset": 4960,
+      "length": 14,
+      "value": "\"consent_text\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/models\/MiniAppSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 5040,
+      "offset": 5112,
       "length": 5,
       "value": "false"
     },
@@ -18524,259 +18650,259 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26907,
+      "offset": 26724,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 27128,
+      "offset": 26945,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 28895,
+      "offset": 28712,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 29988,
+      "offset": 29805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30193,
+      "offset": 30010,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30516,
+      "offset": 30333,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30599,
+      "offset": 30416,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30641,
+      "offset": 30458,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30727,
+      "offset": 30544,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30735,
+      "offset": 30552,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30781,
+      "offset": 30598,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 30793,
+      "offset": 30610,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 30876,
+      "offset": 30693,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30957,
+      "offset": 30774,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 31140,
+      "offset": 30957,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 31241,
+      "offset": 31058,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 31254,
+      "offset": 31071,
       "length": 16,
       "value": "\"Unable to open\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 31458,
+      "offset": 31275,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 31883,
+      "offset": 31700,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 31933,
+      "offset": 31750,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 31946,
+      "offset": 31763,
       "length": 52,
       "value": "\"Miniapp isn't responding, hiding loading indicator\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 32069,
+      "offset": 31886,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 32145,
+      "offset": 31962,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 32322,
+      "offset": 32139,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 32369,
+      "offset": 32186,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 32426,
+      "offset": 32243,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 32475,
+      "offset": 32292,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 32695,
+      "offset": 32512,
       "length": 6,
       "value": "\"Main\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 33020,
+      "offset": 32837,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 33233,
+      "offset": 33050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 33599,
+      "offset": 33416,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 33720,
+      "offset": 33537,
       "length": 6,
       "value": "\"Main\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 33974,
+      "offset": 33791,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 34179,
+      "offset": 33996,
       "length": 6,
       "value": "\"Main\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 34502,
+      "offset": 34319,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 34972,
+      "offset": 34789,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/viewcontrollers\/BaseMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 35067,
+      "offset": 34884,
       "length": 5,
       "value": "false"
     },
