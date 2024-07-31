@@ -309,6 +309,7 @@ enum Theme : NSInteger;
 
 SWIFT_CLASS_NAMED("Config")
 @interface Config : NSObject
+@property (nonatomic) BOOL staging;
 @property (nonatomic) BOOL sandboxMode;
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;

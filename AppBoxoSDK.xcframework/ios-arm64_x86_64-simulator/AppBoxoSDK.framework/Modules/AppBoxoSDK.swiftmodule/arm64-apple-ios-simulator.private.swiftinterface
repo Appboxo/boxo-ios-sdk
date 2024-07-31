@@ -38,6 +38,7 @@ import _StringProcessing
   }
 }
 @objc(Config) public class Config : ObjectiveC.NSObject {
+  @objc public var staging: Swift.Bool
   @objc public var sandboxMode: Swift.Bool
   @objc public var permissionsPage: Swift.Bool
   @objc public var showClearCache: Swift.Bool
