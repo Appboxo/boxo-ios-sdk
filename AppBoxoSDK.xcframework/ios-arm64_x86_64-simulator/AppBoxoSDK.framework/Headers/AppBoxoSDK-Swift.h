@@ -451,6 +451,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -899,6 +900,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {
   ThemeLight = 1,
   ThemeSystem = 2,
 };
+
 
 
 
