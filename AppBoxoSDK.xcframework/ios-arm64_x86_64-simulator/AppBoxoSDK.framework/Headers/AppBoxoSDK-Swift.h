@@ -313,6 +313,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL sandboxMode;
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
+@property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
@@ -775,6 +776,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL sandboxMode;
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
+@property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
