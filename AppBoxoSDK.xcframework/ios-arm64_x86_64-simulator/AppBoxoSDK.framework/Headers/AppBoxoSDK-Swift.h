@@ -373,6 +373,7 @@ SWIFT_CLASS_NAMED("MiniappColor")
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
+@property (nonatomic) BOOL saveState;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
@@ -836,6 +837,7 @@ SWIFT_CLASS_NAMED("MiniappColor")
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
+@property (nonatomic) BOOL saveState;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
