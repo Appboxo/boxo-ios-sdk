@@ -154,7 +154,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		oziYGqoe2PiL2Hu9Qiki8rvVEps=
+		Pa2Szsa2HwWt+x+w5IgvPF8pdxo=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -170,11 +170,11 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fU0BVNXXgNO1pqZelqG8Pa3kH20=
+		LxEqoRiItTWOvBgPFProi1ML9jw=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		oziYGqoe2PiL2Hu9Qiki8rvVEps=
+		Pa2Szsa2HwWt+x+w5IgvPF8pdxo=
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5nedBSkRgDFDLcsHbgat7u3siMw=
+		D4YPQtyWT8Ocwqp6ov3dRO1+jBE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -607,11 +607,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oziYGqoe2PiL2Hu9Qiki8rvVEps=
+			Pa2Szsa2HwWt+x+w5IgvPF8pdxo=
 			</data>
 			<key>hash2</key>
 			<data>
-			o+KkqFZtVcYKzrQoAeDPkdhe9XSOJk6SoQK3FiY893k=
+			HjzWTchUgCo5HCaR7xkPLJpches7ZUjnE32+gGS+Rr8=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -651,22 +651,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fU0BVNXXgNO1pqZelqG8Pa3kH20=
+			LxEqoRiItTWOvBgPFProi1ML9jw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QPi/qKb9UaFXOJ8rMU9yHWZ4p6a6A/oelvB9ccMzgG8=
+			IsXXilTdsyKpbTwk90pY3q1bzjkRHHzkGx5vXJpu90U=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oziYGqoe2PiL2Hu9Qiki8rvVEps=
+			Pa2Szsa2HwWt+x+w5IgvPF8pdxo=
 			</data>
 			<key>hash2</key>
 			<data>
-			o+KkqFZtVcYKzrQoAeDPkdhe9XSOJk6SoQK3FiY893k=
+			HjzWTchUgCo5HCaR7xkPLJpches7ZUjnE32+gGS+Rr8=
 			</data>
 		</dict>
 		<key>Modules/AppBoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -706,11 +706,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5nedBSkRgDFDLcsHbgat7u3siMw=
+			D4YPQtyWT8Ocwqp6ov3dRO1+jBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CXmVuTxQrdbo0Ff6WFQs6w3cnVNWl1gbE5FHDS5gUVo=
+			YvoNuxMaeR8Y1cWCYAbIeL1UHpByXr9oQ++udM0gEsE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
