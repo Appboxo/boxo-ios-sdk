@@ -10734,7 +10734,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.5.14\""
+      "value": "\"1.5.15\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/Core\/Core\/source\/utils\/SentryManger.swift",
@@ -16989,519 +16989,568 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11656,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11660,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11664,
-      "length": 2,
-      "value": "-1"
+      "kind": "BooleanLiteral",
+      "offset": 11650,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 12036,
+      "offset": 11742,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12073,
+      "offset": 11780,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12082,
+      "offset": 11789,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11912,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11916,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11920,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 12255,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12293,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12223,
+      "offset": 12443,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12538,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12547,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12624,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15016,
+      "offset": 15417,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15190,
+      "offset": 15591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16210,
+      "offset": 16611,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 16502,
+      "offset": 16903,
       "length": 16,
       "value": "\"Download error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17148,
+      "offset": 17549,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17322,
+      "offset": 17723,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17984,
+      "offset": 18385,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 18259,
+      "offset": 18660,
       "length": 16,
       "value": "\"Download error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 19348,
+      "offset": 19749,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20239,
+      "offset": 20640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20826,
+      "offset": 21227,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21381,
+      "offset": 21782,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21695,
+      "offset": 22096,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22080,
+      "offset": 22481,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22532,
+      "offset": 22933,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22801,
+      "offset": 23202,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23034,
+      "offset": 23435,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 24090,
+      "offset": 24491,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 24447,
+      "offset": 24848,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 24975,
+      "offset": 25376,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25347,
+      "offset": 25748,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 25748,
+      "offset": 26149,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 25763,
+      "offset": 26164,
       "length": 2,
       "value": "\" is requesting access to your location\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "Array",
-      "offset": 25820,
+      "offset": 26221,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25988,
+      "offset": 26389,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26230,
+      "offset": 26631,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26325,
+      "offset": 26726,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 26342,
+      "offset": 26743,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 26356,
+      "offset": 26757,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26585,
+      "offset": 26986,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 27179,
+      "offset": 27580,
       "length": 19,
       "value": "\"Permission denied\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 27209,
+      "offset": 27610,
       "length": 36,
       "value": "\"Do you want to change permissions?\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 27324,
+      "offset": 27725,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "Dictionary",
-      "offset": 27583,
+      "offset": 27984,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 27802,
+      "offset": 28203,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 27938,
+      "offset": 28339,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27955,
+      "offset": 28356,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27969,
+      "offset": 28370,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 28059,
+      "offset": 28460,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 28267,
+      "offset": 28668,
       "length": 7,
       "value": "\"light\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 28409,
+      "offset": 28810,
       "length": 8,
       "value": "\"medium\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 28553,
+      "offset": 28954,
       "length": 7,
       "value": "\"heavy\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 29218,
+      "offset": 29619,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 29491,
+      "offset": 29892,
       "length": 9,
       "value": "\"checked\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 29634,
+      "offset": 30035,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 30009,
+      "offset": 30410,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 30024,
+      "offset": 30425,
       "length": 2,
       "value": "\" is requesting access to your camera\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "Array",
-      "offset": 30079,
+      "offset": 30480,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30245,
+      "offset": 30646,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30455,
+      "offset": 30856,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30756,
+      "offset": 31157,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 31019,
+      "offset": 31420,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "Array",
-      "offset": 33019,
+      "offset": 33420,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 33552,
+      "offset": 33953,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 33608,
+      "offset": 34009,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 33696,
+      "offset": 34097,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 34734,
+      "offset": 35135,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 34850,
+      "offset": 35251,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 34878,
+      "offset": 35279,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 35250,
+      "offset": 35651,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 37263,
+      "offset": 37664,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 37943,
+      "offset": 38344,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 37960,
+      "offset": 38361,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 37974,
+      "offset": 38375,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 38403,
+      "offset": 38804,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 38420,
+      "offset": 38821,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/viewcontrollers\/FullMiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 38434,
+      "offset": 38835,
       "length": 1,
       "value": "0"
     },
