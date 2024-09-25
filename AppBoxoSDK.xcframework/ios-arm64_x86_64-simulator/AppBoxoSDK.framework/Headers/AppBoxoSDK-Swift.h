@@ -313,6 +313,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL sandboxMode;
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
+@property (nonatomic) BOOL showAboutPage;
 @property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
@@ -374,6 +375,7 @@ SWIFT_CLASS_NAMED("MiniappColor")
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
 @property (nonatomic) BOOL saveState;
+@property (nonatomic, copy) NSString * _Nonnull urlSuffix;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
@@ -777,6 +779,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL sandboxMode;
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
+@property (nonatomic) BOOL showAboutPage;
 @property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
@@ -838,6 +841,7 @@ SWIFT_CLASS_NAMED("MiniappColor")
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
 @property (nonatomic) BOOL saveState;
+@property (nonatomic, copy) NSString * _Nonnull urlSuffix;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
