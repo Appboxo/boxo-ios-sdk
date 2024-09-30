@@ -8852,153 +8852,153 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
       "offset": 274,
-      "length": 8,
-      "value": "\"1.5.16\""
+      "length": 7,
+      "value": "\"1.6.0\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 425,
+      "offset": 424,
       "length": 47,
       "value": "\"https:\/\/sentry.io\/api\/4507649859321856\/store\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 505,
+      "offset": 504,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 556,
+      "offset": 555,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 589,
+      "offset": 588,
       "length": 7,
       "value": "\"extra\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 617,
+      "offset": 616,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 651,
+      "offset": 650,
       "length": 11,
       "value": "\"client_id\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 717,
       "length": 13,
       "value": "\"stack_trace\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 775,
+      "offset": 774,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 788,
+      "offset": 787,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 811,
+      "offset": 810,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 853,
+      "offset": 852,
       "length": 8,
       "value": "\"system\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 864,
+      "offset": 863,
       "length": 39,
       "value": "\"ios \""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 902,
+      "offset": 901,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 921,
+      "offset": 920,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 965,
+      "offset": 964,
       "length": 17,
       "value": "\"additional_data\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "Dictionary",
-      "offset": 998,
+      "offset": 997,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1157,
+      "offset": 1156,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1197,
+      "offset": 1196,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1238,
+      "offset": 1237,
       "length": 106,
       "value": "\"Sentry sentry_version=7, sentry_key=525fabf4162e03215e0da751b36a8772, sentry_client=iOSSDK\/\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1343,
+      "offset": 1342,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
       "kind": "StringLiteral",
-      "offset": 1366,
+      "offset": 1365,
       "length": 15,
       "value": "\"X-Sentry-Auth\""
     },
