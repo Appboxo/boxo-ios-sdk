@@ -9,9 +9,9 @@
   - Your project must target iOS 10 or later.
   - Swift projects must use Swift 4.2 or later.
   
+
   
-  
-**CocoaPods installation**
+## CocoaPods installation
     
    CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. 
    To integrate AppBoxoSDK into your Xcode project using CocoaPods, specify it in your Podfile:
