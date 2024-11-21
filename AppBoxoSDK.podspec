@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.swift_version = "4.2"
     
     
-    s.source = { :git => "https://github.com/Appboxo/ios-sdk-binary.git", :tag => "#{s.version}" }
+    s.source = { :git => "https://github.com/Appboxo/appboxo-ios-sdk.git", :tag => "#{s.version}" }
     
     s.exclude_files = "Classes/Exclude"
     s.ios.vendored_frameworks = 'AppBoxoSDK.xcframework'
