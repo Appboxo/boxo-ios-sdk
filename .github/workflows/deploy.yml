@@ -16,7 +16,7 @@ jobs:
         git config --global url."https://${{ secrets.token }}:@github.com/".insteadOf "https://github.com/"
     - name: Set git tag
       run: |
-        git tag `cat version.txt` -m `cat tag.txt`
+        git tag `cat version.txt` -m "cat tag.txt"
         git push --tags
     - name: Update cocoapods
       run: |
