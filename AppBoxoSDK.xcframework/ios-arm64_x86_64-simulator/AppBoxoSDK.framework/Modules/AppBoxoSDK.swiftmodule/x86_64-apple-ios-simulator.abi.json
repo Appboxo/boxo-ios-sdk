@@ -8839,7 +8839,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 7,
-      "value": "\"1.7.4\""
+      "value": "\"1.7.5\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
@@ -9495,14 +9495,7 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Router.swift",
       "kind": "BooleanLiteral",
-      "offset": 8295,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Router.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8647,
+      "offset": 8192,
       "length": 4,
       "value": "true"
     },
@@ -10496,7 +10489,14 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 226,
+      "offset": 225,
+      "length": 9,
+      "value": "\"style_3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
       "length": 9,
       "value": "\"default\""
     },
@@ -10517,826 +10517,945 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 226,
+      "offset": 225,
+      "length": 9,
+      "value": "\"style_3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
       "length": 9,
       "value": "\"default\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 913,
+      "offset": 941,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1104,
+      "offset": 1132,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1190,
+      "offset": 1218,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1278,
+      "offset": 1306,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1368,
+      "offset": 1396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1611,
+      "offset": 1639,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1711,
+      "offset": 1739,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1813,
+      "offset": 1841,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1917,
+      "offset": 1945,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2180,
+      "offset": 2208,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2197,
+      "offset": 2225,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2267,
+      "offset": 2295,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2284,
+      "offset": 2312,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2365,
+      "offset": 2393,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2382,
+      "offset": 2410,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2451,
+      "offset": 2479,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2468,
+      "offset": 2496,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2557,
+      "offset": 2585,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2574,
+      "offset": 2602,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2651,
+      "offset": 2679,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2668,
+      "offset": 2696,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2732,
+      "offset": 2760,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2782,
+      "offset": 2810,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 2840,
+      "offset": 2868,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2913,
+      "offset": 2941,
       "length": 8,
       "value": "0xF5F5F5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2977,
+      "offset": 3005,
       "length": 8,
       "value": "0xF5F5F5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3049,
+      "offset": 3077,
       "length": 8,
       "value": "0xF5F5F5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 3113,
+      "offset": 3141,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 3253,
+      "offset": 3281,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3269,
+      "offset": 3297,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 3368,
+      "offset": 3396,
       "length": 4,
       "value": "-2.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3385,
+      "offset": 3413,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3487,
+      "offset": 3515,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3591,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
-      "kind": "FloatLiteral",
-      "offset": 3854,
-      "length": 4,
-      "value": "24.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3871,
+      "offset": 3619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 3941,
+      "offset": 3882,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3958,
+      "offset": 3899,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 4039,
+      "offset": 3969,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4056,
+      "offset": 3986,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 4125,
+      "offset": 4067,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4142,
+      "offset": 4084,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 4231,
+      "offset": 4153,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4248,
+      "offset": 4170,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 4325,
+      "offset": 4259,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4342,
+      "offset": 4276,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 4353,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4370,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4520,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4620,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4722,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4826,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5089,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5106,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5176,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5193,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5274,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5291,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5360,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5377,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5466,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5483,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5560,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5577,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4486,
+      "offset": 5721,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4500,
+      "offset": 5735,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4599,
+      "offset": 5834,
       "length": 2,
       "value": "-2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4614,
+      "offset": 5849,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4715,
+      "offset": 5950,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4729,
+      "offset": 5964,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4832,
+      "offset": 6067,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4847,
+      "offset": 6082,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5030,
+      "offset": 6265,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5355,
+      "offset": 6590,
       "length": 4,
       "value": "26.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5372,
+      "offset": 6607,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5442,
+      "offset": 6677,
       "length": 4,
       "value": "28.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5459,
+      "offset": 6694,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5540,
+      "offset": 6775,
       "length": 4,
       "value": "26.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5557,
+      "offset": 6792,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5626,
+      "offset": 6861,
       "length": 4,
       "value": "28.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5643,
+      "offset": 6878,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5732,
+      "offset": 6967,
       "length": 4,
       "value": "26.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5749,
+      "offset": 6984,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 5826,
+      "offset": 7061,
       "length": 4,
       "value": "28.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5843,
+      "offset": 7078,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6138,
+      "offset": 7373,
       "length": 8,
       "value": "0xffffff"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 6155,
+      "offset": 7390,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6221,
+      "offset": 7456,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6286,
+      "offset": 7521,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6357,
+      "offset": 7592,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6540,
+      "offset": 7775,
       "length": 8,
       "value": "0x000000"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 6557,
+      "offset": 7792,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6623,
+      "offset": 7858,
       "length": 8,
       "value": "0xffffff"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 6640,
+      "offset": 7875,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6700,
+      "offset": 7935,
       "length": 8,
       "value": "0xffffff"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 6717,
+      "offset": 7952,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6783,
+      "offset": 8018,
       "length": 8,
       "value": "0xffffff"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 6800,
+      "offset": 8035,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6900,
+      "offset": 8135,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6954,
+      "offset": 8189,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7045,
+      "offset": 8280,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7098,
+      "offset": 8333,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 7280,
+      "offset": 8524,
       "length": 39,
       "value": "\"appboxo_ic_action_button_more_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 7420,
+      "offset": 8664,
       "length": 40,
       "value": "\"appboxo_ic_action_button_close_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 7582,
+      "offset": 8826,
       "length": 39,
       "value": "\"appboxo_ic_action_button_more_style_2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 7722,
+      "offset": 8966,
       "length": 40,
       "value": "\"appboxo_ic_action_button_close_style_2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 7885,
+      "offset": 9129,
       "length": 31,
       "value": "\"appboxo_ic_action_button_more\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 8017,
+      "offset": 9261,
       "length": 32,
       "value": "\"appboxo_ic_action_button_close\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "StringLiteral",
-      "offset": 245,
+      "offset": 273,
       "length": 17,
       "value": "\"AppBoxoSDK.ActionButtonsView\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 8254,
+      "offset": 9498,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 8292,
+      "offset": 9536,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8342,
+      "offset": 9586,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8417,
+      "offset": 9661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8584,
+      "offset": 9828,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8708,
+      "offset": 9952,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8869,
+      "offset": 10113,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8931,
+      "offset": 10175,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9123,
+      "offset": 10367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9316,
+      "offset": 10560,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9492,
+      "offset": 10736,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9507,
+      "offset": 10751,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9565,
+      "offset": 10809,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9579,
+      "offset": 10823,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9641,
+      "offset": 10885,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9811,
+      "offset": 11055,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9826,
+      "offset": 11070,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9884,
+      "offset": 11128,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9898,
+      "offset": 11142,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9960,
+      "offset": 11204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10210,
+      "offset": 11454,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10300,
+      "offset": 11544,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10386,
+      "offset": 11630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10448,
+      "offset": 11692,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 10620,
+      "offset": 11864,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 10626,
+      "offset": 11870,
       "length": 3,
       "value": "1.0"
     },

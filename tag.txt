@@ -1,1 +1,1 @@
-1.7.4
+Add new style_3, Fix miniapp reload issue
