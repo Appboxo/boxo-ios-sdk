@@ -18,8 +18,10 @@ jobs:
       run: |
         git tag `cat version.txt` -m "`cat tag.txt`"
         git push --tags
+    - uses: maxim-lobanov/setup-xcode@v1
+      with:
+        xcode-version: '15.1.0'
     - name: Update cocoapods
       run: |
-        sudo xcode-select -switch /Applications/Xcode_14.3.1.app
         export COCOAPODS_TRUNK_TOKEN=${{secrets.COCOAPODS_TRUNK_TOKEN}}
         pod trunk push AppBoxoSDK.podspec --allow-warnings
