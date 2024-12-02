@@ -6911,6 +6911,34 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AppBoxoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AppBoxoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "AppBoxoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "AppBoxoSDK"
       }
     ],
     "json_format_version": 8
@@ -8839,7 +8867,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 7,
-      "value": "\"1.7.5\""
+      "value": "\"1.7.6\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/SentryManger.swift",
@@ -19687,483 +19715,483 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2484,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 2729,
+      "offset": 2697,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 2780,
+      "offset": 2748,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2867,
+      "offset": 2835,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3019,
+      "offset": 2987,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3037,
+      "offset": 3005,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3097,
+      "offset": 3065,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3289,
+      "offset": 3257,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3330,
+      "offset": 3298,
       "length": 26,
       "value": "\"kCFLocaleLanguageCodeKey\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3426,
+      "offset": 3394,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 4107,
+      "offset": 4075,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 4913,
+      "offset": 4881,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6095,
+      "offset": 6063,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 6255,
+      "offset": 6223,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 6509,
+      "offset": 6477,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6619,
+      "offset": 6587,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6689,
+      "offset": 6657,
       "length": 6,
       "value": "\"%02x\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 6901,
+      "offset": 6869,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 6932,
+      "offset": 6900,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 6961,
+      "offset": 6929,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 7041,
+      "offset": 7009,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7092,
+      "offset": 7060,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7098,
+      "offset": 7066,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7131,
+      "offset": 7099,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7136,
+      "offset": 7104,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7166,
+      "offset": 7134,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 7346,
+      "offset": 7314,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 7353,
+      "offset": 7321,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7385,
+      "offset": 7353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 7391,
+      "offset": 7359,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 7798,
+      "offset": 7766,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 8096,
+      "offset": 8064,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 8888,
+      "offset": 8856,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "Dictionary",
-      "offset": 9668,
+      "offset": 9636,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10173,
+      "offset": 10141,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10204,
+      "offset": 10172,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 10286,
+      "offset": 10254,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 10303,
+      "offset": 10271,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 10531,
+      "offset": 10499,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10646,
+      "offset": 10614,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10728,
+      "offset": 10696,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10859,
+      "offset": 10827,
       "length": 8,
       "value": "0xFF0000"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10872,
+      "offset": 10840,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 10878,
+      "offset": 10846,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10924,
+      "offset": 10892,
       "length": 8,
       "value": "0x00FF00"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10937,
+      "offset": 10905,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 10942,
+      "offset": 10910,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 10986,
+      "offset": 10954,
       "length": 8,
       "value": "0x0000FF"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 10998,
+      "offset": 10966,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 11032,
+      "offset": 11000,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 11346,
+      "offset": 11314,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 11481,
+      "offset": 11449,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 11727,
+      "offset": 11695,
       "length": 6,
       "value": "\"ОК\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 11827,
+      "offset": 11795,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 13631,
+      "offset": 13599,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 13875,
+      "offset": 13843,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 14121,
+      "offset": 14089,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 14682,
+      "offset": 14650,
       "length": 4,
       "value": "32.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 14689,
+      "offset": 14657,
       "length": 4,
       "value": "49.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 14732,
+      "offset": 14700,
       "length": 4,
       "value": "49.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15133,
+      "offset": 15101,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15399,
+      "offset": 15367,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 15491,
+      "offset": 15459,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15746,
+      "offset": 15714,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15822,
+      "offset": 15790,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15866,
+      "offset": 15834,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15895,
+      "offset": 15863,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15911,
+      "offset": 15879,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/AppBoxoSDK\/AppBoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 15926,
+      "offset": 15894,
       "length": 1,
       "value": "\"\""
     },
@@ -20523,6 +20551,286 @@
       "offset": 11366,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 642,
+      "length": 20,
+      "value": "\"appboxo_color_dark\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 808,
+      "length": 21,
+      "value": "\"appboxo_color_white\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1100,
+      "length": 32,
+      "value": "\"appboxo_ic_action_button_close\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1312,
+      "length": 40,
+      "value": "\"appboxo_ic_action_button_close_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1532,
+      "length": 40,
+      "value": "\"appboxo_ic_action_button_close_style_2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1749,
+      "length": 38,
+      "value": "\"appboxo_ic_action_button_dark_center\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1960,
+      "length": 36,
+      "value": "\"appboxo_ic_action_button_dark_left\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2171,
+      "length": 37,
+      "value": "\"appboxo_ic_action_button_dark_right\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2387,
+      "length": 39,
+      "value": "\"appboxo_ic_action_button_light_center\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2601,
+      "length": 37,
+      "value": "\"appboxo_ic_action_button_light_left\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2815,
+      "length": 38,
+      "value": "\"appboxo_ic_action_button_light_right\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3017,
+      "length": 31,
+      "value": "\"appboxo_ic_action_button_more\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3226,
+      "length": 39,
+      "value": "\"appboxo_ic_action_button_more_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3443,
+      "length": 39,
+      "value": "\"appboxo_ic_action_button_more_style_2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3632,
+      "length": 23,
+      "value": "\"appboxo_ic_annotation\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3793,
+      "length": 17,
+      "value": "\"appboxo_ic_back\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3994,
+      "length": 42,
+      "value": "\"appboxo_ic_big_action_button_dark_center\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4216,
+      "length": 40,
+      "value": "\"appboxo_ic_big_action_button_dark_left\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4438,
+      "length": 41,
+      "value": "\"appboxo_ic_big_action_button_dark_right\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4665,
+      "length": 43,
+      "value": "\"appboxo_ic_big_action_button_light_center\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4890,
+      "length": 41,
+      "value": "\"appboxo_ic_big_action_button_light_left\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5115,
+      "length": 42,
+      "value": "\"appboxo_ic_big_action_button_light_right\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5297,
+      "length": 18,
+      "value": "\"appboxo_ic_close\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5470,
+      "length": 26,
+      "value": "\"appboxo_ic_close_confirm\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5660,
+      "length": 31,
+      "value": "\"appboxo_ic_context_menu_about\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5869,
+      "length": 39,
+      "value": "\"appboxo_ic_context_menu_about_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6083,
+      "length": 37,
+      "value": "\"appboxo_ic_context_menu_clear_cache\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6309,
+      "length": 45,
+      "value": "\"appboxo_ic_context_menu_clear_cache_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6518,
+      "length": 31,
+      "value": "\"appboxo_ic_context_menu_close\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6715,
+      "length": 32,
+      "value": "\"appboxo_ic_context_menu_reload\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6927,
+      "length": 40,
+      "value": "\"appboxo_ic_context_menu_reload_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7155,
+      "length": 44,
+      "value": "\"appboxo_ic_context_menu_report_or_feedback\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7369,
+      "length": 34,
+      "value": "\"appboxo_ic_context_menu_settings\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7587,
+      "length": 42,
+      "value": "\"appboxo_ic_context_menu_settings_style_1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7790,
+      "length": 29,
+      "value": "\"appboxo_ic_current_location\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7970,
+      "length": 24,
+      "value": "\"appboxo_ic_more_button\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8143,
+      "length": 23,
+      "value": "\"appboxo_ic_powered_by\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8325,
+      "length": 28,
+      "value": "\"appboxo_ic_settgins_camera\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8516,
+      "length": 30,
+      "value": "\"appboxo_ic_settings_location\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/AppBoxo-drhdwczntzsfqqfsgdnrjduvzupe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AppBoxoSDK\/IntermediateBuildFilesPath\/AppBoxoSDK.build\/Release-iphonesimulator\/AppBoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8709,
+      "length": 30,
+      "value": "\"appboxo_ic_settings_userinfo\""
     }
   ]
 }

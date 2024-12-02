@@ -1,1 +1,1 @@
-Add new style_3, Fix miniapp reload issue
+String encoding from ascii to utf8
