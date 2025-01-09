@@ -1,1 +1,1 @@
-Support LTR/RTL semantic regardless of the hostapp
+Fix deleting cookies and local storage on logout
