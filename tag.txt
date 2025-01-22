@@ -1,1 +1,1 @@
-Fix deleting cookies and local storage on logout
+Multiline error popup
