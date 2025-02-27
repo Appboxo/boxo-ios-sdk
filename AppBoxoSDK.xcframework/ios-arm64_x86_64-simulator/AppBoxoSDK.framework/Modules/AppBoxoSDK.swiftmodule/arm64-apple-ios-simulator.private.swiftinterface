@@ -1,10 +1,12 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AppBoxoSDK
+// swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AppBoxoSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 @_exported import AppBoxoSDK
 import CommonCrypto
+import Compression
+import CoreFoundation
 import CoreGraphics
 import CoreLocation
 import CoreMotion
@@ -19,6 +21,7 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import zlib
 @objc(Appboxo) open class Appboxo : ObjectiveC.NSObject {
   @objc public static let shared: AppBoxoSDK.Appboxo
   @objc required public init(config: AppBoxoSDK.Config)
@@ -31,6 +34,9 @@ import _SwiftConcurrencyShims
   @objc(getMiniapps:) public func getMiniapps(completion: @escaping (_ miniapps: [AppBoxoSDK.MiniappData], _ error: Swift.String?) -> Swift.Void)
   public func cacheMiniappSettings(appId: Swift.String, completion: ((_ success: Swift.Bool, _ error: Swift.String?) -> Swift.Void)? = nil)
   public func prepareMiniapps(appIds: [Swift.String], completion: ((_ list: [[Swift.String : Swift.String]]) -> Swift.Void)? = nil)
+  public func downloadMiniapp(appId: Swift.String, zipUrl: Swift.String, completion: ((_ success: Swift.Bool) -> Swift.Void)? = nil)
+  public func isMiniappDownloaded(appId: Swift.String) -> Swift.Bool
+  public func removeDownloadedMiniapp(appId: Swift.String)
   @objc deinit
 }
 @objc(MiniappDelegate) public protocol MiniappDelegate {
@@ -128,6 +134,178 @@ import _SwiftConcurrencyShims
   public func encode(to encoder: any Swift.Encoder) throws
   required public init(from decoder: any Swift.Decoder) throws
 }
+public struct Entry : Swift.Equatable {
+  public enum EntryType : Swift.Int {
+    case file
+    case directory
+    case symlink
+    public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  public func path(using encoding: Swift.String.Encoding) -> Swift.String
+  public var path: Swift.String {
+    get
+  }
+  public var fileAttributes: [Foundation.FileAttributeKey : Any] {
+    get
+  }
+  public var checksum: AppBoxoSDK.CRC32 {
+    get
+  }
+  public var type: AppBoxoSDK.Entry.EntryType {
+    get
+  }
+  public var isCompressed: Swift.Bool {
+    get
+  }
+  public var compressedSize: Swift.UInt64 {
+    get
+  }
+  public var uncompressedSize: Swift.UInt64 {
+    get
+  }
+  public static func == (lhs: AppBoxoSDK.Entry, rhs: AppBoxoSDK.Entry) -> Swift.Bool
+}
+extension AppBoxoSDK.Archive {
+  final public func extract(_ entry: AppBoxoSDK.Entry, to url: Foundation.URL, bufferSize: Swift.Int = defaultReadChunkSize, skipCRC32: Swift.Bool = false, allowUncontainedSymlinks: Swift.Bool = false, progress: Foundation.Progress? = nil) throws -> AppBoxoSDK.CRC32
+  final public func extract(_ entry: AppBoxoSDK.Entry, bufferSize: Swift.Int = defaultReadChunkSize, skipCRC32: Swift.Bool = false, progress: Foundation.Progress? = nil, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+}
+extension AppBoxoSDK.Archive {
+  final public var data: Foundation.Data? {
+    get
+  }
+}
+extension AppBoxoSDK.Archive {
+  final public func totalUnitCountForRemoving(_ entry: AppBoxoSDK.Entry) -> Swift.Int64
+  final public func totalUnitCountForReading(_ entry: AppBoxoSDK.Entry) -> Swift.Int64
+  final public func totalUnitCountForAddingItem(at url: Foundation.URL) -> Swift.Int64
+}
+extension AppBoxoSDK.Archive {
+  @available(*, deprecated, message: "Please use `Int` for `bufferSize`.")
+  final public func addEntry(with path: Swift.String, relativeTo baseURL: Foundation.URL, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.UInt32, progress: Foundation.Progress? = nil) throws
+  @available(*, deprecated, message: "Please use `Int` for `bufferSize`.")
+  final public func addEntry(with path: Swift.String, fileURL: Foundation.URL, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.UInt32, progress: Foundation.Progress? = nil) throws
+  @available(*, deprecated, message: "Please use `Int64` for `uncompressedSize` and provider `position`. `Int` for `bufferSize`.")
+  final public func addEntry(with path: Swift.String, type: AppBoxoSDK.Entry.EntryType, uncompressedSize: Swift.UInt32, modificationDate: Foundation.Date = Date(), permissions: Swift.UInt16? = nil, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.Int = defaultWriteChunkSize, progress: Foundation.Progress? = nil, provider: (_ position: Swift.Int, _ size: Swift.Int) throws -> Foundation.Data) throws
+  @available(*, deprecated, message: "Please use `Int` for `bufferSize`.")
+  final public func remove(_ entry: AppBoxoSDK.Entry, bufferSize: Swift.UInt32, progress: Foundation.Progress? = nil) throws
+}
+public enum CompressionMethod : Swift.UInt16 {
+  case none
+  case deflate
+  public init?(rawValue: Swift.UInt16)
+  public typealias RawValue = Swift.UInt16
+  public var rawValue: Swift.UInt16 {
+    get
+  }
+}
+public typealias CRC32 = Swift.UInt32
+public typealias Consumer = (_ data: Foundation.Data) throws -> Swift.Void
+public typealias Provider = (_ position: Swift.Int64, _ size: Swift.Int) throws -> Foundation.Data
+extension Foundation.Data {
+  public func crc32(checksum: AppBoxoSDK.CRC32) -> AppBoxoSDK.CRC32
+  public static func compress(size: Swift.Int64, bufferSize: Swift.Int, provider: (_ position: Swift.Int64, _ size: Swift.Int) throws -> Foundation.Data, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+  public static func decompress(size: Swift.Int64, bufferSize: Swift.Int, skipCRC32: Swift.Bool, provider: (_ position: Swift.Int64, _ size: Swift.Int) throws -> Foundation.Data, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+}
+extension AppBoxoSDK.Archive {
+  @available(*, deprecated, message: "Please use `Int` for `bufferSize`.")
+  final public func extract(_ entry: AppBoxoSDK.Entry, to url: Foundation.URL, bufferSize: Swift.UInt32, skipCRC32: Swift.Bool = false, progress: Foundation.Progress? = nil) throws -> AppBoxoSDK.CRC32
+  @available(*, deprecated, message: "Please use `Int` for `bufferSize`.")
+  final public func extract(_ entry: AppBoxoSDK.Entry, bufferSize: Swift.UInt32, skipCRC32: Swift.Bool = false, progress: Foundation.Progress? = nil, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+}
+extension AppBoxoSDK.Archive {
+  final public func addEntry(with path: Swift.String, relativeTo baseURL: Foundation.URL, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.Int = defaultWriteChunkSize, progress: Foundation.Progress? = nil) throws
+  final public func addEntry(with path: Swift.String, fileURL: Foundation.URL, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.Int = defaultWriteChunkSize, progress: Foundation.Progress? = nil) throws
+  final public func addEntry(with path: Swift.String, type: AppBoxoSDK.Entry.EntryType, uncompressedSize: Swift.Int64, modificationDate: Foundation.Date = Date(), permissions: Swift.UInt16? = nil, compressionMethod: AppBoxoSDK.CompressionMethod = .none, bufferSize: Swift.Int = defaultWriteChunkSize, progress: Foundation.Progress? = nil, provider: (_ position: Swift.Int64, _ size: Swift.Int) throws -> Foundation.Data) throws
+  final public func remove(_ entry: AppBoxoSDK.Entry, bufferSize: Swift.Int = defaultReadChunkSize, progress: Foundation.Progress? = nil) throws
+}
+extension Foundation.FileManager {
+  public func zipItem(at sourceURL: Foundation.URL, to destinationURL: Foundation.URL, shouldKeepParent: Swift.Bool = true, compressionMethod: AppBoxoSDK.CompressionMethod = .none, progress: Foundation.Progress? = nil) throws
+  public func unzipItem(at sourceURL: Foundation.URL, to destinationURL: Foundation.URL, skipCRC32: Swift.Bool = false, allowUncontainedSymlinks: Swift.Bool = false, progress: Foundation.Progress? = nil, pathEncoding: Swift.String.Encoding? = nil) throws
+}
+extension Foundation.URL {
+  public func isContained(in parentDirectoryURL: Foundation.URL) -> Swift.Bool
+}
+public typealias FILEPointer = Swift.UnsafeMutablePointer<Darwin.FILE>
+extension Foundation.Data {
+  public enum DataError : Swift.Error {
+    case unreadableFile
+    case unwritableFile
+    public static func == (a: Foundation.Data.DataError, b: Foundation.Data.DataError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+public let defaultReadChunkSize: Swift.Int
+public let defaultWriteChunkSize: Swift.Int
+public let defaultFilePermissions: Swift.UInt16
+public let defaultDirectoryPermissions: Swift.UInt16
+final public class Archive : Swift.Sequence {
+  public enum ArchiveError : Swift.Error {
+    case unreadableArchive
+    case unwritableArchive
+    case invalidEntryPath
+    case invalidCompressionMethod
+    case invalidCRC32
+    case cancelledOperation
+    case invalidBufferSize
+    case invalidEntrySize
+    case invalidLocalHeaderDataOffset
+    case invalidLocalHeaderSize
+    case invalidCentralDirectoryOffset
+    case invalidCentralDirectorySize
+    case invalidCentralDirectoryEntryCount
+    case missingEndOfCentralDirectoryRecord
+    case uncontainedSymlink
+    public static func == (a: AppBoxoSDK.Archive.ArchiveError, b: AppBoxoSDK.Archive.ArchiveError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum AccessMode : Swift.UInt {
+    case create
+    case read
+    case update
+    public init?(rawValue: Swift.UInt)
+    public typealias RawValue = Swift.UInt
+    public var rawValue: Swift.UInt {
+      get
+    }
+  }
+  final public let url: Foundation.URL
+  final public let accessMode: AppBoxoSDK.Archive.AccessMode
+  public init(url: Foundation.URL, accessMode mode: AppBoxoSDK.Archive.AccessMode, pathEncoding: Swift.String.Encoding? = nil) throws
+  public init(data: Foundation.Data = Data(), accessMode mode: AppBoxoSDK.Archive.AccessMode, pathEncoding: Swift.String.Encoding? = nil) throws
+  @objc deinit
+  final public func makeIterator() -> Swift.AnyIterator<AppBoxoSDK.Entry>
+  final public subscript(path: Swift.String) -> AppBoxoSDK.Entry? {
+    get
+  }
+  public typealias Element = AppBoxoSDK.Entry
+  public typealias Iterator = Swift.AnyIterator<AppBoxoSDK.Entry>
+}
+extension Foundation.Data {
+  @available(*, deprecated, message: "Please use `Int64` for `size` and provider `position`.")
+  public static func compress(size: Swift.Int, bufferSize: Swift.Int, provider: (_ position: Swift.Int, _ size: Swift.Int) throws -> Foundation.Data, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+  @available(*, deprecated, message: "Please use `Int64` for `size` and provider `position`.")
+  public static func decompress(size: Swift.Int, bufferSize: Swift.Int, skipCRC32: Swift.Bool, provider: (_ position: Swift.Int, _ size: Swift.Int) throws -> Foundation.Data, consumer: (_ data: Foundation.Data) throws -> Swift.Void) throws -> AppBoxoSDK.CRC32
+}
+extension AppBoxoSDK.Archive {
+  @available(*, deprecated, message: "Please use the throwing initializer.")
+  convenience public init?(url: Foundation.URL, accessMode mode: AppBoxoSDK.Archive.AccessMode, preferredEncoding: Swift.String.Encoding? = nil)
+  @available(*, deprecated, message: "Please use the throwing initializer.")
+  convenience public init?(data: Foundation.Data = Data(), accessMode mode: AppBoxoSDK.Archive.AccessMode, preferredEncoding: Swift.String.Encoding? = nil)
+}
+extension Foundation.FileManager {
+  @available(*, deprecated, renamed: "unzipItem(at:to:skipCRC32:progress:pathEncoding:)")
+  public func unzipItem(at sourceURL: Foundation.URL, to destinationURL: Foundation.URL, skipCRC32: Swift.Bool = false, progress: Foundation.Progress? = nil, preferredEncoding: Swift.String.Encoding?) throws
+}
 @_inheritsConvenienceInitializers @objc(MiniappConfig) public class MiniappConfig : ObjectiveC.NSObject {
   @objc public var saveState: Swift.Bool
   @objc public var urlSuffix: Swift.String
@@ -145,3 +323,16 @@ import _SwiftConcurrencyShims
 extension AppBoxoSDK.Theme : Swift.Equatable {}
 extension AppBoxoSDK.Theme : Swift.Hashable {}
 extension AppBoxoSDK.Theme : Swift.RawRepresentable {}
+extension AppBoxoSDK.Entry.EntryType : Swift.Equatable {}
+extension AppBoxoSDK.Entry.EntryType : Swift.Hashable {}
+extension AppBoxoSDK.Entry.EntryType : Swift.RawRepresentable {}
+extension AppBoxoSDK.CompressionMethod : Swift.Equatable {}
+extension AppBoxoSDK.CompressionMethod : Swift.Hashable {}
+extension AppBoxoSDK.CompressionMethod : Swift.RawRepresentable {}
+extension Foundation.Data.DataError : Swift.Equatable {}
+extension Foundation.Data.DataError : Swift.Hashable {}
+extension AppBoxoSDK.Archive.ArchiveError : Swift.Equatable {}
+extension AppBoxoSDK.Archive.ArchiveError : Swift.Hashable {}
+extension AppBoxoSDK.Archive.AccessMode : Swift.Equatable {}
+extension AppBoxoSDK.Archive.AccessMode : Swift.Hashable {}
+extension AppBoxoSDK.Archive.AccessMode : Swift.RawRepresentable {}

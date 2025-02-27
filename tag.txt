@@ -1,1 +1,1 @@
-SSO required fields
+Launch local miniapp

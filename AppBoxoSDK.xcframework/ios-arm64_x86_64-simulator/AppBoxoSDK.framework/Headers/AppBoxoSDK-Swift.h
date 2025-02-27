@@ -350,6 +350,8 @@ SWIFT_CLASS_NAMED("CustomEvent")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+
 @protocol MiniappDelegate;
 @protocol MiniappWebviewDelegate;
 @class UIViewController;
@@ -834,6 +836,8 @@ SWIFT_CLASS_NAMED("CustomEvent")
 @property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable payload;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+
 
 @protocol MiniappDelegate;
 @protocol MiniappWebviewDelegate;

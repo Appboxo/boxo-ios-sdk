@@ -350,6 +350,8 @@ SWIFT_CLASS_NAMED("CustomEvent")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+
 @protocol MiniappDelegate;
 @protocol MiniappWebviewDelegate;
 @class UIViewController;
