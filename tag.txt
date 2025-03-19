@@ -1,1 +1,1 @@
-Added close button to error page, Changed AppBoxoWebAppStorageGet response and QR code reader turn on/off flash text
+Add Pull to refresh

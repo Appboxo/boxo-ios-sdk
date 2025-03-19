@@ -277,8 +277,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import ObjectiveC;
+@import UIKit;
 @import WebKit;
 #endif
 
@@ -453,6 +455,16 @@ SWIFT_CLASS_NAMED("PaymentData")
 @property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable extraParams;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+@class NSCoder;
+
+SWIFT_CLASS("_TtC10AppBoxoSDK17PullToRefreshView")
+@interface PullToRefreshView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)willMoveToSuperview:(UIView * _Null_unspecified)newSuperview;
+@end
+
 
 typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {
   ThemeDark = 0,

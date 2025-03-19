@@ -107,6 +107,27 @@ import _SwiftConcurrencyShims
   @objc(setAuthCode:) public func setAuthCode(authCode: Swift.String)
   @objc deinit
 }
+public enum PullToRefreshViewState {
+  case loading
+  case pullToRefresh
+  case releaseToRefresh
+  public static func == (a: AppBoxoSDK.PullToRefreshViewState, b: AppBoxoSDK.PullToRefreshViewState) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol PullToRefreshViewDelegate {
+  func pullToRefreshAnimationDidStart(_ view: AppBoxoSDK.PullToRefreshView)
+  func pullToRefreshAnimationDidEnd(_ view: AppBoxoSDK.PullToRefreshView)
+  func pullToRefresh(_ view: AppBoxoSDK.PullToRefreshView, progressDidChange progress: CoreFoundation.CGFloat)
+  func pullToRefresh(_ view: AppBoxoSDK.PullToRefreshView, stateDidChange state: AppBoxoSDK.PullToRefreshViewState)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) open class PullToRefreshView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func willMove(toSuperview newSuperview: UIKit.UIView!)
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @objc(PaymentData) public class PaymentData : ObjectiveC.NSObject {
   @objc public var transactionToken: Swift.String
   @objc public var miniappOrderId: Swift.String
@@ -145,3 +166,5 @@ import _SwiftConcurrencyShims
 extension AppBoxoSDK.Theme : Swift.Equatable {}
 extension AppBoxoSDK.Theme : Swift.Hashable {}
 extension AppBoxoSDK.Theme : Swift.RawRepresentable {}
+extension AppBoxoSDK.PullToRefreshViewState : Swift.Equatable {}
+extension AppBoxoSDK.PullToRefreshViewState : Swift.Hashable {}
