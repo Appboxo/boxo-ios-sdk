@@ -1,1 +1,1 @@
-Add Pull to refresh
+Added miniapp slide in animation, fixed send session analytics and loading progress animation

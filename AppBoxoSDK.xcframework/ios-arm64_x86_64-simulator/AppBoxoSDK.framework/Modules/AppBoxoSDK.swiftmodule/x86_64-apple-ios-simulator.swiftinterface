@@ -149,9 +149,22 @@ public protocol PullToRefreshViewDelegate {
   public func encode(to encoder: any Swift.Encoder) throws
   required public init(from decoder: any Swift.Decoder) throws
 }
+@objc(PageAnimation) public enum PageAnimation : Swift.Int {
+  case LEFT_TO_RIGHT
+  case RIGHT_TO_LEFT
+  case BOTTOM_TO_TOP
+  case TOP_TO_BOTTOM
+  case FADE_IN
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 @_inheritsConvenienceInitializers @objc(MiniappConfig) public class MiniappConfig : ObjectiveC.NSObject {
   @objc public var saveState: Swift.Bool
   @objc public var urlSuffix: Swift.String
+  @objc public var pageAnimation: AppBoxoSDK.PageAnimation
   @objc(initWithTheme:) convenience public init(theme: AppBoxoSDK.Theme)
   @objc(initWithColor:) convenience public init(color: AppBoxoSDK.MiniappColor)
   @objc(initWithColor:theme:) convenience public init(color: AppBoxoSDK.MiniappColor, theme: AppBoxoSDK.Theme)
@@ -168,3 +181,6 @@ extension AppBoxoSDK.Theme : Swift.Hashable {}
 extension AppBoxoSDK.Theme : Swift.RawRepresentable {}
 extension AppBoxoSDK.PullToRefreshViewState : Swift.Equatable {}
 extension AppBoxoSDK.PullToRefreshViewState : Swift.Hashable {}
+extension AppBoxoSDK.PageAnimation : Swift.Equatable {}
+extension AppBoxoSDK.PageAnimation : Swift.Hashable {}
+extension AppBoxoSDK.PageAnimation : Swift.RawRepresentable {}

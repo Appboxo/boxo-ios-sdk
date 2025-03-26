@@ -389,12 +389,14 @@ SWIFT_CLASS_NAMED("MiniappColor")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+enum PageAnimation : NSInteger;
 @class UIImage;
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
 @property (nonatomic) BOOL saveState;
 @property (nonatomic, copy) NSString * _Nonnull urlSuffix;
+@property (nonatomic) enum PageAnimation pageAnimation;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
@@ -442,6 +444,14 @@ SWIFT_PROTOCOL_NAMED("MiniappWebViewDelegate")
 - (void)decidePolicyFor:(Miniapp * _Nonnull)miniapp navigationAction:(WKNavigationAction * _Nonnull)navigationAction decisionHandler:(void (^ _Nonnull)(WKNavigationActionPolicy))decisionHandler;
 @end
 
+
+typedef SWIFT_ENUM_NAMED(NSInteger, PageAnimation, "PageAnimation", open) {
+  PageAnimationLEFT_TO_RIGHT = 0,
+  PageAnimationRIGHT_TO_LEFT = 1,
+  PageAnimationBOTTOM_TO_TOP = 2,
+  PageAnimationTOP_TO_BOTTOM = 3,
+  PageAnimationFADE_IN = 4,
+};
 
 
 SWIFT_CLASS_NAMED("PaymentData")
@@ -886,12 +896,14 @@ SWIFT_CLASS_NAMED("MiniappColor")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+enum PageAnimation : NSInteger;
 @class UIImage;
 
 SWIFT_CLASS_NAMED("MiniappConfig")
 @interface MiniappConfig : NSObject
 @property (nonatomic) BOOL saveState;
 @property (nonatomic, copy) NSString * _Nonnull urlSuffix;
+@property (nonatomic) enum PageAnimation pageAnimation;
 - (nonnull instancetype)initWithTheme:(enum Theme)theme;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color;
 - (nonnull instancetype)initWithColor:(MiniappColor * _Nonnull)color theme:(enum Theme)theme;
@@ -939,6 +951,14 @@ SWIFT_PROTOCOL_NAMED("MiniappWebViewDelegate")
 - (void)decidePolicyFor:(Miniapp * _Nonnull)miniapp navigationAction:(WKNavigationAction * _Nonnull)navigationAction decisionHandler:(void (^ _Nonnull)(WKNavigationActionPolicy))decisionHandler;
 @end
 
+
+typedef SWIFT_ENUM_NAMED(NSInteger, PageAnimation, "PageAnimation", open) {
+  PageAnimationLEFT_TO_RIGHT = 0,
+  PageAnimationRIGHT_TO_LEFT = 1,
+  PageAnimationBOTTOM_TO_TOP = 2,
+  PageAnimationTOP_TO_BOTTOM = 3,
+  PageAnimationFADE_IN = 4,
+};
 
 
 SWIFT_CLASS_NAMED("PaymentData")
