@@ -1,1 +1,1 @@
-Added miniapp slide in animation, fixed send session analytics and loading progress animation
+Added miniapp launch animations
