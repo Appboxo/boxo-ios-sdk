@@ -1,1 +1,1 @@
-Added miniapp launch animations
+Show detailed error message only for sandbox
