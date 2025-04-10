@@ -1,1 +1,1 @@
-Show detailed error message only for sandbox
+New style_4, changed white listed urls validation and page animation duration 0.3s, fixed QR code scanner
