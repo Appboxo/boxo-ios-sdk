@@ -24,4 +24,4 @@ jobs:
     - name: Update cocoapods
       run: |
         export COCOAPODS_TRUNK_TOKEN=${{secrets.COCOAPODS_TRUNK_TOKEN}}
-        pod trunk push AppBoxoSDK.podspec --allow-warnings
+        pod trunk push BoxoSDK.podspec --allow-warnings
