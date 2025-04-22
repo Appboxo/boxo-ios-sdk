@@ -1,1 +1,1 @@
-Rename SDK from AppBoxoSDK to BoxoSDK
+Add style option to AppBoxoWebAppSetActionButton
