@@ -10109,21 +10109,21 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PageDismissAnimator.swift",
       "kind": "BooleanLiteral",
-      "offset": 777,
-      "length": 5,
-      "value": "false"
+      "offset": 832,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PageDismissAnimator.swift",
       "kind": "FloatLiteral",
-      "offset": 1775,
+      "offset": 2032,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PageDismissAnimator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1900,
+      "offset": 2157,
       "length": 4,
       "value": "true"
     },
@@ -10145,55 +10145,55 @@
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "BooleanLiteral",
       "offset": 704,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1103,
+      "offset": 1102,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1223,
+      "offset": 1222,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1345,
+      "offset": 1344,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1466,
+      "offset": 1465,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "FloatLiteral",
-      "offset": 1518,
+      "offset": 1517,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "FloatLiteral",
-      "offset": 1789,
+      "offset": 1788,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/PagePresentAnimator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1860,
+      "offset": 1859,
       "length": 4,
       "value": "true"
     },
@@ -10342,7 +10342,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.10.1\""
+      "value": "\"1.10.2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/SentryManger.swift",
