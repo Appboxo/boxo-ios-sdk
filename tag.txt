@@ -1,1 +1,1 @@
-Fix miniapp close animation
+Add dark mode logo, fix dark mode SSO
