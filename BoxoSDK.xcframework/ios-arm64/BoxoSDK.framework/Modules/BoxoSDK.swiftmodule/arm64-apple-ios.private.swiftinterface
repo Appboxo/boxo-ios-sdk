@@ -105,6 +105,7 @@ import _SwiftConcurrencyShims
   @objc(showCustomActionMenuItem) public func showCustomActionMenuItem()
   @objc(hideCustomActionMenuItem) public func hideCustomActionMenuItem()
   @objc(setAuthCode:) public func setAuthCode(authCode: Swift.String)
+  @objc(setAuthTokens:) public func setAuthTokens(_ tokens: [Swift.String : Any])
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(PaymentData) public class PaymentData : ObjectiveC.NSObject {

@@ -371,6 +371,7 @@ SWIFT_CLASS_NAMED("Miniapp")
 - (void)showCustomActionMenuItem;
 - (void)hideCustomActionMenuItem;
 - (void)setAuthCode:(NSString * _Nonnull)authCode;
+- (void)setAuthTokens:(NSDictionary<NSString *, id> * _Nonnull)tokens;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

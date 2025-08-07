@@ -1,1 +1,1 @@
-Add dark mode logo, fix dark mode SSO
+add setAuthTokens method to miniapp
