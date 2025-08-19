@@ -1,1 +1,1 @@
-add setAuthTokens method to miniapp
+Dark mode progress view, fix status bar color on dark mode
