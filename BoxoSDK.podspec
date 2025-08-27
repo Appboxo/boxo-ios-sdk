@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
     
     s.platform = :ios
-    s.ios.deployment_target = '10.0'
+    s.ios.deployment_target = '13.0'
     s.name = "BoxoSDK"
     s.summary = "Boxo allows to run any web application on the fly."
     s.requires_arc = true
