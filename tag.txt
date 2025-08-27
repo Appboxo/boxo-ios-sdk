@@ -1,1 +1,1 @@
-Get miniapp view controller, fix onPause and onClose lyfecycle events for save state
+Support min ios 13.0, add Miniapp async delegate methods

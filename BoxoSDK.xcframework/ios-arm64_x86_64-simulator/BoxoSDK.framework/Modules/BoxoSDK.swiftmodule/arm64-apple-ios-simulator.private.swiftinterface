@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BoxoSDK
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BoxoSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 @_exported import BoxoSDK
@@ -88,12 +88,35 @@ import _SwiftConcurrencyShims
   @objc(onAuthMiniapp:) optional func onAuth(miniapp: BoxoSDK.Miniapp)
   @objc(onUserInteraction:) optional func onUserInteraction(miniapp: BoxoSDK.Miniapp)
 }
+public protocol MiniappAsyncDelegate {
+  #if compiler(>=5.3) && $AsyncAwait
+  func onAuth(miniapp: BoxoSDK.Miniapp) async
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
+  #endif
+}
+extension BoxoSDK.MiniappAsyncDelegate {
+  #if compiler(>=5.3) && $AsyncAwait
+  public func onAuth(miniapp: BoxoSDK.Miniapp) async
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
+  #endif
+}
 @objc(MiniappWebviewDelegate) public protocol MiniappWebViewDelegate {
   @objc(decidePolicyFor:navigationAction:decisionHandler:) func decidePolicyFor(miniapp: BoxoSDK.Miniapp, navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
 }
 @objc(Miniapp) open class Miniapp : ObjectiveC.NSObject {
   @objc public var appId: Swift.String
   @objc public var delegate: (any BoxoSDK.MiniappDelegate)?
+  public var asyncDelegate: (any BoxoSDK.MiniappAsyncDelegate)?
   @objc public var webViewDelegate: (any BoxoSDK.MiniappWebViewDelegate)?
   @objc(initWithAppId:) required public init(appId: Swift.String)
   @objc(openWithViewController:) public func open(viewController: UIKit.UIViewController)
@@ -106,7 +129,6 @@ import _SwiftConcurrencyShims
   @objc(hideCustomActionMenuItem) public func hideCustomActionMenuItem()
   @objc(setAuthCode:) public func setAuthCode(authCode: Swift.String)
   @objc(setAuthTokens:) public func setAuthTokens(_ tokens: [Swift.String : Any])
-  @objc(getUIViewController) public func getUIViewController() -> UIKit.UIViewController?
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(PaymentData) public class PaymentData : ObjectiveC.NSObject {
