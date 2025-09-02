@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BoxoSDK
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BoxoSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import AVFoundation
 @_exported import BoxoSDK
 import CommonCrypto
@@ -60,7 +60,10 @@ import _SwiftConcurrencyShims
   @objc public var permissionsPage: Swift.Bool
   @objc public var showClearCache: Swift.Bool
   @objc public var showAboutPage: Swift.Bool
-  @objc public var language: Swift.String
+  @objc public var language: Swift.String {
+    @objc get
+    @objc set
+  }
   @objc public var miniappSettingsExpirationTime: Swift.Int
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: BoxoSDK.Theme)
@@ -89,26 +92,14 @@ import _SwiftConcurrencyShims
   @objc(onUserInteraction:) optional func onUserInteraction(miniapp: BoxoSDK.Miniapp)
 }
 public protocol MiniappAsyncDelegate {
-  #if compiler(>=5.3) && $AsyncAwait
   func onAuth(miniapp: BoxoSDK.Miniapp) async
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
-  #endif
 }
 extension BoxoSDK.MiniappAsyncDelegate {
-  #if compiler(>=5.3) && $AsyncAwait
   public func onAuth(miniapp: BoxoSDK.Miniapp) async
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
-  #endif
 }
 @objc(MiniappWebviewDelegate) public protocol MiniappWebViewDelegate {
   @objc(decidePolicyFor:navigationAction:decisionHandler:) func decidePolicyFor(miniapp: BoxoSDK.Miniapp, navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)

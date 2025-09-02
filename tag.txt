@@ -1,1 +1,1 @@
-Support min ios 13.0, add Miniapp async delegate methods
+Fix UIKit open url bug, remove all miniapp states when changing language
