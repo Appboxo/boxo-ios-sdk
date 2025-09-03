@@ -60,11 +60,14 @@ import _SwiftConcurrencyShims
   @objc public var permissionsPage: Swift.Bool
   @objc public var showClearCache: Swift.Bool
   @objc public var showAboutPage: Swift.Bool
+  @objc public var progressBarColors: BoxoSDK.ProgressBarColors?
   @objc public var language: Swift.String {
     @objc get
     @objc set
   }
   @objc public var miniappSettingsExpirationTime: Swift.Int
+  @objc public var clientId: Swift.String
+  @objc public var theme: BoxoSDK.Theme
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: BoxoSDK.Theme)
   @objc(setUserId:) public func setUserId(id: Swift.String)
@@ -142,6 +145,14 @@ extension BoxoSDK.MiniappAsyncDelegate {
   @objc deinit
   public func encode(to encoder: any Swift.Encoder) throws
   required public init(from decoder: any Swift.Decoder) throws
+}
+@objc(ProgressBarColors) public class ProgressBarColors : ObjectiveC.NSObject {
+  @objc public var lightIndicator: UIKit.UIColor
+  @objc public var lightTrack: UIKit.UIColor
+  @objc public var darkIndicator: UIKit.UIColor
+  @objc public var darkTrack: UIKit.UIColor
+  @objc(initWithLightIndicator:lightTrack:darkIndicator:darkTrack:) required public init(lightIndicator: UIKit.UIColor, lightTrack: UIKit.UIColor, darkIndicator: UIKit.UIColor, darkTrack: UIKit.UIColor)
+  @objc deinit
 }
 @objc(PageAnimation) public enum PageAnimation : Swift.Int {
   case LEFT_TO_RIGHT

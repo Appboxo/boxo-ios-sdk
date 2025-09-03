@@ -326,6 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+@class ProgressBarColors;
 enum Theme : NSInteger;
 SWIFT_CLASS_NAMED("Config")
 @interface Config : NSObject
@@ -334,8 +335,11 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
+@property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
 @property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
+@property (nonatomic, copy) NSString * _Nonnull clientId;
+@property (nonatomic) enum Theme theme;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId;
 - (nonnull instancetype)initWithClientId:(NSString * _Nonnull)clientId theme:(enum Theme)theme OBJC_DESIGNATED_INITIALIZER;
 - (void)setUserId:(NSString * _Nonnull)id;
@@ -457,6 +461,18 @@ SWIFT_CLASS_NAMED("PaymentData")
 @property (nonatomic, copy) NSString * _Nonnull hostappOrderId;
 @property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable extraParams;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIColor;
+SWIFT_CLASS_NAMED("ProgressBarColors")
+@interface ProgressBarColors : NSObject
+@property (nonatomic, strong) UIColor * _Nonnull lightIndicator;
+@property (nonatomic, strong) UIColor * _Nonnull lightTrack;
+@property (nonatomic, strong) UIColor * _Nonnull darkIndicator;
+@property (nonatomic, strong) UIColor * _Nonnull darkTrack;
+- (nonnull instancetype)initWithLightIndicator:(UIColor * _Nonnull)lightIndicator lightTrack:(UIColor * _Nonnull)lightTrack darkIndicator:(UIColor * _Nonnull)darkIndicator darkTrack:(UIColor * _Nonnull)darkTrack OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 typedef SWIFT_ENUM_NAMED(NSInteger, Theme, "Theme", open) {

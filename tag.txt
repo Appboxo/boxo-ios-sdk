@@ -1,1 +1,1 @@
-Fix UIKit open url bug, remove all miniapp states when changing language
+Add loading progressbar config
