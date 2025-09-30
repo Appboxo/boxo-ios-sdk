@@ -327,6 +327,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 @end
 
 @class ProgressBarColors;
+@class ConsentScreenConfig;
 enum Theme : NSInteger;
 SWIFT_CLASS_NAMED("Config")
 @interface Config : NSObject
@@ -336,6 +337,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
+@property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 @property (nonatomic, copy) NSString * _Nonnull clientId;
@@ -345,6 +347,16 @@ SWIFT_CLASS_NAMED("Config")
 - (void)setUserId:(NSString * _Nonnull)id;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS_NAMED("ConsentScreenConfig")
+@interface ConsentScreenConfig : NSObject
+@property (nonatomic, copy) NSString * _Nonnull title;
+@property (nonatomic, copy) NSString * _Nonnull noRequiredFieldsDescription;
+@property (nonatomic, copy) NSString * _Nonnull requiredFieldsDescription;
+@property (nonatomic, copy) NSString * _Nonnull allowButtonTitle;
+@property (nonatomic, copy) NSString * _Nonnull cancelButtonTitle;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 SWIFT_CLASS_NAMED("CustomEvent")
@@ -818,6 +830,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 @end
 
 @class ProgressBarColors;
+@class ConsentScreenConfig;
 enum Theme : NSInteger;
 SWIFT_CLASS_NAMED("Config")
 @interface Config : NSObject
@@ -827,6 +840,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
+@property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, copy) NSString * _Nonnull language;
 @property (nonatomic) NSInteger miniappSettingsExpirationTime;
 @property (nonatomic, copy) NSString * _Nonnull clientId;
@@ -836,6 +850,16 @@ SWIFT_CLASS_NAMED("Config")
 - (void)setUserId:(NSString * _Nonnull)id;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS_NAMED("ConsentScreenConfig")
+@interface ConsentScreenConfig : NSObject
+@property (nonatomic, copy) NSString * _Nonnull title;
+@property (nonatomic, copy) NSString * _Nonnull noRequiredFieldsDescription;
+@property (nonatomic, copy) NSString * _Nonnull requiredFieldsDescription;
+@property (nonatomic, copy) NSString * _Nonnull allowButtonTitle;
+@property (nonatomic, copy) NSString * _Nonnull cancelButtonTitle;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 SWIFT_CLASS_NAMED("CustomEvent")

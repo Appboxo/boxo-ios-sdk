@@ -19,6 +19,15 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @objc(ConsentScreenConfig) public class ConsentScreenConfig : ObjectiveC.NSObject {
+  @objc public var title: Swift.String
+  @objc public var noRequiredFieldsDescription: Swift.String
+  @objc public var requiredFieldsDescription: Swift.String
+  @objc public var allowButtonTitle: Swift.String
+  @objc public var cancelButtonTitle: Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
 @objc(Boxo) open class Boxo : ObjectiveC.NSObject {
   @objc public static let shared: BoxoSDK.Boxo
   @objc required public init(config: BoxoSDK.Config)
@@ -61,6 +70,7 @@ import _SwiftConcurrencyShims
   @objc public var showClearCache: Swift.Bool
   @objc public var showAboutPage: Swift.Bool
   @objc public var progressBarColors: BoxoSDK.ProgressBarColors?
+  @objc public var consentScreenConfig: BoxoSDK.ConsentScreenConfig
   @objc public var language: Swift.String {
     @objc get
     @objc set

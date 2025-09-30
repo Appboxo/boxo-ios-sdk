@@ -1,1 +1,1 @@
-Add share base64 file
+Add ConsentScreenConfig
