@@ -1,1 +1,1 @@
-Add ConsentScreenConfig
+Add open app settings and optimize location fetching

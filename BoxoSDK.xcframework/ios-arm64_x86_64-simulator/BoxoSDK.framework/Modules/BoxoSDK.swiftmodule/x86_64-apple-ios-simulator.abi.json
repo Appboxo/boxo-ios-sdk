@@ -10340,21 +10340,28 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4090,
+      "offset": 4061,
+      "length": 30,
+      "value": "\"AppBoxoWebAppOpenAppSettings\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4158,
       "length": 53,
       "value": "\"Please check your internet connection and try again\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4174,
+      "offset": 4242,
       "length": 46,
       "value": "\"Something went wrong. Please try again later\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4265,
+      "offset": 4333,
       "length": 50,
       "value": "\"Miniapp is not available. Please try again later\""
     },
@@ -10545,7 +10552,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.18.0\""
+      "value": "\"1.19.0\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -11131,49 +11138,49 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "Array",
-      "offset": 4087,
+      "offset": 4134,
       "length": 104,
       "value": "[\"facebook.com\", \"google.com\", \"twitter.com\", \"appleid.apple.com\"]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4225,
+      "offset": 4272,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "StringLiteral",
-      "offset": 4292,
+      "offset": 4339,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4510,
+      "offset": 4557,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4519,
+      "offset": 4566,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4530,
+      "offset": 4577,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4540,
+      "offset": 4587,
       "length": 1,
       "value": "0"
     },
