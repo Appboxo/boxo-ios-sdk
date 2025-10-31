@@ -1,1 +1,1 @@
-Add open app settings and optimize location fetching
+Fixed Consent screen multiline texts
