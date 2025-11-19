@@ -1,1 +1,1 @@
-Fixed Consent screen multiline texts
+Fixed memory leaks
