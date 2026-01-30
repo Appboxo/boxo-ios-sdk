@@ -326,6 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+@class UIColor;
 @class ProgressBarColors;
 @class ConsentScreenConfig;
 enum Theme : NSInteger;
@@ -336,6 +337,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
+@property (nonatomic, strong) UIColor * _Nullable splashScreenColor;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
 @property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, copy) NSString * _Nonnull language;
@@ -475,7 +477,6 @@ SWIFT_CLASS_NAMED("PaymentData")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIColor;
 SWIFT_CLASS_NAMED("ProgressBarColors")
 @interface ProgressBarColors : NSObject
 @property (nonatomic, strong) UIColor * _Nonnull lightIndicator;

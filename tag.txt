@@ -1,1 +1,1 @@
-Add style_5 for ActionButton, default value false for saveState
+Add config for splash screen color, add session_id for session events
