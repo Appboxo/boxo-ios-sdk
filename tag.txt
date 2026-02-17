@@ -1,1 +1,1 @@
-Add config for splash screen color, add session_id for session events
+Location request and Consent screen config from miniapp

@@ -28,6 +28,15 @@ import _SwiftConcurrencyShims
   @objc override dynamic public init()
   @objc deinit
 }
+@_inheritsConvenienceInitializers @objc(LocationRequestConfig) public class LocationRequestConfig : ObjectiveC.NSObject {
+  @objc public var logo: Swift.String
+  @objc public var titleText: Swift.String
+  @objc public var descriptionText: Swift.String
+  @objc public var allowButtonTitle: Swift.String
+  @objc public var skipButtonTitle: Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
 @objc(Boxo) open class Boxo : ObjectiveC.NSObject {
   @objc public static let shared: BoxoSDK.Boxo
   @objc required public init(config: BoxoSDK.Config)
@@ -72,6 +81,7 @@ import _SwiftConcurrencyShims
   @objc public var splashScreenColor: UIKit.UIColor?
   @objc public var progressBarColors: BoxoSDK.ProgressBarColors?
   @objc public var consentScreenConfig: BoxoSDK.ConsentScreenConfig
+  @objc public var locationRequestConfig: BoxoSDK.LocationRequestConfig
   @objc public var language: Swift.String {
     @objc get
     @objc set
