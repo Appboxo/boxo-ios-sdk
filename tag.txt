@@ -1,1 +1,1 @@
-Location request and Consent screen config from miniapp
+Clear local storage keys on miniapp close

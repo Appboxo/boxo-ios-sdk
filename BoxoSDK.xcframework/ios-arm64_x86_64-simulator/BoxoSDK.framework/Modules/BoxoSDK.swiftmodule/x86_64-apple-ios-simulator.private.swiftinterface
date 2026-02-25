@@ -188,6 +188,7 @@ extension BoxoSDK.MiniappAsyncDelegate {
   }
 }
 @_inheritsConvenienceInitializers @objc(MiniappConfig) public class MiniappConfig : ObjectiveC.NSObject {
+  @objc public var noCacheLocalStorageKeys: [Swift.String]
   @objc public var saveState: Swift.Bool
   @objc public var urlSuffix: Swift.String
   @objc public var pageAnimation: BoxoSDK.PageAnimation
