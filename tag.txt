@@ -1,1 +1,1 @@
-Clear local storage keys on miniapp close
+Add support for dark and light splash screen colors

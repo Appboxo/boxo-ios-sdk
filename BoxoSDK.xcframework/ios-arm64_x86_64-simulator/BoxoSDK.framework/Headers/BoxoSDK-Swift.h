@@ -326,7 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class UIColor;
+@class SplashBackgroundColors;
 @class ProgressBarColors;
 @class ConsentScreenConfig;
 @class LocationRequestConfig;
@@ -338,7 +338,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
-@property (nonatomic, strong) UIColor * _Nullable splashScreenColor;
+@property (nonatomic, strong) SplashBackgroundColors * _Nullable splashBackgroundColors;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
 @property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, strong) LocationRequestConfig * _Nonnull locationRequestConfig;
@@ -490,6 +490,7 @@ SWIFT_CLASS_NAMED("PaymentData")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIColor;
 SWIFT_CLASS_NAMED("ProgressBarColors")
 @interface ProgressBarColors : NSObject
 @property (nonatomic, strong) UIColor * _Nonnull lightIndicator;
@@ -497,6 +498,15 @@ SWIFT_CLASS_NAMED("ProgressBarColors")
 @property (nonatomic, strong) UIColor * _Nonnull darkIndicator;
 @property (nonatomic, strong) UIColor * _Nonnull darkTrack;
 - (nonnull instancetype)initWithLightIndicator:(UIColor * _Nonnull)lightIndicator lightTrack:(UIColor * _Nonnull)lightTrack darkIndicator:(UIColor * _Nonnull)darkIndicator darkTrack:(UIColor * _Nonnull)darkTrack OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS_NAMED("SplashBackgroundColors")
+@interface SplashBackgroundColors : NSObject
+@property (nonatomic, strong) UIColor * _Nonnull light;
+@property (nonatomic, strong) UIColor * _Nonnull dark;
+- (nonnull instancetype)light:(UIColor * _Nonnull)light dark:(UIColor * _Nonnull)dark OBJC_DESIGNATED_INITIALIZER SWIFT_METHOD_FAMILY(init);
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -843,7 +853,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class UIColor;
+@class SplashBackgroundColors;
 @class ProgressBarColors;
 @class ConsentScreenConfig;
 @class LocationRequestConfig;
@@ -855,7 +865,7 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL permissionsPage;
 @property (nonatomic) BOOL showClearCache;
 @property (nonatomic) BOOL showAboutPage;
-@property (nonatomic, strong) UIColor * _Nullable splashScreenColor;
+@property (nonatomic, strong) SplashBackgroundColors * _Nullable splashBackgroundColors;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
 @property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, strong) LocationRequestConfig * _Nonnull locationRequestConfig;
@@ -1007,6 +1017,7 @@ SWIFT_CLASS_NAMED("PaymentData")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIColor;
 SWIFT_CLASS_NAMED("ProgressBarColors")
 @interface ProgressBarColors : NSObject
 @property (nonatomic, strong) UIColor * _Nonnull lightIndicator;
@@ -1014,6 +1025,15 @@ SWIFT_CLASS_NAMED("ProgressBarColors")
 @property (nonatomic, strong) UIColor * _Nonnull darkIndicator;
 @property (nonatomic, strong) UIColor * _Nonnull darkTrack;
 - (nonnull instancetype)initWithLightIndicator:(UIColor * _Nonnull)lightIndicator lightTrack:(UIColor * _Nonnull)lightTrack darkIndicator:(UIColor * _Nonnull)darkIndicator darkTrack:(UIColor * _Nonnull)darkTrack OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS_NAMED("SplashBackgroundColors")
+@interface SplashBackgroundColors : NSObject
+@property (nonatomic, strong) UIColor * _Nonnull light;
+@property (nonatomic, strong) UIColor * _Nonnull dark;
+- (nonnull instancetype)light:(UIColor * _Nonnull)light dark:(UIColor * _Nonnull)dark OBJC_DESIGNATED_INITIALIZER SWIFT_METHOD_FAMILY(init);
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
