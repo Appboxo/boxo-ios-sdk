@@ -11854,7 +11854,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.25.0\""
+      "value": "\"1.26.0\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -13014,7 +13014,7 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/EnableLocationVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 665,
+      "offset": 709,
       "length": 5,
       "value": "false"
     },
@@ -13644,21 +13644,21 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 20965,
+      "offset": 21978,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 21231,
+      "offset": 22244,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 21323,
+      "offset": 22336,
       "length": 1,
       "value": "0"
     },

@@ -1,1 +1,1 @@
-Add support for dark and light splash screen colors
+Support location request modal dark mode
