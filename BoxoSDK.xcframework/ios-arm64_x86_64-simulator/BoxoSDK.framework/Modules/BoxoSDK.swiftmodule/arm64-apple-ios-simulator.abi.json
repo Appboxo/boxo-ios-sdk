@@ -3766,6 +3766,123 @@
           },
           {
             "kind": "Var",
+            "name": "progressBarLottieAssets",
+            "printedName": "progressBarLottieAssets",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BoxoSDK.ProgressBarLottieAssets?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProgressBarLottieAssets",
+                    "printedName": "BoxoSDK.ProgressBarLottieAssets",
+                    "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)Config(py)progressBarLottieAssets",
+            "mangledName": "$s7BoxoSDK6ConfigC23progressBarLottieAssetsAA08ProgressefG0CSgvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BoxoSDK.ProgressBarLottieAssets?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProgressBarLottieAssets",
+                        "printedName": "BoxoSDK.ProgressBarLottieAssets",
+                        "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)Config(im)progressBarLottieAssets",
+                "mangledName": "$s7BoxoSDK6ConfigC23progressBarLottieAssetsAA08ProgressefG0CSgvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BoxoSDK.ProgressBarLottieAssets?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProgressBarLottieAssets",
+                        "printedName": "BoxoSDK.ProgressBarLottieAssets",
+                        "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)Config(im)setProgressBarLottieAssets:",
+                "mangledName": "$s7BoxoSDK6ConfigC23progressBarLottieAssetsAA08ProgressefG0CSgvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK6ConfigC23progressBarLottieAssetsAA08ProgressefG0CSgvM",
+                "mangledName": "$s7BoxoSDK6ConfigC23progressBarLottieAssetsAA08ProgressefG0CSgvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "consentScreenConfig",
             "printedName": "consentScreenConfig",
             "children": [
@@ -4538,6 +4655,597 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BoxoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoxoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ProgressBarLottieAssets",
+        "printedName": "ProgressBarLottieAssets",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "defaultSize",
+            "printedName": "defaultSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(cpy)defaultSize",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC11defaultSizeSdvpZ",
+            "moduleName": "BoxoSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(cm)defaultSize",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC11defaultSizeSdvgZ",
+                "moduleName": "BoxoSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "lightAssetPath",
+            "printedName": "lightAssetPath",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(py)lightAssetPath",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPathSSvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)lightAssetPath",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPathSSvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)setLightAssetPath:",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPathSSvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPathSSvM",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPathSSvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "darkAssetPath",
+            "printedName": "darkAssetPath",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(py)darkAssetPath",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC13darkAssetPathSSvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)darkAssetPath",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC13darkAssetPathSSvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)setDarkAssetPath:",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC13darkAssetPathSSvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK23ProgressBarLottieAssetsC13darkAssetPathSSvM",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC13darkAssetPathSSvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "width",
+            "printedName": "width",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(py)width",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC5widthSdvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)width",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC5widthSdvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)setWidth:",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC5widthSdvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK23ProgressBarLottieAssetsC5widthSdvM",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC5widthSdvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "height",
+            "printedName": "height",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(py)height",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC6heightSdvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)height",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC6heightSdvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)setHeight:",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC6heightSdvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK23ProgressBarLottieAssetsC6heightSdvM",
+                "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC6heightSdvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(lightAssetPath:darkAssetPath:width:height:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProgressBarLottieAssets",
+                "printedName": "BoxoSDK.ProgressBarLottieAssets",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)initWithLightAssetPath:darkAssetPath:width:height:",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC14lightAssetPath04darkhI05width6heightACSS_SSS2dtcfc",
+            "moduleName": "BoxoSDK",
+            "objc_name": "initWithLightAssetPath:darkAssetPath:width:height:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProgressBarLottieAssets",
+                "printedName": "BoxoSDK.ProgressBarLottieAssets",
+                "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets(im)init",
+            "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsCACycfc",
+            "moduleName": "BoxoSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@BoxoSDK@objc(cs)ProgressBarLottieAssets",
+        "mangledName": "$s7BoxoSDK23ProgressBarLottieAssetsC",
+        "moduleName": "BoxoSDK",
+        "objc_name": "ProgressBarLottieAssets",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -9538,6 +10246,13 @@
       },
       {
         "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "BoxoSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -11824,28 +12539,28 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/Config.swift",
       "kind": "StringLiteral",
-      "offset": 789,
+      "offset": 861,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/Config.swift",
       "kind": "IntegerLiteral",
-      "offset": 1050,
+      "offset": 1122,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/Config.swift",
       "kind": "StringLiteral",
-      "offset": 1070,
+      "offset": 1142,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/Config.swift",
       "kind": "StringLiteral",
-      "offset": 1105,
+      "offset": 1177,
       "length": 2,
       "value": "\"\""
     },
@@ -11854,7 +12569,14 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.26.1\""
+      "value": "\"1.27.0\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/ProgressBarLottieAssets.swift",
+      "kind": "FloatLiteral",
+      "offset": 250,
+      "length": 4,
+      "value": "80.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -12268,6 +12990,13 @@
       "offset": 14052,
       "length": 3,
       "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/LineProgressView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 163,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/bottompopup\/BottomPopupDismissInteractionController.swift",
@@ -12727,63 +13456,56 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4625,
+      "offset": 4599,
       "length": 16,
       "value": "\"dark_mode_logo\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4672,
+      "offset": 4646,
       "length": 17,
       "value": "\"required_fields\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4721,
+      "offset": 4695,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 4761,
-      "length": 13,
-      "value": "\"is_shopboxo\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
-      "kind": "StringLiteral",
-      "offset": 4809,
+      "offset": 4743,
       "length": 22,
       "value": "\"maintenance_page_url\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 4877,
+      "offset": 4811,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 5817,
+      "offset": 5718,
       "length": 20,
       "value": "\"is_consent_enabled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 5865,
+      "offset": 5766,
       "length": 14,
       "value": "\"consent_text\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/MiniAppSettings.swift",
       "kind": "StringLiteral",
-      "offset": 5905,
+      "offset": 5806,
       "length": 12,
       "value": "\"menu_style\""
     },
@@ -13035,371 +13757,385 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 776,
+      "offset": 790,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 898,
+      "offset": 912,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 924,
+      "offset": 938,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2483,
+      "offset": 2497,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2489,
+      "offset": 2503,
       "length": 3,
       "value": "-68"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2532,
+      "offset": 2546,
       "length": 2,
       "value": "68"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2937,
+      "offset": 2951,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2972,
+      "offset": 2986,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3115,
+      "offset": 3129,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3353,
+      "offset": 3367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3390,
+      "offset": 3404,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3743,
+      "offset": 3757,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3749,
+      "offset": 3763,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3759,
+      "offset": 3773,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3771,
+      "offset": 3785,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4205,
+      "offset": 4219,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4290,
+      "offset": 4304,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4341,
+      "offset": 4355,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4939,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 5151,
+      "offset": 5268,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5290,
+      "offset": 5407,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5439,
+      "offset": 5556,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5445,
+      "offset": 5562,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5455,
+      "offset": 5572,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5468,
+      "offset": 5585,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5537,
+      "offset": 5654,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5585,
+      "offset": 5702,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5624,
+      "offset": 5741,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5863,
+      "offset": 6211,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6458,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5909,
+      "offset": 6504,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6088,
+      "offset": 6767,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 6132,
+      "offset": 6811,
       "length": 23,
       "value": "\"appboxo_ic_powered_by\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6356,
+      "offset": 7035,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6552,
+      "offset": 7231,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6621,
+      "offset": 7300,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6741,
+      "offset": 7420,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6988,
+      "offset": 7667,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7056,
+      "offset": 7735,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 7332,
+      "offset": 8011,
       "length": 4,
       "value": "17.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7387,
+      "offset": 8066,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7447,
+      "offset": 8126,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 7617,
+      "offset": 8296,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7685,
+      "offset": 8364,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7691,
+      "offset": 8370,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7701,
+      "offset": 8380,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7713,
+      "offset": 8392,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7883,
+      "offset": 8562,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7947,
+      "offset": 8626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8119,
+      "offset": 8798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8151,
+      "offset": 8830,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17974,
+      "offset": 18507,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 34646,
+      "offset": 36720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 34672,
+      "offset": 36746,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 37012,
+      "offset": 39086,
       "length": 4,
       "value": "true"
     },

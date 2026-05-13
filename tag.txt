@@ -1,1 +1,1 @@
-Fix miniapp save state behavior
+Add Lottie animation as a miniapp loader
