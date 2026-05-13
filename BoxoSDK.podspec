@@ -20,6 +20,8 @@ Pod::Spec.new do |s|
     
     s.exclude_files = "Classes/Exclude"
     s.ios.vendored_frameworks = 'BoxoSDK.xcframework'
+
+    s.dependency "lottie-ios", ">= 4.6.0"
     
 end
 
