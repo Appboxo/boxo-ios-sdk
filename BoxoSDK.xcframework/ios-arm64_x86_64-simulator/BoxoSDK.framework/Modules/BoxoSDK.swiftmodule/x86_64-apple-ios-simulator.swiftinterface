@@ -10,7 +10,6 @@ import CoreLocation
 import CoreMotion
 import DeveloperToolsSupport
 import Foundation
-import Lottie
 import MapKit
 import SafariServices
 import Swift
