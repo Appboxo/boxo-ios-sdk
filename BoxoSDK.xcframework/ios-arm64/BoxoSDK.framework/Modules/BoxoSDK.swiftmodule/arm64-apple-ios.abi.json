@@ -12572,7 +12572,7 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.27.3\""
+      "value": "\"1.27.4\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/ProgressBarLottieAssets.swift",
