@@ -22,6 +22,10 @@ open your-project.xcworkspace
 
 more about [Boxo SDK](https://docs.boxo.io)
 
+## Dependencies
+
+Starting from version `1.27.4`, BoxoSDK uses [lottie-ios](https://github.com/airbnb/lottie-ios) version `4.6.0`.
+
 ## License
 
 Boxo is available under the MIT license. See the LICENSE file for more info.
