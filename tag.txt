@@ -1,1 +1,1 @@
-Add Lottie progress animation
+Remove cached miniapp settings on logout
