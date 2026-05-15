@@ -80,7 +80,6 @@ import _SwiftConcurrencyShims
   @objc public var showAboutPage: Swift.Bool
   @objc public var splashBackgroundColors: BoxoSDK.SplashBackgroundColors?
   @objc public var progressBarColors: BoxoSDK.ProgressBarColors?
-  @objc public var progressBarLottieAssets: BoxoSDK.ProgressBarLottieAssets?
   @objc public var consentScreenConfig: BoxoSDK.ConsentScreenConfig
   @objc public var locationRequestConfig: BoxoSDK.LocationRequestConfig
   @objc public var language: Swift.String {
@@ -93,15 +92,6 @@ import _SwiftConcurrencyShims
   @objc(initWithClientId:) convenience public init(clientId: Swift.String)
   @objc(initWithClientId:theme:) required public init(clientId: Swift.String, theme: BoxoSDK.Theme)
   @objc(setUserId:) public func setUserId(id: Swift.String)
-  @objc deinit
-}
-@objc(ProgressBarLottieAssets) public class ProgressBarLottieAssets : ObjectiveC.NSObject {
-  @objc public static let defaultSize: Swift.Double
-  @objc public var lightAssetPath: Swift.String
-  @objc public var darkAssetPath: Swift.String
-  @objc public var width: Swift.Double
-  @objc public var height: Swift.Double
-  @objc(initWithLightAssetPath:darkAssetPath:width:height:) public init(lightAssetPath: Swift.String, darkAssetPath: Swift.String, width: Swift.Double = ProgressBarLottieAssets.defaultSize, height: Swift.Double = ProgressBarLottieAssets.defaultSize)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(CustomEvent) public class CustomEvent : ObjectiveC.NSObject {

@@ -328,7 +328,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Boxo * _Nonn
 
 @class SplashBackgroundColors;
 @class ProgressBarColors;
-@class ProgressBarLottieAssets;
 @class ConsentScreenConfig;
 @class LocationRequestConfig;
 enum Theme : NSInteger;
@@ -341,7 +340,6 @@ SWIFT_CLASS_NAMED("Config")
 @property (nonatomic) BOOL showAboutPage;
 @property (nonatomic, strong) SplashBackgroundColors * _Nullable splashBackgroundColors;
 @property (nonatomic, strong) ProgressBarColors * _Nullable progressBarColors;
-@property (nonatomic, strong) ProgressBarLottieAssets * _Nullable progressBarLottieAssets;
 @property (nonatomic, strong) ConsentScreenConfig * _Nonnull consentScreenConfig;
 @property (nonatomic, strong) LocationRequestConfig * _Nonnull locationRequestConfig;
 @property (nonatomic, copy) NSString * _Nonnull language;
@@ -500,19 +498,6 @@ SWIFT_CLASS_NAMED("ProgressBarColors")
 @property (nonatomic, strong) UIColor * _Nonnull darkIndicator;
 @property (nonatomic, strong) UIColor * _Nonnull darkTrack;
 - (nonnull instancetype)initWithLightIndicator:(UIColor * _Nonnull)lightIndicator lightTrack:(UIColor * _Nonnull)lightTrack darkIndicator:(UIColor * _Nonnull)darkIndicator darkTrack:(UIColor * _Nonnull)darkTrack OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-SWIFT_CLASS_NAMED("ProgressBarLottieAssets")
-@interface ProgressBarLottieAssets : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) double defaultSize;)
-+ (double)defaultSize SWIFT_WARN_UNUSED_RESULT;
-@property (nonatomic, copy) NSString * _Nonnull lightAssetPath;
-@property (nonatomic, copy) NSString * _Nonnull darkAssetPath;
-@property (nonatomic) double width;
-@property (nonatomic) double height;
-- (nonnull instancetype)initWithLightAssetPath:(NSString * _Nonnull)lightAssetPath darkAssetPath:(NSString * _Nonnull)darkAssetPath width:(double)width height:(double)height OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

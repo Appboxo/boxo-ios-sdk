@@ -1,1 +1,1 @@
-Fix SPM and cocoapods xcframework
+Add Lottie progress animation
