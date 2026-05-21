@@ -1,1 +1,1 @@
-Remove cached miniapp settings on logout
+Fixed bundle for local SPM
