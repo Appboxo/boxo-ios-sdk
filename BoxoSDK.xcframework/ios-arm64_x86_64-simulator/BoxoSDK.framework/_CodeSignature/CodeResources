@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/BoxoSDK-Swift.h</key>
 		<data>
-		xJANI5j2yKxZ0rN4Z5Ry2FEu0No=
+		El/744x+bhiL2Bqry2UpAHWcx18=
 		</data>
 		<key>Headers/BoxoSDK.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YzXHKdWSb5t+z5/nvHBwbyfbM4M=
+		UxLmqj+kIiaZEWMkv7Y3dxH7W7I=
 		</data>
 		<key>LoadingIndicatorView.nib</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		bh1JsLg7q0GtUaXH6iCgAuI8p14=
+		hwo33sJN5dLjew8h1nHh6sXFibU=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		oz5w1mxVBTzlSo05vPLDyUj3rQ0=
+		ehAUwfQFqIp2sFUV5JaTkpCDBLg=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oz5w1mxVBTzlSo05vPLDyUj3rQ0=
+		ehAUwfQFqIp2sFUV5JaTkpCDBLg=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nzHw54UWvsugqs8MEIKBf09uOP4=
+		AtGykrnfETiCn75ynBBf2bNMEGM=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bh1JsLg7q0GtUaXH6iCgAuI8p14=
+		hwo33sJN5dLjew8h1nHh6sXFibU=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		i8Og1ttN8r0LJHYNzcMqqXOBdN8=
+		H5uHpy03cRkMZ+3TF/F0xoMz/os=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		i8Og1ttN8r0LJHYNzcMqqXOBdN8=
+		H5uHpy03cRkMZ+3TF/F0xoMz/os=
 		</data>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9gsgHaKod8zwOk3hQx+zDYwfKgU=
+		zzEkbmeJ8Kkm8oi2H4QUyJNeFgE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			in6ODfoQj4+sE5Vp4aoRw7/qj8OX1hOG9X3sqmtvpA4=
+			piW9/QpmInMBCSirhIMHHOgnKshvvk6UCW+ZzhgNJb8=
 			</data>
 		</dict>
 		<key>Headers/BoxoSDK.h</key>
@@ -305,14 +305,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jmips5uGrLZ6MZhEXdqHZ4RANAudAhchHSUAeAmeV0M=
+			FFq/dTtsllt428JI/ZRyPIakAjMoYY6V2lkx3kg3HMM=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U4suvOzhj2ONKch5H6fT5fe0Kf73kzBFMHEcy7nn7PA=
+			dTb41vWRzlNeAe2V8J3AUL0cn41y1ZYkMv8OWofJzfk=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -326,28 +326,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U4suvOzhj2ONKch5H6fT5fe0Kf73kzBFMHEcy7nn7PA=
+			dTb41vWRzlNeAe2V8J3AUL0cn41y1ZYkMv8OWofJzfk=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oRfXy1W5eAd4/k/g8CMTwNVomxSODswvHJnIB6nwM5M=
+			Xv9J0AVAEWB/5adMCAwZsUIwvygFsda7LkeOEndV9TI=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jmips5uGrLZ6MZhEXdqHZ4RANAudAhchHSUAeAmeV0M=
+			FFq/dTtsllt428JI/ZRyPIakAjMoYY6V2lkx3kg3HMM=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kw+uCsTYJlaWiyXqmZMuCj+gmypRgqAT6v/kPE2h6TE=
+			qAQgOsCAhFQhptB66yAwTWzdcvHLsCQkack7ppMUmGE=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -361,14 +361,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kw+uCsTYJlaWiyXqmZMuCj+gmypRgqAT6v/kPE2h6TE=
+			qAQgOsCAhFQhptB66yAwTWzdcvHLsCQkack7ppMUmGE=
 			</data>
 		</dict>
 		<key>Modules/BoxoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wzDVjSmRf1Dg1hWqam6aaXIdrjvQT/Kq/kEPYgHyY/Y=
+			qSIPkOuDBP2s0KYjJG0+0fPjfZahLvNO+7jWCxZpxEo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
