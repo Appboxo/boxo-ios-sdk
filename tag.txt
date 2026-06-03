@@ -1,1 +1,1 @@
-Add orderPaymentId to PaymentData
+fix: use transactionToken from old JSSDK as a orderPaymentId
