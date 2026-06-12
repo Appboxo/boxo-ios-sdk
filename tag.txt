@@ -1,1 +1,1 @@
-fix: use transactionToken from old JSSDK as a orderPaymentId
+feat: Pass miniapp requiredFields to MiniappDelegate.onAuth and expand settings metadata.
