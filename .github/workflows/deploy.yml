@@ -16,12 +16,30 @@ jobs:
         git config --global url."https://${{ secrets.token }}:@github.com/".insteadOf "https://github.com/"
     - name: Set git tag
       run: |
-        git tag `cat version.txt` -m "`cat tag.txt`"
-        git push --tags
+        VERSION=`cat version.txt`
+        if git ls-remote --exit-code --tags origin "refs/tags/$VERSION" >/dev/null; then
+          echo "Tag $VERSION already exists on origin, skipping"
+        else
+          git tag "$VERSION" -m "`cat tag.txt`"
+          git push --tags
+        fi
     - uses: maxim-lobanov/setup-xcode@v1
       with:
         xcode-version: '26.6.0'
     - name: Update cocoapods
       run: |
         export COCOAPODS_TRUNK_TOKEN=${{secrets.COCOAPODS_TRUNK_TOKEN}}
-        pod trunk push BoxoSDK.podspec --allow-warnings
+        VERSION=`cat version.txt`
+        for attempt in 1 2 3; do
+          if curl -sf "https://trunk.cocoapods.org/api/v1/pods/BoxoSDK" | grep -q "\"name\":\"$VERSION\""; then
+            echo "BoxoSDK $VERSION is already published on trunk"
+            exit 0
+          fi
+          echo "Trunk push attempt $attempt"
+          if pod trunk push BoxoSDK.podspec --allow-warnings; then
+            exit 0
+          fi
+          sleep 60
+        done
+        echo "Trunk push failed after 3 attempts"
+        exit 1
