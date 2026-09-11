@@ -1,1 +1,1 @@
-feat: Pass miniapp requiredFields to MiniappDelegate.onAuth and expand settings metadata.
+fix: Webview default background color
