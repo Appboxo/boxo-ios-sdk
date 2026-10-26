@@ -1,1 +1,11 @@
-fix: Webview default background color
+feat: iPhone Duo support, deprecated JS methods removed
+
+Deprecated JS methods (no longer handled by SDK):
+- AppBoxoWebAppShowImages
+- AppBoxoWebAppOpenLocation
+- AppBoxoWebAppChooseLocation
+- AppBoxoWebAppOpenQRCodeReader (events AppBoxoWebAppOpenQRCodeReaderResult, AppBoxoWebAppOpenQRCodeReaderFailed)
+- AppBoxoWebAppSetNavigationBar
+- AppBoxoWebAppSetTabBar
+- AppBoxoWebAppShowTabBar
+- AppBoxoWebAppHideTabBar (event AppBoxoWebAppTabBarItemClick)

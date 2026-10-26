@@ -4541,6 +4541,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoxoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -5104,16 +5114,6 @@
             "usr": "s:SH",
             "mangledName": "$sSH"
           }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
         ]
       },
       {
@@ -6902,30 +6902,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -7048,26 +7024,6 @@
         "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -9094,60 +9050,6 @@
       },
       {
         "kind": "Import",
-        "name": "MapKit",
-        "printedName": "MapKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapKit",
-        "printedName": "MapKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -10930,36 +10832,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreMotion",
         "printedName": "CoreMotion",
         "declKind": "Import",
@@ -11028,20 +10900,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "BoxoSDK"
-      },
-      {
-        "kind": "Import",
         "name": "DeveloperToolsSupport",
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
@@ -11096,63 +10954,63 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 592,
+      "offset": 577,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 661,
+      "offset": 646,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "StringLiteral",
-      "offset": 844,
+      "offset": 829,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 912,
+      "offset": 897,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 918,
+      "offset": 903,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 928,
+      "offset": 913,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 940,
+      "offset": 925,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1110,
+      "offset": 1095,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1209,
+      "offset": 1194,
       "length": 5,
       "value": "false"
     },
@@ -11278,609 +11136,399 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 377,
-      "length": 3,
-      "value": "247"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 381,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 393,
-      "length": 3,
-      "value": "247"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 397,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 408,
-      "length": 3,
-      "value": "247"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 412,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 424,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 477,
-      "length": 2,
-      "value": "39"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 480,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 492,
-      "length": 3,
-      "value": "181"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 496,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 507,
-      "length": 3,
-      "value": "216"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 511,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 523,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 578,
-      "length": 3,
-      "value": "166"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 582,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 594,
-      "length": 3,
-      "value": "166"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 598,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 609,
-      "length": 3,
-      "value": "166"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 613,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 625,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 679,
+      "offset": 382,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 682,
+      "offset": 385,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 694,
+      "offset": 397,
       "length": 2,
       "value": "43"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 697,
+      "offset": 400,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 708,
+      "offset": 411,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 711,
+      "offset": 414,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 723,
+      "offset": 426,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 779,
+      "offset": 482,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 782,
+      "offset": 485,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 794,
+      "offset": 497,
       "length": 2,
       "value": "68"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 797,
+      "offset": 500,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 808,
+      "offset": 511,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 811,
+      "offset": 514,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 823,
+      "offset": 526,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 860,
+      "offset": 563,
       "length": 12,
       "value": "\"AppBoxoSDK\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 913,
+      "offset": 616,
       "length": 20,
       "value": "\"AppBoxoSDKStorage_\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 986,
+      "offset": 689,
       "length": 26,
       "value": "\"AppBoxoWebAppGetInitData\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1046,
+      "offset": 749,
       "length": 19,
       "value": "\"AppBoxoWebAppInit\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1103,
+      "offset": 806,
       "length": 26,
       "value": "\"AppBoxoWebAppOpenMiniApp\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1167,
+      "offset": 870,
       "length": 26,
       "value": "\"AppBoxoWebAppCustomEvent\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1232,
+      "offset": 935,
       "length": 27,
       "value": "\"AppBoxoWebAppCloseMiniApp\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1304,
+      "offset": 1007,
       "length": 33,
       "value": "\"AppBoxoWebAppGetMiniappSettings\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1377,
+      "offset": 1080,
       "length": 28,
       "value": "\"AppBoxoWebAppGetSystemInfo\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1437,
+      "offset": 1140,
       "length": 20,
       "value": "\"AppBoxoWebAppLogin\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1490,
+      "offset": 1193,
       "length": 21,
       "value": "\"AppBoxoWebAppLogout\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1547,
+      "offset": 1250,
       "length": 18,
       "value": "\"AppBoxoWebAppPay\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1609,
+      "offset": 1312,
       "length": 32,
       "value": "\"AppBoxoWebAppSetStatusBarColor\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1677,
-      "length": 24,
-      "value": "\"AppBoxoWebAppSetTabBar\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1738,
-      "length": 25,
-      "value": "\"AppBoxoWebAppShowTabBar\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1800,
-      "length": 25,
-      "value": "\"AppBoxoWebAppHideTabBar\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1867,
-      "length": 30,
-      "value": "\"AppBoxoWebAppTabBarItemClick\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1940,
-      "length": 31,
-      "value": "\"AppBoxoWebAppSetNavigationBar\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 2013,
+      "offset": 1386,
       "length": 30,
       "value": "\"AppBoxoWebAppSetActionButton\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2086,
+      "offset": 1459,
       "length": 31,
       "value": "\"AppBoxoWebAppLoadingIndicator\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2154,
-      "length": 31,
-      "value": "\"AppBoxoWebAppOpenQRCodeReader\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 2227,
+      "offset": 1532,
       "length": 30,
       "value": "\"AppBoxoWebAppShowActionSheet\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2297,
+      "offset": 1602,
       "length": 22,
       "value": "\"AppBoxoWebAppVibrate\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2364,
+      "offset": 1669,
       "length": 25,
       "value": "\"AppBoxoWebAppGetGeodata\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2425,
+      "offset": 1730,
       "length": 24,
       "value": "\"AppBoxoWebAppShowAlert\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2486,
-      "length": 25,
-      "value": "\"AppBoxoWebAppShowImages\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 2553,
+      "offset": 1796,
       "length": 25,
       "value": "\"AppBoxoWebAppStorageSet\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2621,
+      "offset": 1864,
       "length": 25,
       "value": "\"AppBoxoWebAppStorageGet\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2687,
+      "offset": 1930,
       "length": 29,
       "value": "\"AppBoxoWebAppStorageGetKeys\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2755,
+      "offset": 1998,
       "length": 27,
       "value": "\"AppBoxoWebAppStorageClear\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
+      "offset": 2070,
       "length": 28,
       "value": "\"AppBoxoWebAppStorageRemove\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2894,
+      "offset": 2137,
       "length": 27,
       "value": "\"AppBoxoWebAppSetClipboard\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2960,
+      "offset": 2203,
       "length": 27,
       "value": "\"AppBoxoWebAppGetClipboard\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3026,
-      "length": 27,
-      "value": "\"AppBoxoWebAppOpenLocation\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 3094,
-      "length": 29,
-      "value": "\"AppBoxoWebAppChooseLocation\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 3164,
+      "offset": 2271,
       "length": 29,
       "value": "\"AppBoxoWebAppStartGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3233,
+      "offset": 2340,
       "length": 28,
       "value": "\"AppBoxoWebAppStopGyroscope\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3306,
+      "offset": 2413,
       "length": 33,
       "value": "\"AppBoxoWebAppStartAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3383,
+      "offset": 2490,
       "length": 32,
       "value": "\"AppBoxoWebAppStopAccelerometer\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3454,
+      "offset": 2561,
       "length": 27,
       "value": "\"AppBoxoWebAppStartCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3519,
+      "offset": 2626,
       "length": 26,
       "value": "\"AppBoxoWebAppStopCompass\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3590,
+      "offset": 2697,
       "length": 33,
       "value": "\"AppBoxoWebAppSetBackgroundColor\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3661,
+      "offset": 2768,
       "length": 20,
       "value": "\"AppBoxoWebAppTrack\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3725,
+      "offset": 2832,
       "length": 26,
       "value": "\"AppBoxoEsimDirectInstall\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3790,
+      "offset": 2897,
       "length": 27,
       "value": "\"AppBoxoWebAppDownloadFile\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3853,
+      "offset": 2960,
       "length": 20,
       "value": "\"AppBoxoWebAppShare\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3916,
+      "offset": 3023,
       "length": 31,
       "value": "\"AppBoxoWebAppSetPullToRefresh\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3991,
+      "offset": 3098,
       "length": 32,
       "value": "\"AppBoxoWebAppStopPullToRefresh\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4061,
+      "offset": 3168,
       "length": 30,
       "value": "\"AppBoxoWebAppOpenAppSettings\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4158,
+      "offset": 3265,
       "length": 53,
       "value": "\"Please check your internet connection and try again\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4242,
+      "offset": 3349,
       "length": 46,
       "value": "\"Something went wrong. Please try again later\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4333,
+      "offset": 3440,
       "length": 50,
       "value": "\"Miniapp is not available. Please try again later\""
     },
@@ -12106,7 +11754,21 @@
       "kind": "StringLiteral",
       "offset": 274,
       "length": 8,
-      "value": "\"1.30.0\""
+      "value": "\"1.31.0\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/BoxoLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 433,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/BoxoLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 587,
+      "length": 14,
+      "value": "\"HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -12272,98 +11934,98 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 595,
+      "offset": 580,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 664,
+      "offset": 649,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "StringLiteral",
-      "offset": 847,
+      "offset": 832,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 915,
+      "offset": 900,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 921,
+      "offset": 906,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 931,
+      "offset": 916,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 943,
+      "offset": 928,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1113,
+      "offset": 1098,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1212,
+      "offset": 1197,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "StringLiteral",
-      "offset": 1356,
+      "offset": 1341,
       "length": 10,
       "value": "\"Settings\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "FloatLiteral",
-      "offset": 1524,
+      "offset": 1509,
       "length": 4,
       "value": "17.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1579,
+      "offset": 1564,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1639,
+      "offset": 1624,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2169,
+      "offset": 2307,
       "length": 5,
       "value": "false"
     },
@@ -12373,83 +12035,6 @@
       "offset": 2295,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "StringLiteral",
-      "offset": 977,
-      "length": 23,
-      "value": "\"appboxo_ic_flashlight\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1089,
-      "length": 2,
-      "value": "25"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1334,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "StringLiteral",
-      "offset": 1477,
-      "length": 22,
-      "value": "\"Tap to turn on flash\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "FloatLiteral",
-      "offset": 1661,
-      "length": 4,
-      "value": "14.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1714,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1774,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2031,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2162,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "FloatLiteral",
-      "offset": 4077,
-      "length": 4,
-      "value": "10.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/QRCodeScannerController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14022,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/BoxoStorage.swift",
@@ -12558,15 +12143,8 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9777,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 14713,
+      "offset": 13612,
       "length": 3,
       "value": "[]"
     },
@@ -12706,49 +12284,49 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "Array",
-      "offset": 4201,
+      "offset": 3766,
       "length": 104,
       "value": "[\"facebook.com\", \"google.com\", \"twitter.com\", \"appleid.apple.com\"]"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4339,
+      "offset": 3904,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "StringLiteral",
-      "offset": 4406,
+      "offset": 3971,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4634,
+      "offset": 4199,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4643,
+      "offset": 4208,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4654,
+      "offset": 4219,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/webview\/BoxoWebView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4664,
+      "offset": 4229,
       "length": 1,
       "value": "0"
     },
@@ -13075,216 +12653,6 @@
       "value": "\"menu_style\""
     },
     {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "StringLiteral",
-      "offset": 494,
-      "length": 17,
-      "value": "\"appboxo_ic_back\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 562,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 568,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 578,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 590,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 827,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1004,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1010,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1020,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1032,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "StringLiteral",
-      "offset": 1187,
-      "length": 22,
-      "value": "\"Choose this location\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1313,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1375,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "StringLiteral",
-      "offset": 1559,
-      "length": 29,
-      "value": "\"appboxo_ic_current_location\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1639,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1645,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1655,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1667,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1912,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "StringLiteral",
-      "offset": 2087,
-      "length": 23,
-      "value": "\"appboxo_ic_annotation\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2217,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2398,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SelectLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2503,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "StringLiteral",
-      "offset": 485,
-      "length": 17,
-      "value": "\"appboxo_ic_back\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 553,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 559,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 569,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 581,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 818,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppShowLocationVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1118,
-      "length": 1,
-      "value": "0"
-    },
-    {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ContextMenuTVC.swift",
       "kind": "BooleanLiteral",
       "offset": 480,
@@ -13294,441 +12662,322 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/EnableLocationVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 525,
+      "offset": 668,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/EnableLocationVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 733,
+      "offset": 876,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/SquareView.swift",
-      "kind": "FloatLiteral",
-      "offset": 212,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/SquareView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 302,
-      "length": 1,
-      "value": "4"
-    },
-    {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 946,
+      "offset": 910,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1068,
+      "offset": 1032,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1094,
+      "offset": 1058,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2653,
+      "offset": 2617,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2659,
+      "offset": 2623,
       "length": 3,
       "value": "-68"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2702,
+      "offset": 2666,
       "length": 2,
       "value": "68"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3107,
+      "offset": 3071,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3142,
+      "offset": 3106,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3285,
+      "offset": 3249,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3523,
+      "offset": 3487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3560,
+      "offset": 3524,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3913,
+      "offset": 3877,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3919,
+      "offset": 3883,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3929,
+      "offset": 3893,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3941,
+      "offset": 3905,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4375,
+      "offset": 4339,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4460,
+      "offset": 4424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4511,
+      "offset": 4475,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5095,
+      "offset": 5059,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 5424,
+      "offset": 5388,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5564,
+      "offset": 5528,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5713,
+      "offset": 5677,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5719,
+      "offset": 5683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5729,
+      "offset": 5693,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5742,
+      "offset": 5706,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5811,
+      "offset": 5775,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5859,
+      "offset": 5823,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5898,
+      "offset": 5862,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5935,
+      "offset": 5899,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6191,
+      "offset": 6155,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6268,
+      "offset": 6232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6515,
+      "offset": 6479,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6561,
+      "offset": 6525,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6593,
+      "offset": 6557,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6774,
+      "offset": 6738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 6818,
+      "offset": 6782,
       "length": 23,
       "value": "\"appboxo_ic_powered_by\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7042,
+      "offset": 7006,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 7216,
+      "offset": 7186,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7319,
+      "offset": 7292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7388,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7508,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7755,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7823,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 8099,
-      "length": 4,
-      "value": "17.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8154,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8214,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "StringLiteral",
-      "offset": 8384,
-      "length": 17,
-      "value": "\"appboxo_ic_back\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8452,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8458,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8468,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8480,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8650,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8714,
+      "offset": 7364,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8886,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8918,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18718,
+      "offset": 16631,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 37156,
+      "offset": 31676,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 37182,
+      "offset": 31702,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 39520,
+      "offset": 34040,
       "length": 4,
       "value": "true"
     },
@@ -13789,139 +13038,6 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 359,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "FloatLiteral",
-      "offset": 403,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "FloatLiteral",
-      "offset": 445,
-      "length": 4,
-      "value": "20.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 687,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 863,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 869,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 879,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 892,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 967,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ImageCollectionViewCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1009,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/BoxoTabbarSettings.swift",
-      "kind": "StringLiteral",
-      "offset": 488,
-      "length": 6,
-      "value": "\"list\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/models\/BoxoTabbarSettings.swift",
-      "kind": "StringLiteral",
-      "offset": 845,
-      "length": 7,
-      "value": "\"color\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 502,
-      "length": 4,
-      "value": "17.0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 695,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "StringLiteral",
-      "offset": 854,
-      "length": 17,
-      "value": "\"appboxo_ic_back\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1098,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1544,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1616,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ImageViewerVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1695,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/PortraitNavigationController.swift",
       "kind": "BooleanLiteral",
       "offset": 289,
@@ -13931,65 +13047,79 @@
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2904,
+      "offset": 2559,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 9089,
+      "offset": 8456,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 9355,
+      "offset": 8722,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 9394,
+      "offset": 8761,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 9433,
+      "offset": 8800,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 14369,
+      "offset": 13382,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 21995,
+      "offset": 19069,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22261,
+      "offset": 19335,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 22353,
+      "offset": 19427,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 19787,
+      "length": 28,
+      "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 19915,
+      "length": 12,
+      "value": "\"iPhone19,4\""
     },
     {
       "filePath": "\/Users\/runner\/work\/ios-sdk\/ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SSOViewController.swift",
@@ -14008,336 +13138,322 @@
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 570,
       "length": 20,
       "value": "\"appboxo_color_dark\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 808,
+      "offset": 758,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1006,
+      "offset": 978,
       "length": 40,
       "value": "\"appboxo_progress_view_background_color\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1211,
+      "offset": 1205,
       "length": 34,
       "value": "\"appboxo_progress_view_tint_color\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1398,
+      "offset": 1414,
       "length": 28,
       "value": "\"appboxo_sso_items_bg_color\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1697,
+      "offset": 1771,
       "length": 32,
       "value": "\"appboxo_ic_action_button_close\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1909,
+      "offset": 2005,
       "length": 40,
       "value": "\"appboxo_ic_action_button_close_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2129,
+      "offset": 2247,
       "length": 40,
       "value": "\"appboxo_ic_action_button_close_style_2\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2356,
+      "offset": 2496,
       "length": 44,
       "value": "\"appboxo_ic_action_button_close_style_4_ltr\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2587,
+      "offset": 2749,
       "length": 44,
       "value": "\"appboxo_ic_action_button_close_style_4_rtl\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2811,
+      "offset": 2995,
       "length": 40,
       "value": "\"appboxo_ic_action_button_close_style_5\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3028,
+      "offset": 3234,
       "length": 38,
       "value": "\"appboxo_ic_action_button_dark_center\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3239,
+      "offset": 3467,
       "length": 36,
       "value": "\"appboxo_ic_action_button_dark_left\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3450,
+      "offset": 3700,
       "length": 37,
       "value": "\"appboxo_ic_action_button_dark_right\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3666,
+      "offset": 3938,
       "length": 39,
       "value": "\"appboxo_ic_action_button_light_center\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3880,
+      "offset": 4174,
       "length": 37,
       "value": "\"appboxo_ic_action_button_light_left\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4094,
+      "offset": 4410,
       "length": 38,
       "value": "\"appboxo_ic_action_button_light_right\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4296,
+      "offset": 4634,
       "length": 31,
       "value": "\"appboxo_ic_action_button_more\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4505,
+      "offset": 4865,
       "length": 39,
       "value": "\"appboxo_ic_action_button_more_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4722,
+      "offset": 5104,
       "length": 39,
       "value": "\"appboxo_ic_action_button_more_style_2\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4911,
-      "length": 23,
-      "value": "\"appboxo_ic_annotation\""
-    },
-    {
-      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 5072,
+      "offset": 5303,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5273,
+      "offset": 5526,
       "length": 42,
       "value": "\"appboxo_ic_big_action_button_dark_center\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5495,
+      "offset": 5770,
       "length": 40,
       "value": "\"appboxo_ic_big_action_button_dark_left\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5717,
+      "offset": 6014,
       "length": 41,
       "value": "\"appboxo_ic_big_action_button_dark_right\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5944,
+      "offset": 6263,
       "length": 43,
       "value": "\"appboxo_ic_big_action_button_light_center\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6169,
+      "offset": 6510,
       "length": 41,
       "value": "\"appboxo_ic_big_action_button_light_left\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6394,
+      "offset": 6757,
       "length": 42,
       "value": "\"appboxo_ic_big_action_button_light_right\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6576,
+      "offset": 6961,
       "length": 18,
       "value": "\"appboxo_ic_close\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6749,
+      "offset": 7156,
       "length": 26,
       "value": "\"appboxo_ic_close_confirm\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6939,
+      "offset": 7368,
       "length": 31,
       "value": "\"appboxo_ic_context_menu_about\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7148,
+      "offset": 7599,
       "length": 39,
       "value": "\"appboxo_ic_context_menu_about_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7362,
+      "offset": 7835,
       "length": 37,
       "value": "\"appboxo_ic_context_menu_clear_cache\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7588,
+      "offset": 8083,
       "length": 45,
       "value": "\"appboxo_ic_context_menu_clear_cache_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7797,
+      "offset": 8314,
       "length": 31,
       "value": "\"appboxo_ic_context_menu_close\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7994,
+      "offset": 8533,
       "length": 32,
       "value": "\"appboxo_ic_context_menu_reload\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8206,
+      "offset": 8767,
       "length": 40,
       "value": "\"appboxo_ic_context_menu_reload_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8434,
+      "offset": 9017,
       "length": 44,
       "value": "\"appboxo_ic_context_menu_report_or_feedback\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8648,
+      "offset": 9253,
       "length": 34,
       "value": "\"appboxo_ic_context_menu_settings\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8866,
+      "offset": 9493,
       "length": 42,
       "value": "\"appboxo_ic_context_menu_settings_style_1\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9069,
-      "length": 29,
-      "value": "\"appboxo_ic_current_location\""
-    },
-    {
-      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 9248,
+      "offset": 9707,
       "length": 23,
       "value": "\"appboxo_ic_flashlight\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9422,
+      "offset": 9903,
       "length": 24,
       "value": "\"appboxo_ic_more_button\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9595,
+      "offset": 10098,
       "length": 23,
       "value": "\"appboxo_ic_powered_by\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9777,
+      "offset": 10302,
       "length": 28,
       "value": "\"appboxo_ic_settgins_camera\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9968,
+      "offset": 10515,
       "length": 30,
       "value": "\"appboxo_ic_settings_location\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10161,
+      "offset": 10730,
       "length": 30,
       "value": "\"appboxo_ic_settings_userinfo\""
     },
     {
       "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/BoxoApp-fidgksdqmlraydbcyhnrynijhmdn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BoxoSDK\/IntermediateBuildFilesPath\/BoxoSDK.build\/Release-iphonesimulator\/BoxoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10344,
+      "offset": 10935,
       "length": 25,
       "value": "\"ic_boxo_enable_location\""
     }
