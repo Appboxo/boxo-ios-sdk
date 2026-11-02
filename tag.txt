@@ -1,11 +1,4 @@
-feat: iPhone Duo support, deprecated JS methods removed
+feat: action button style_6
 
-Deprecated JS methods (no longer handled by SDK):
-- AppBoxoWebAppShowImages
-- AppBoxoWebAppOpenLocation
-- AppBoxoWebAppChooseLocation
-- AppBoxoWebAppOpenQRCodeReader (events AppBoxoWebAppOpenQRCodeReaderResult, AppBoxoWebAppOpenQRCodeReaderFailed)
-- AppBoxoWebAppSetNavigationBar
-- AppBoxoWebAppSetTabBar
-- AppBoxoWebAppShowTabBar
-- AppBoxoWebAppHideTabBar (event AppBoxoWebAppTabBarItemClick)
+- style_6 hides the miniapp action button
+- camera permission toggle removed from settings
