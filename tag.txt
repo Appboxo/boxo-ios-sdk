@@ -1,4 +1,3 @@
-feat: action button style_6
+feat: AppBoxoWebAppOpenUrl
 
-- style_6 hides the miniapp action button
-- camera permission toggle removed from settings
+- opens a URL passed by the miniapp
